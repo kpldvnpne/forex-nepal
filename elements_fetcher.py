@@ -46,18 +46,28 @@ async def open_bank_pages(json_file_path):
                 print(f"Opening {bank['name']} - {bank['forex_page']}")
                 await page.goto(bank['forex_page'], wait_until='domcontentloaded')
                 if 'table' in bank and bank['table'] == True:
-                  table = page.locator('css=table')
-                  if 'table_index' in bank:
-                      table = table.nth(bank['table_index'])
-                  else:
-                      table = table.nth(0)
-                  print(await table.evaluate('el => el.outerHTML'))
+                    table = page.locator('css=table')
+                    if 'table_index' in bank:
+                        table = table.nth(bank['table_index'])
+                    else:
+                        table = table.nth(0)
+                    print(await table.evaluate('el => el.outerHTML'))
                 elif 'api' in bank:
                     api = bank['api']
                     api = api.replace('yyyy-mm-dd', '')
                     response = await page.wait_for_event("response", lambda r: api in r.url, timeout=30_000)
                     json_data = await response.json()
                     print(json_data)
+                elif 'select_link' in bank:
+                    # Only made for Himalayan
+                    link = await page.query_selector('a[href^="getRate.php"]')
+                    if not link:
+                        raise Exception('Could not find link')
+                    await link.click()
+                    await page.wait_for_load_state('domcontentloaded')
+
+                    table = page.locator('css=table').nth(3)
+                    print(await table.evaluate('el => el.outerHTML'))
 
                 input()
 
