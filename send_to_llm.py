@@ -4,7 +4,7 @@ from playwright.async_api import async_playwright
 import time
 
 import pytz
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 import re
 
 from bs4 import BeautifulSoup
@@ -14,6 +14,12 @@ def get_nepali_date(offset_days=0):
     today = datetime.now(nepal_tz) - timedelta(days=offset_days)
     return today.strftime('%Y-%m-%d')
 
+def get_utc_now_iso_string() -> str:
+    """
+    Returns the current time in UTC as a standard ISO 8601 string.
+    Example output: '2023-10-27T10:30:55.123456Z'
+    """
+    return datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z')
 
 def clean_html_for_llm(html_content: str) -> str:
     attributes_to_keep = ['href', 'src', 'colspan', 'rowspan']
@@ -208,28 +214,32 @@ async def open_bank_pages(json_file_path):
                 print(prompt)
 
                 output = send_prompt_to_gemini(prompt)
+                output['bank_name'] = bank['name']
+                output['source_url'] = bank['forex_page']
+                output['fetch_datetime_utc'] = get_utc_now_iso_string()
+
                 print(json.dumps(output, indent=2))
 
                 print(f"Successfully opened {bank['name']}")
 
+                return output
+
             except Exception as e:
                 print(f"Error opening {bank['name']}: {str(e)}")
 
-            input()
-
         # Create tasks for all banks
+        outputs = []
         for bank in banks:
-          await open_page(bank)
+          output = await open_page(bank)
+          outputs.append(output)
 
-        for page in context.pages:
-          print('Waiting for document to load')
-          await page.wait_for_load_state('domcontentloaded')
+        final_data = {
+            "all_banks": outputs
+        }
 
-        while len(context.pages) != 26:
-          print(f'Not enough pages loaded. Only loaded {len(context.pages)} Waiting 1 more second ...')
-          time.sleep(1)
-
-        print(f"{len(context.pages)}, {len(context.background_pages)}")
+        utc_time = get_utc_now_iso_string()
+        with open(f'current_rate_{utc_time}.json', 'w', encoding='utf-8') as f:
+            json.dump(final_data, f, indent=4)
 
         print("Press Enter to close the browser...")
         input()  # Wait for user input before closing
