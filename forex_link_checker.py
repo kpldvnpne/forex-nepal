@@ -45,65 +45,88 @@ async def check_forex_links(json_file_path):
         successful_links = []
         failed_links = []
 
-        print("\nOpening forex links in new tabs...")
+        print("\nOpening all forex links concurrently...")
         print("=" * 50)
 
-        for i, bank in enumerate(banks, 1):
+        # Function to open a single bank's forex page
+        async def open_bank_forex(bank, index):
             bank_name = bank.get('name', 'Unknown Bank')
             bank_class = bank.get('class', 'Unknown')
             forex_url = bank.get('forex_page', '')
 
             if not forex_url:
-                print(f"{i:2d}. {bank_name} ({bank_class}) - No forex URL provided")
-                failed_links.append({'bank': bank_name, 'class': bank_class, 'reason': 'No URL'})
-                continue
+                print(f"{index:2d}. {bank_name} ({bank_class}) - No forex URL provided")
+                return {'bank': bank_name, 'class': bank_class, 'reason': 'No URL', 'status': 'failed'}
 
             try:
-                print(f"{i:2d}. Opening: {bank_name} ({bank_class})")
+                print(f"{index:2d}. Opening: {bank_name} ({bank_class})")
                 print(f"    URL: {forex_url}")
 
                 # Open link in new tab using JavaScript
                 await main_page.evaluate(f"window.open('{forex_url}', '_blank')")
 
-                # Wait for the new tab to be created
-                await asyncio.sleep(1)
+                # Wait a moment for tab creation
+                await asyncio.sleep(0.5)
 
-                # Get all pages (tabs) in the context
-                pages = context.pages
-
-                # Find the newly created tab (last one)
-                if len(pages) > i:  # We have a new tab
-                    new_tab = pages[-1]
-
-                    # Wait for the page to load
-                    try:
-                        await new_tab.wait_for_load_state('networkidle', timeout=10000)
-
-                        # Check the final URL to see if it loaded properly
-                        current_url = new_tab.url
-
-                        if current_url and not current_url.startswith('about:blank'):
-                            print(f"    Status: ✓ Loaded successfully")
-                            print(f"    Final URL: {current_url}")
-                            successful_links.append({'bank': bank_name, 'class': bank_class, 'url': forex_url, 'final_url': current_url})
-                        else:
-                            print(f"    Status: ✗ Failed to load properly")
-                            failed_links.append({'bank': bank_name, 'class': bank_class, 'url': forex_url, 'reason': 'Blank page or failed to load'})
-
-                    except Exception as tab_error:
-                        print(f"    Status: ✗ Error loading tab - {str(tab_error)}")
-                        failed_links.append({'bank': bank_name, 'class': bank_class, 'url': forex_url, 'reason': str(tab_error)})
-
-                else:
-                    print(f"    Status: ✗ Failed to create new tab")
-                    failed_links.append({'bank': bank_name, 'class': bank_class, 'url': forex_url, 'reason': 'Tab creation failed'})
-
-                # Wait a bit before opening the next link
-                await asyncio.sleep(2)
+                return {'bank': bank_name, 'class': bank_class, 'url': forex_url, 'status': 'opened'}
 
             except Exception as e:
                 print(f"    Status: ✗ Error - {str(e)}")
-                failed_links.append({'bank': bank_name, 'class': bank_class, 'url': forex_url, 'reason': str(e)})
+                return {'bank': bank_name, 'class': bank_class, 'url': forex_url, 'reason': str(e), 'status': 'failed'}
+
+        # Open all links concurrently
+        tasks = []
+        for i, bank in enumerate(banks, 1):
+            task = open_bank_forex(bank, i)
+            tasks.append(task)
+
+        # Execute all tasks concurrently
+        print(f"\nStarting concurrent opening of {len(tasks)} forex pages...")
+        results = await asyncio.gather(*tasks, return_exceptions=True)
+
+        # Wait for all tabs to be created
+        print("\nWaiting for all tabs to be created...")
+        await asyncio.sleep(3)
+
+        # Get all pages and try to validate them
+        all_pages = context.pages
+        print(f"\nFound {len(all_pages)} total tabs (including main page)")
+
+        # Process results
+        for result in results:
+            if isinstance(result, Exception):
+                failed_links.append({'bank': 'Unknown', 'class': 'Unknown', 'reason': str(result), 'url': 'Unknown'})
+            elif result['status'] == 'failed':
+                failed_links.append(result)
+            elif result['status'] == 'opened':
+                successful_links.append(result)
+
+        # Optional: Try to validate pages that were opened
+        print("\nValidating opened pages...")
+        validated_successful = []
+        validated_failed = []
+
+        # Skip the main page (index 0) and check the rest
+        for i, page in enumerate(all_pages[1:], 1):
+            try:
+                # Wait for page to load with a shorter timeout for concurrent loading
+                await page.wait_for_load_state('domcontentloaded', timeout=5000)
+                current_url = page.url
+
+                if current_url and not current_url.startswith('about:blank'):
+                    print(f"    Tab {i}: ✓ Loaded - {current_url}")
+                    validated_successful.append({'tab': i, 'url': current_url})
+                else:
+                    print(f"    Tab {i}: ✗ Failed to load properly")
+                    validated_failed.append({'tab': i, 'reason': 'Blank or failed to load'})
+
+            except Exception as e:
+                print(f"    Tab {i}: ✗ Error - {str(e)}")
+                validated_failed.append({'tab': i, 'reason': str(e)})
+
+        print(f"\nValidation complete:")
+        print(f"  Successfully loaded tabs: {len(validated_successful)}")
+        print(f"  Failed to load tabs: {len(validated_failed)}")
 
         # Print summary
         print("\n" + "=" * 50)
