@@ -1,0 +1,116 @@
+You are an expert data extraction system. Your task is to extract foreign exchange (forex) data from the provided text, which may be in HTML, JSON, or other formats. You must transform this data into a single, standardized JSON object according to the strict schema and rules provided below.
+
+Your final output must be **only the JSON object**, with no additional text, explanations, or markdown formatting like `json`.
+
+#### **Target JSON Schema**
+
+```json
+{
+  "rates": [
+    {
+      "currency": {
+        "name": "string", // Full name of the currency (e.g., "US Dollar")
+        "iso_code": "string", // The standard 3-letter ISO 4217 code (e.g., "USD")
+        "unit": "number" // The unit for the rate (e.g., 1, 10, 100)
+      },
+      "rates": {
+        "buy_cash": "number | null", // The buying rate for cash/small denominations
+        "buy_non_cash": "number | null", // The buying rate for non-cash/large denominations
+        "sell": "number | null" // The selling rate
+      }
+    }
+  ]
+}
+```
+
+#### **Extraction and Transformation Rules**
+
+You must follow these rules precisely:
+
+1.  **Currency Normalization**:
+    *   `iso_code`: Always identify and use the standard 3-letter ISO 4217 code (e.g., `USD`, `GBP`, `JPY`). Clean up any surrounding whitespace or HTML tags. This is the primary identifier.
+    *   `name`: Extract the full currency name (e.g., "US Dollar", "Pound Sterling").
+    *   `unit`: Extract the unit for the rate (e.g., 1, 10, 100). If the unit is specified in the currency name like `JPY (10)`, extract it from there.
+
+2.  **Rate Mapping (Most Important Rule)**:
+    *   `sell`: This is the standard "Selling" or "Sell" rate.
+    *   `buy_cash`: Map the rate for **physical cash notes** or smaller denominations here. Look for headers like: `Denomination < 50`, `Cash below Deno 50`, `Buying Rate(Cash)`, `Cash Buy`, `CSB`, or `buying_below`.
+    *   `buy_non_cash`: Map the rate for **non-cash instruments** (drafts, transfers) or large denomination notes here. Look for headers like: `Denomination ≥ 50`, `Cash 50 and above Deno`, `Buying Rate(Doc)`, `Non Cash Buy`, `NCB`, `TC Buying`, or `buying_above`.
+    *   **Single Buying Rate**: If the bank provides only one buying rate, **use that same value for both `buy_cash` and `buy_non_cash`**.
+    *   **Data Type and Cleaning**: All rate values must be numbers, not strings. If a rate is missing, represented by a hyphen (`-`), or is zero in a context where it clearly means "not applicable", the value in the JSON should be `null`.
+
+3.  **Data Filtering**:
+    *   Ignore any rows or data points that are not actual currencies (e.g., rows for "Fine Gold", or invalid rows with "Currency", "Code", "Unit" as data).
+    *   If the provided data for a bank is empty or contains no valid currency rates (like for "Agricultural Development Bank Limited"), the `rates` array in the JSON should be empty: `[]`.
+
+---
+#### **Example of Correct Transformation**
+
+**If the input data is:**
+```
+<table id="datatable2">
+    <thead>
+        <tr>
+            <th>Currency</th><th>Code</th><th>Unit</th>
+            <th colspan="2">Buying Rate</th>
+            <th>Selling Rate</th>
+        </tr>
+        <tr>
+            <th></th><th></th><th></th>
+            <th>Denomination < 50</th>
+            <th>Denomination ≥ 50</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="odd">
+            <td>US Dollar</td><td>USD</td><td>1</td>
+            <td>136.7</td><td>136.7</td><td>137.3</td>
+        </tr>
+        <tr class="even">
+            <td>Japanese Yen</td><td>JPY</td><td>10</td>
+            <td>9.3</td><td>9.3</td><td>9.39</td>
+        </tr>
+    </tbody>
+</table>
+```
+
+**Your output MUST be:**
+```json
+{
+  "rates": [
+    {
+      "currency": {
+        "name": "US Dollar",
+        "iso_code": "USD",
+        "unit": 1
+      },
+      "rates": {
+        "buy_cash": 136.7,
+        "buy_non_cash": 136.7,
+        "sell": 137.3
+      }
+    },
+    {
+      "currency": {
+        "name": "Japanese Yen",
+        "iso_code": "JPY",
+        "unit": 10
+      },
+      "rates": {
+        "buy_cash": 9.3,
+        "buy_non_cash": 9.3,
+        "sell": 9.39
+      }
+    }
+  ]
+}
+```
+
+---
+
+Now, process the following data and provide only the JSON object as your response.
+
+<data>
+{PASTE_THE_BANK_DATA_HERE}
+</data>

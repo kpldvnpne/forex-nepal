@@ -50,6 +50,21 @@ async def load_with_nepali_date(base_url, page):
             print(f"✅ Table found for date {nepali_date}")
             return
 
+def create_prompt_from_template(
+    data_to_insert: str,
+    prompt_filepath: str = "prompt.txt",
+    placeholder: str = "{PASTE_THE_BANK_DATA_HERE}"
+) -> str:
+    try:
+        with open(prompt_filepath, 'r', encoding='utf-8') as f:
+            template_string = f.read()
+    except FileNotFoundError:
+        print(f"Error: The prompt file was not found at '{prompt_filepath}'")
+        raise
+
+    final_prompt = template_string.replace(placeholder, data_to_insert)
+    return final_prompt
+
 async def open_bank_pages(json_file_path):
     """
     Opens all bank forex pages from nepal_banks.json in separate tabs
@@ -138,13 +153,17 @@ async def open_bank_pages(json_file_path):
                     table = page.locator('css=table').nth(3)
                     html = await table.evaluate('el => el.outerHTML')
 
+                bank_data = None
                 if html != None:
                     cleaned_html = clean_html_for_llm(html)
-                    print(cleaned_html)
+                    bank_data = cleaned_html
                 elif json_data != None:
-                    print(json_data)
+                    bank_data = json.dumps(json_data, indent=2)
                 else:
                     raise Exception('Neither html nor json found')
+
+                prompt = create_prompt_from_template(bank_data)
+                print(prompt)
 
                 print(f"Successfully opened {bank['name']}")
 
