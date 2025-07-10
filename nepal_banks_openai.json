@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Nepal Bank Ltd",
+    "class": "Class A",
+    "forex_url": "https://www.nepalbank.com.np/exchange-rate"
+  },
+  {
+    "name": "Agriculture Development Bank Ltd",
+    "class": "Class A",
+    "forex_url": "https://adbl.gov.np/forex"
+  },
+  {
+    "name": "Nabil Bank Ltd",
+    "class": "Class A",
+    "forex_url": "https://www.nabilbank.com/currency"
+  },
+  {
+    "name": "Nepal Investment Mega Bank Ltd",
+    "class": "Class A",
+    "forex_url": "https://www.nimb.com.np/digital-banking/forex"
+  },
+  {
+    "name": "Standard Chartered Bank Nepal Ltd",
+    "class": "Class A",
+    "forex_url": "https://www.sc.com/np/forex-solutions/"
+  },
+  {
+    "name": "Himalayan Bank Ltd",
+    "class": "Class A",
+    "forex_url": "https://www.himalayanbank.com/int/rate/"
+  },
+  {
+    "name": "Nepal SBI Bank Ltd",
+    "class": "Class A",
+    "forex_url": "https://nsbl.statebank/exchange-rate"
+  },
+  {
+    "name": "Everest Bank Ltd",
+    "class": "Class A",
+    "forex_url": "https://everestbankltd.com/supports/interest-and-rates/forex/"
+  },
+  {
+    "name": "Kumari Bank Ltd",
+    "class": "Class A",
+    "forex_url": "https://www.kumaribank.com/forex"
+  },
+  {
+    "name": "Laxmi Sunrise Bank Ltd",
+    "class": "Class A",
+    "forex_url": "https://www.laxmisunrise.com/rates/forex/"
+  },
+  {
+    "name": "Citizens Bank International Ltd",
+    "class": "Class A",
+    "forex_url": "https://www.ctznbank.com/forex"
+  },
+  {
+    "name": "Prime Commercial Bank Ltd",
+    "class": "Class A",
+    "forex_url": "https://www.primebank.com.np/forex"
+  },
+  {
+    "name": "Sanima Bank Ltd",
+    "class": "Class A",
+    "forex_url": "https://www.sanimabank.com/know-us/forex"
+  },
+  {
+    "name": "Machhapuchhre Bank Ltd",
+    "class": "Class A",
+    "forex_url": "https://www.machbank.com/forex"
+  },
+  {
+    "name": "NIC Asia Bank Ltd",
+    "class": "Class A",
+    "forex_url": "https://www.nicasiabank.com/forex-rates/"
+  },
+  {
+    "name": "Global IME Bank Ltd",
+    "class": "Class A",
+    "forex_url": "https://www.globalimebank.com/forex-rates/"
+  },
+  {
+    "name": "NMB Bank Ltd",
+    "class": "Class A",
+    "forex_url": "https://www.nmb.com.np/forex"
+  },
+  {
+    "name": "Prabhu Bank Ltd",
+    "class": "Class A",
+    "forex_url": "https://www.prabhubank.com/forex"
+  },
+  {
+    "name": "Siddhartha Bank Ltd",
+    "class": "Class A",
+    "forex_url": "https://www.siddharthabank.com/forex"
+  },
+  {
+    "name": "Rastriya Banijya Bank Ltd",
+    "class": "Class A",
+    "forex_url": "https://www.rbb.com.np/forexdetail"
+  },
+  {
+    "name": "Garima Bikas Bank Ltd",
+    "class": "Class B",
+    "forex_url": "http://garimabank.com.np/forex"
+  },
+  {
+    "name": "Jyoti Bikas Bank Ltd",
+    "class": "Class B",
+    "forex_url": "https://www.jbbl.com.np/forex"
+  },
+  {
+    "name": "Kamana Sewa Bikas Bank Ltd",
+    "class": "Class B",
+    "forex_url": "https://www.kamanasewabank.com/forex"
+  },
+  {
+    "name": "Lumbini Bikas Bank Ltd",
+    "class": "Class B",
+    "forex_url": "https://www.lumbinibikasbank.com/forex"
+  },
+  {
+    "name": "Mahalaxmi Bikas Bank Ltd",
+    "class": "Class B",
+    "forex_url": "https://www.mahalaxmibank.com/forex"
+  },
+  {
+    "name": "Muktinath Bikas Bank Ltd",
+    "class": "Class B",
+    "forex_url": "https://www.muktinathbank.com.np/forex"
+  },
+  {
+    "name": "Green Development Bank Ltd",
+    "class": "Class B",
+    "forex_url": "https://www.greenbank.com.np/foreign-exchanges"
+  },
+  {
+    "name": "Sangrila Development Bank Ltd",
+    "class": "Class B",
+    "forex_url": "https://idocs.shangrilabank.com/OnlineForex/"
+  },
+  {
+    "name": "Shine Resunga Development Bank Ltd",
+    "class": "Class B",
+    "forex_url": "https://srdb.com.np/Exchange-Rates"
+  },
+  {
+    "name": "Saptakoshi Development Bank Ltd",
+    "class": "Class B",
+    "forex_url": "https://skdbl.com.np/forex"
+  }
+]
