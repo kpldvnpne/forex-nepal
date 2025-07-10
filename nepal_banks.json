@@ -83,7 +83,8 @@
       "name": "Citizens Bank International Limited",
       "class": "A",
       "forex_page": "https://www.ctznbank.com/forex",
-      "anti_robot": true
+      "anti_robot": true,
+      "table": true
     },
     {
       "name": "Prime Commercial Bank Limited",
@@ -133,7 +134,7 @@
       "name": "Shine Resunga Development Bank Limited",
       "class": "B",
       "forex_page": "https://srdb.com.np/Exchange-Rates",
-      "table": true
+      "api": "https://www.nrb.org.np/api/forex/v1/rates"
     },
     {
       "name": "Mahalaxmi Bikas Bank Limited",
