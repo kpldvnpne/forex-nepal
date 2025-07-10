@@ -37,20 +37,28 @@ async def open_bank_pages(json_file_path):
         # Create a new browser context
         context = await browser.new_context()
 
-        # Create the first page to act as our main tab
-        main_page = await context.new_page()
-
         async def open_page(bank):
             """Open a single bank's forex page with developer tools"""
             try:
                 # Create a new page (tab)
-                # page = await context.new_page()
+                page = await context.new_page()
 
                 # Navigate to the forex page
                 print(f"Opening {bank['name']} - {bank['forex_page']}")
-                await context.pages[-1].evaluate(f"window.open('{bank['forex_page']}', '_blank', 'noopener,noreferrer')")
+                await page.goto(bank['forex_page'], wait_until='domcontentloaded')
+                if 'table' in bank and bank['table'] == True:
+                  table = page.locator('css=table')
+                  if 'table_index' in bank:
+                      table = table.nth(bank['table_index'])
+                  else:
+                      table = table.nth(0)
+                  print(await table.evaluate('el => el.outerHTML'))
+                elif 'api' in bank:
+                    api = bank['api']
+                    api.replace()
+                input()
 
-                print(f"Successfully opened {bank['name']} with developer tools")
+                print(f"Successfully opened {bank['name']}")
 
             except Exception as e:
                 print(f"Error opening {bank['name']}: {str(e)}")
