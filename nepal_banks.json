@@ -1,0 +1,192 @@
+{
+  "banks": [
+    {
+      "name": "Nepal Bank Limited",
+      "class": "A",
+      "forex_page": "https://www.nepalbank.com.np/forex"
+    },
+    {
+      "name": "Agricultural Development Bank Limited",
+      "class": "A",
+      "forex_page": "https://www.adbl.gov.np/forex"
+    },
+    {
+      "name": "Rastriya Banijya Bank Limited",
+      "class": "A",
+      "forex_page": "https://www.rbb.com.np/forex"
+    },
+    {
+      "name": "Standard Chartered Bank Nepal Limited",
+      "class": "A",
+      "forex_page": "https://www.sc.com/np/forex-solutions/"
+    },
+    {
+      "name": "Nepal SBI Bank Limited",
+      "class": "A",
+      "forex_page": "https://www.nepalsbi.com.np/forex"
+    },
+    {
+      "name": "Nabil Bank Limited",
+      "class": "A",
+      "forex_page": "https://www.nabilbank.com/forex"
+    },
+    {
+      "name": "Nepal Investment Mega Bank Limited",
+      "class": "A",
+      "forex_page": "https://www.nimb.com.np/forex"
+    },
+    {
+      "name": "Himalayan Bank Limited",
+      "class": "A",
+      "forex_page": "https://www.himalayanbank.com/forex"
+    },
+    {
+      "name": "Global IME Bank Limited",
+      "class": "A",
+      "forex_page": "https://www.globalimebank.com/forex"
+    },
+    {
+      "name": "NMB Bank Limited",
+      "class": "A",
+      "forex_page": "https://www.nmb.com.np/forex"
+    },
+    {
+      "name": "Machhapuchchhre Bank Limited",
+      "class": "A",
+      "forex_page": "https://www.machbank.com/forex"
+    },
+    {
+      "name": "Kumari Bank Limited",
+      "class": "A",
+      "forex_page": "https://www.kumaribank.com/forex"
+    },
+    {
+      "name": "Laxmi Sunrise Bank Limited",
+      "class": "A",
+      "forex_page": "https://www.sunrisebank.com/forex"
+    },
+    {
+      "name": "Citizens Bank International Limited",
+      "class": "A",
+      "forex_page": "https://www.ctznbank.com/forex"
+    },
+    {
+      "name": "Prime Commercial Bank Limited",
+      "class": "A",
+      "forex_page": "https://primebank.com.np/forex"
+    },
+    {
+      "name": "Sunrise Bank Limited",
+      "class": "A",
+      "forex_page": "https://www.sunrisebank.com/forex"
+    },
+    {
+      "name": "Century Commercial Bank Limited",
+      "class": "A",
+      "forex_page": "https://www.centurybank.com.np/forex"
+    },
+    {
+      "name": "Sanima Bank Limited",
+      "class": "A",
+      "forex_page": "https://www.sanimabank.com/forex"
+    },
+    {
+      "name": "Prabhu Bank Limited",
+      "class": "A",
+      "forex_page": "https://www.prabhubank.com/forex"
+    },
+    {
+      "name": "Siddhartha Bank Limited",
+      "class": "A",
+      "forex_page": "https://www.siddharthabank.com/forex"
+    },
+    {
+      "name": "KIST Bank Limited",
+      "class": "B",
+      "forex_page": "https://www.kistbank.com/forex"
+    },
+    {
+      "name": "Kamana Sewa Bikas Bank Limited",
+      "class": "B",
+      "forex_page": "https://www.kamanasewa.com/forex"
+    },
+    {
+      "name": "Muktinath Bikas Bank Limited",
+      "class": "B",
+      "forex_page": "https://www.muktinathbank.com/forex"
+    },
+    {
+      "name": "Garima Bikas Bank Limited",
+      "class": "B",
+      "forex_page": "https://www.garimabank.com/forex"
+    },
+    {
+      "name": "Janautthan Samudayik Laghubitta Bittiya Sanstha Limited",
+      "class": "B",
+      "forex_page": "https://www.janutthan.com/forex"
+    },
+    {
+      "name": "Shine Resunga Development Bank Limited",
+      "class": "B",
+      "forex_page": "https://www.shineresungabank.com/forex"
+    },
+    {
+      "name": "Mahalaxmi Bikas Bank Limited",
+      "class": "B",
+      "forex_page": "https://www.mahalaxmibank.com/forex"
+    },
+    {
+      "name": "Lumbini Bikas Bank Limited",
+      "class": "B",
+      "forex_page": "https://www.lumbinibank.com/forex"
+    },
+    {
+      "name": "Sangrila Development Bank Limited",
+      "class": "B",
+      "forex_page": "https://www.sangrilabank.com/forex"
+    },
+    {
+      "name": "Miteri Development Bank Limited",
+      "class": "B",
+      "forex_page": "https://www.miteribank.com/forex"
+    },
+    {
+      "name": "Narayani Development Bank Limited",
+      "class": "B",
+      "forex_page": "https://www.narayanibank.com/forex"
+    },
+    {
+      "name": "Karnali Development Bank Limited",
+      "class": "B",
+      "forex_page": "https://www.karnalibank.com/forex"
+    },
+    {
+      "name": "Salapa Bikas Bank Limited",
+      "class": "B",
+      "forex_page": "https://www.salapabank.com/forex"
+    },
+    {
+      "name": "Saptakoshi Development Bank Limited",
+      "class": "B",
+      "forex_page": "https://www.saptakoshibank.com/forex"
+    },
+    {
+      "name": "Nerude Laghubitta Bittiya Sanstha Limited",
+      "class": "B",
+      "forex_page": "https://www.nerudebank.com/forex"
+    },
+    {
+      "name": "Deprosc Laghubitta Bittiya Sanstha Limited",
+      "class": "B",
+      "forex_page": "https://www.deprosc.org/forex"
+    }
+  ],
+  "metadata": {
+    "total_banks": 36,
+    "class_a_banks": 20,
+    "class_b_banks": 16,
+    "last_updated": "2025-01-09",
+    "source": "Nepal Rastra Bank licensed institutions",
+    "note": "Some forex page URLs may need verification as bank websites occasionally change their URL structure"
+  }
+}
