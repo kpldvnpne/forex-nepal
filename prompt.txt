@@ -27,19 +27,22 @@ Your final output must be **only the JSON object**, with no additional text, exp
 
 You must follow these rules precisely:
 
-1.  **Currency Normalization**:
+1. **Timestamps:**
+    * `published_date`: Find the date the rates were published for. If multiple dates are present (e.g., in API data), use the most recent one. Format it as "YYYY-MM-DDTHH:MM:SSZ".
+
+2.  **Currency Normalization**:
     *   `iso_code`: Always identify and use the standard 3-letter ISO 4217 code (e.g., `USD`, `GBP`, `JPY`). Clean up any surrounding whitespace or HTML tags. This is the primary identifier.
     *   `name`: Extract the full currency name (e.g., "US Dollar", "Pound Sterling").
     *   `unit`: Extract the unit for the rate (e.g., 1, 10, 100). If the unit is specified in the currency name like `JPY (10)`, extract it from there.
 
-2.  **Rate Mapping (Most Important Rule)**:
+3.  **Rate Mapping (Most Important Rule)**:
     *   `sell`: This is the standard "Selling" or "Sell" rate.
     *   `buy_cash`: Map the rate for **physical cash notes** or smaller denominations here. Look for headers like: `Denomination < 50`, `Cash below Deno 50`, `Buying Rate(Cash)`, `Cash Buy`, `CSB`, or `buying_below`.
     *   `buy_non_cash`: Map the rate for **non-cash instruments** (drafts, transfers) or large denomination notes here. Look for headers like: `Denomination ≥ 50`, `Cash 50 and above Deno`, `Buying Rate(Doc)`, `Non Cash Buy`, `NCB`, `TC Buying`, or `buying_above`.
     *   **Single Buying Rate**: If the bank provides only one buying rate, **use that same value for both `buy_cash` and `buy_non_cash`**.
     *   **Data Type and Cleaning**: All rate values must be numbers, not strings. If a rate is missing, represented by a hyphen (`-`), or is zero in a context where it clearly means "not applicable", the value in the JSON should be `null`.
 
-3.  **Data Filtering**:
+4.  **Data Filtering**:
     *   Ignore any rows or data points that are not actual currencies (e.g., rows for "Fine Gold", or invalid rows with "Currency", "Code", "Unit" as data).
     *   If the provided data for a bank is empty or contains no valid currency rates (like for "Agricultural Development Bank Limited"), the `rates` array in the JSON should be empty: `[]`.
 
@@ -78,6 +81,7 @@ You must follow these rules precisely:
 **Your output MUST be:**
 ```json
 {
+  "published_date": "YYYY-MM-DDTHH:MM:SSZ",
   "rates": [
     {
       "currency": {
