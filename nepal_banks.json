@@ -125,8 +125,9 @@
     {
       "name": "Garima Bikas Bank Limited",
       "class": "B",
-      "forex_page": "https://garimabank.com.np/forex?date=2025-07-09&currency=USD",
-      "parse_whole_page": true
+      "forex_page": "https://garimabank.com.np/forex?date=yyyy-mm-dd&currency=",
+      "handle_date": true,
+      "table": true
     },
     {
       "name": "Shine Resunga Development Bank Limited",
