@@ -52,6 +52,11 @@ async def open_bank_pages(json_file_path):
                     else:
                         table = table.nth(0)
                     print(await table.evaluate('el => el.outerHTML'))
+                elif 'query_selector' in bank:
+                    element = await page.wait_for_selector(bank['query_selector'], state='attached')
+                    if not element:
+                        raise Exception(f'Could not find {bank['query_selector']} in {bank['forex_page']}')
+                    print(await element.evaluate('el => el.outerHTML'))
                 elif 'api' in bank:
                     api = bank['api']
                     api = api.replace('yyyy-mm-dd', '')
@@ -69,12 +74,12 @@ async def open_bank_pages(json_file_path):
                     table = page.locator('css=table').nth(3)
                     print(await table.evaluate('el => el.outerHTML'))
 
-                input()
-
                 print(f"Successfully opened {bank['name']}")
 
             except Exception as e:
                 print(f"Error opening {bank['name']}: {str(e)}")
+
+            input()
 
         # Create tasks for all banks
         for bank in banks:

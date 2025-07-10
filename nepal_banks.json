@@ -53,7 +53,7 @@
       "name": "Global IME Bank Limited",
       "class": "A",
       "forex_page": "https://www.globalimebank.com/forex-rates/",
-      "query_selector": "div#table-grid"
+      "query_selector": "div.table-grid"
     },
     {
       "name": "NMB Bank Limited",
