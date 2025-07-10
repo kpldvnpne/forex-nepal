@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forex Rate Comparison</title>
+    <style>
+        /* General Styling */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            margin: 0;
+            padding: 2rem;
+            background-color: #f4f7f9;
+            color: #333;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+        }
+
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 2rem;
+        }
+
+        /* Controls Section */
+        .controls {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 2rem;
+            padding: 1rem;
+            background-color: #ecf0f1;
+            border-radius: 6px;
+        }
+
+        .file-uploader, .currency-selector {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        label {
+            font-weight: 600;
+        }
+
+        select, input[type="file"] {
+            padding: 0.5rem;
+            border: 1px solid #bdc3c7;
+            border-radius: 4px;
+            font-size: 1rem;
+        }
+
+        /* Table Styling */
+        #table-container {
+            overflow-x: auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 1rem;
+        }
+
+        th, td {
+            padding: 0.8rem 1rem;
+            text-align: left;
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        thead th {
+            background-color: #34495e;
+            color: white;
+            position: relative;
+            cursor: pointer;
+            user-select: none; /* Prevents text selection on click */
+        }
+
+        /* Sorting Arrows */
+        thead th::after {
+            content: '';
+            position: absolute;
+            right: 10px;
+            top: 50%;
+            transform: translateY(-50%);
+            border: 5px solid transparent;
+            opacity: 0.5;
+        }
+
+        thead th.sort-asc::after {
+            border-bottom-color: white;
+            opacity: 1;
+        }
+
+        thead th.sort-desc::after {
+            border-top-color: white;
+            opacity: 1;
+        }
+
+        tbody tr:hover {
+            background-color: #f9f9f9;
+        }
+
+        /* Link Styling */
+        td a {
+            color: #3498db;
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        td a:hover {
+            text-decoration: underline;
+        }
+
+        /* Helper Text */
+        #initial-message {
+            text-align: center;
+            color: #7f8c8d;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Forex Rate Comparison</h1>
+
+        <div class="controls">
+            <div class="file-uploader">
+                <label for="jsonFileInput">Upload JSON File:</label>
+                <input type="file" id="jsonFileInput" accept=".json">
+            </div>
+            <div class="currency-selector" id="currency-controls" style="display: none;">
+                <label for="currencySelector">Select Currency:</label>
+                <select id="currencySelector"></select>
+            </div>
+        </div>
+
+        <div id="table-container">
+            <p id="initial-message">Please upload your `all_banks.json` file to begin.</p>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const fileInput = document.getElementById('jsonFileInput');
+            const currencyControls = document.getElementById('currency-controls');
+            const currencySelector = document.getElementById('currencySelector');
+            const tableContainer = document.getElementById('table-container');
+            const initialMessage = document.getElementById('initial-message');
+
+            let allBanksData = [];
+            let currentSort = { column: 'bankName', order: 'asc' };
+
+            // --- 1. Event Listener for File Upload ---
+            fileInput.addEventListener('change', handleFileSelect);
+
+            function handleFileSelect(event) {
+                const file = event.target.files[0];
+                if (!file) {
+                    return;
+                }
+
+                const reader = new FileReader();
+                reader.onload = (e) => {
+                    try {
+                        const data = JSON.parse(e.target.result);
+                        if (data && data.all_banks) {
+                            allBanksData = data.all_banks.filter(it => it != null);
+                            initialMessage.style.display = 'none';
+                            initializeUI();
+                        } else {
+                            alert('Invalid JSON format. Expected an object with an "all_banks" key.');
+                        }
+                    } catch (error) {
+                        alert('Error parsing JSON file: ' + error.message);
+                        throw error;
+                    }
+                };
+                reader.readAsText(file);
+            }
+
+            // --- 2. Initialize UI after data is loaded ---
+            function initializeUI() {
+                populateCurrencyDropdown();
+                currencyControls.style.display = 'flex';
+                currencySelector.addEventListener('change', () => {
+                    renderTable(currencySelector.value);
+                });
+                // Render table for the first currency by default
+                renderTable(currencySelector.value);
+            }
+
+            // --- 3. Populate the currency dropdown with unique currencies ---
+            function populateCurrencyDropdown() {
+                const currencyCodes = new Set();
+                allBanksData.forEach(bank => {
+                    if (bank.rates) {
+                        bank.rates.forEach(rate => {
+                            currencyCodes.add(rate.currency.iso_code);
+                        });
+                    }
+                });
+
+                currencySelector.innerHTML = ''; // Clear previous options
+                const sortedCodes = Array.from(currencyCodes).sort();
+
+                // Give priority to USD if it exists
+                if (sortedCodes.includes('USD')) {
+                    const option = document.createElement('option');
+                    option.value = 'USD';
+                    option.textContent = 'USD';
+                    currencySelector.appendChild(option);
+                }
+
+                sortedCodes.forEach(code => {
+                    if (code !== 'USD') { // Avoid duplicating USD
+                        const option = document.createElement('option');
+                        option.value = code;
+                        option.textContent = code;
+                        currencySelector.appendChild(option);
+                    }
+                });
+            }
+
+            // --- 4. Main function to render the comparison table ---
+            function renderTable(selectedCurrency) {
+                // a. Prepare the data for the selected currency
+                let comparisonData = allBanksData.map(bank => {
+                    const rateData = bank.rates?.find(r => r.currency.iso_code === selectedCurrency);
+                    return {
+                        bankName: bank.bank_name,
+                        sourceUrl: bank.source_url,
+                        publishedDate: bank.published_date || 'N/A',
+                        buyCash: rateData?.rates.buy_cash,
+                        buyNonCash: rateData?.rates.buy_non_cash,
+                        sell: rateData?.rates.sell,
+                    };
+                }).filter(d => d.buyCash !== undefined || d.buyNonCash !== undefined || d.sell !== undefined); // Only show banks with data
+
+                // b. Sort the data based on currentSort state
+                sortData(comparisonData, currentSort.column, currentSort.order);
+
+                // c. Generate the HTML for the table
+                const tableHTML = `
+                    <table>
+                        <thead>
+                            <tr>
+                                <th data-column="bankName">Bank Name</th>
+                                <th data-column="buyCash">Buy (Cash)</th>
+                                <th data-column="buyNonCash">Buy (Non-Cash)</th>
+                                <th data-column="sell">Sell</th>
+                                <th data-column="publishedDate">Published Date</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            ${comparisonData.map(row => `
+                                <tr>
+                                    <td><a href="${row.sourceUrl}" target="_blank" rel="noopener noreferrer">${row.bankName}</a></td>
+                                    <td>${row.buyCash ?? 'N/A'}</td>
+                                    <td>${row.buyNonCash ?? 'N/A'}</td>
+                                    <td>${row.sell ?? 'N/A'}</td>
+                                    <td>${row.publishedDate}</td>
+                                </tr>
+                            `).join('')}
+                        </tbody>
+                    </table>
+                `;
+
+                tableContainer.innerHTML = tableHTML;
+
+                // d. Add event listeners and sorting indicators to the new headers
+                const headers = tableContainer.querySelectorAll('thead th');
+                headers.forEach(header => {
+                    if (header.dataset.column === currentSort.column) {
+                        header.classList.add(currentSort.order === 'asc' ? 'sort-asc' : 'sort-desc');
+                    }
+                    header.addEventListener('click', handleSort);
+                });
+            }
+
+            // --- 5. Handle clicks on table headers for sorting ---
+            function handleSort(event) {
+                const newColumn = event.target.dataset.column;
+                if (!newColumn) return;
+
+                if (currentSort.column === newColumn) {
+                    // Toggle order if the same column is clicked
+                    currentSort.order = currentSort.order === 'asc' ? 'desc' : 'asc';
+                } else {
+                    // Otherwise, sort new column in ascending order
+                    currentSort.column = newColumn;
+                    currentSort.order = 'asc';
+                }
+
+                renderTable(currencySelector.value);
+            }
+
+            // --- 6. Helper function for sorting the data array ---
+            function sortData(data, column, order) {
+                data.sort((a, b) => {
+                    let valA = a[column];
+                    let valB = b[column];
+
+                    // Push null/N/A values to the bottom
+                    if (valA === null || valA === 'N/A' || valA === undefined) return 1;
+                    if (valB === null || valB === 'N/A' || valB === undefined) return -1;
+
+                    let comparison = 0;
+                    if (typeof valA === 'number' && typeof valB === 'number') {
+                        comparison = valA - valB; // Numeric sort
+                    } else {
+                        comparison = valA.toString().localeCompare(valB.toString()); // String sort
+                    }
+
+                    return order === 'asc' ? comparison : -comparison;
+                });
+            }
+        });
+    </script>
+
+</body>
+</html>
