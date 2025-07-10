@@ -113,7 +113,7 @@ def send_prompt_to_gemini(prompt: str) -> Optional[Dict[str, Any]]:
         print(f"An error occurred while communicating with the Gemini API: {e}")
         return None
 
-async def open_bank_pages(json_file_path):
+async def open_bank_pages(json_file_path, concurrent=False):
     """
     Opens all bank forex pages from nepal_banks.json in separate tabs
     """
@@ -228,10 +228,17 @@ async def open_bank_pages(json_file_path):
                 print(f"Error opening {bank['name']}: {str(e)}")
 
         # Create tasks for all banks
-        outputs = []
-        for bank in banks:
-          output = await open_page(bank)
-          outputs.append(output)
+        if concurrent:
+            tasks = []
+            for bank in banks:
+                tasks.append(open_page(bank))
+
+            outputs = await asyncio.gather(*tasks)
+        else:
+            outputs = []
+            for bank in banks:
+                output = await open_page(bank)
+                outputs.append(output)
 
         final_data = {
             "all_banks": outputs
@@ -250,7 +257,7 @@ async def open_bank_pages(json_file_path):
 async def main():
     """Main function to run the program"""
     json_file_path = "nepal_banks.json"
-    await open_bank_pages(json_file_path)
+    await open_bank_pages(json_file_path, concurrent=True)
 
 if __name__ == "__main__":
     # Run the async function
