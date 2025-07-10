@@ -1,0 +1,2228 @@
+Found 25 banks. Opening forex pages...
+Opening Nepal Bank Limited - https://www.nepalbank.com.np/forex
+<table id="datatable2" class="table table-striped table-hover table-bordered dataTable no-footer" role="grid" aria-describedby="datatable2_info" style="width: 966px;">
+                            <thead>
+                            <tr role="row"><th rowspan="2" class="sorting_asc" tabindex="0" aria-controls="datatable2" colspan="1" aria-sort="ascending" aria-label=" S.No.: activate to sort column descending" style="width: 39px;"> S.No.</th><th rowspan="2" class="sorting" tabindex="0" aria-controls="datatable2" colspan="1" aria-label="Currency: activate to sort column ascending" style="width: 138px;">Currency</th><th rowspan="2" class="sorting" tabindex="0" aria-controls="datatable2" colspan="1" aria-label="Code: activate to sort column ascending" style="width: 45px;">Code</th><th rowspan="2" class="sorting" tabindex="0" aria-controls="datatable2" colspan="1" aria-label="Unit: activate to sort column ascending" style="width: 39px;">Unit</th><th colspan="2" style="text-align: center;" rowspan="1">Buying Rate</th><th rowspan="2" class="sorting" tabindex="0" aria-controls="datatable2" colspan="1" aria-label="Selling Rate: activate to sort column ascending" style="width: 98px;">Selling Rate</th></tr>
+                            <tr role="row"><th class="td-small sorting" tabindex="0" aria-controls="datatable2" rowspan="1" colspan="1" aria-label="Denomination &amp;lt; 50: activate to sort column ascending" style="width: 153px;">Denomination &lt; 50</th><th class="td-small sorting" tabindex="0" aria-controls="datatable2" rowspan="1" colspan="1" aria-label="Denomination ≥ 50: activate to sort column ascending" style="width: 153px;">Denomination ≥ 50</th></tr>
+                            </thead>
+                            <tbody>
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                            
+
+                            <tr class="odd">
+                                    <td width="4rem" class="sorting_1">1</td>
+                                    <td><span class="flag-icon flag-icon-us"></span> US Dollar </td>
+                                    <td>USD</td>
+                                    <td>1</td>
+                                    <td>136.7</td>
+                                    <td>136.7</td>
+                                    <td>137.3</td>
+                                </tr><tr class="even">
+                                    <td width="4rem" class="sorting_1">2</td>
+                                    <td><span class="flag-icon flag-icon-eu"></span> Euro </td>
+                                    <td>EUR</td>
+                                    <td>1</td>
+                                    <td>159.53</td>
+                                    <td>159.53</td>
+                                    <td>161.13</td>
+                                </tr><tr class="odd">
+                                    <td width="4rem" class="sorting_1">3</td>
+                                    <td><span class="flag-icon flag-icon-gb"></span> Sterling Pound </td>
+                                    <td>GBP</td>
+                                    <td>1</td>
+                                    <td>185.04</td>
+                                    <td>185.04</td>
+                                    <td>186.89</td>
+                                </tr><tr class="even">
+                                    <td width="4rem" class="sorting_1">4</td>
+                                    <td><span class="flag-icon flag-icon-ca"></span> Canadian Dollar </td>
+                                    <td>CAD</td>
+                                    <td>1</td>
+                                    <td>99.51</td>
+                                    <td>99.51</td>
+                                    <td>100.5</td>
+                                </tr><tr class="odd">
+                                    <td width="4rem" class="sorting_1">5</td>
+                                    <td><span class="flag-icon flag-icon-ch"></span> Swiss Franc </td>
+                                    <td>CHF</td>
+                                    <td>1</td>
+                                    <td>171.33</td>
+                                    <td>171.33</td>
+                                    <td>173.04</td>
+                                </tr><tr class="even">
+                                    <td width="4rem" class="sorting_1">6</td>
+                                    <td><span class="flag-icon flag-icon-sg"></span> Singapore Dollar </td>
+                                    <td>SGD</td>
+                                    <td>1</td>
+                                    <td>106.35</td>
+                                    <td>106.35</td>
+                                    <td>107.42</td>
+                                </tr><tr class="odd">
+                                    <td width="4rem" class="sorting_1">7</td>
+                                    <td><span class="flag-icon flag-icon-jp"></span> Japanese Yen </td>
+                                    <td>JPY</td>
+                                    <td>10</td>
+                                    <td>9.3</td>
+                                    <td>9.3</td>
+                                    <td>9.39</td>
+                                </tr><tr class="even">
+                                    <td width="4rem" class="sorting_1">8</td>
+                                    <td><span class="flag-icon flag-icon-au"></span> Australian Dollar </td>
+                                    <td>AUD</td>
+                                    <td>1</td>
+                                    <td>89.13</td>
+                                    <td>89.13</td>
+                                    <td>90.02</td>
+                                </tr><tr class="odd">
+                                    <td width="4rem" class="sorting_1">9</td>
+                                    <td><span class="flag-icon flag-icon-kr"></span> South Korean Won </td>
+                                    <td>KRW</td>
+                                    <td>100</td>
+                                    <td>9.91</td>
+                                    <td>9.91</td>
+                                    <td>10.01</td>
+                                </tr><tr class="even">
+                                    <td width="4rem" class="sorting_1">10</td>
+                                    <td><span class="flag-icon flag-icon-sa"></span> Saudi Riyal </td>
+                                    <td>SAR</td>
+                                    <td>1</td>
+                                    <td>35.77</td>
+                                    <td>35.77</td>
+                                    <td>36.12</td>
+                                </tr><tr class="odd">
+                                    <td width="4rem" class="sorting_1">11</td>
+                                    <td><span class="flag-icon flag-icon-cn"></span> Chinese Yuan </td>
+                                    <td>CNY</td>
+                                    <td>1</td>
+                                    <td>18.95</td>
+                                    <td>18.95</td>
+                                    <td>19.14</td>
+                                </tr><tr class="even">
+                                    <td width="4rem" class="sorting_1">12</td>
+                                    <td><span class="flag-icon flag-icon-qa"></span> Qatari Rial </td>
+                                    <td>QAR</td>
+                                    <td>1</td>
+                                    <td>36.69</td>
+                                    <td>36.69</td>
+                                    <td>37.06</td>
+                                </tr><tr class="odd">
+                                    <td width="4rem" class="sorting_1">13</td>
+                                    <td><span class="flag-icon flag-icon-my"></span> Malaysian Ringgit </td>
+                                    <td>MYR</td>
+                                    <td>1</td>
+                                    <td>31.3</td>
+                                    <td>31.3</td>
+                                    <td>31.61</td>
+                                </tr><tr class="even">
+                                    <td width="4rem" class="sorting_1">14</td>
+                                    <td><span class="flag-icon flag-icon-th"></span> Thai Baht </td>
+                                    <td>THB</td>
+                                    <td>1</td>
+                                    <td>4.18</td>
+                                    <td>4.18</td>
+                                    <td>4.22</td>
+                                </tr><tr class="odd">
+                                    <td width="4rem" class="sorting_1">15</td>
+                                    <td><span class="flag-icon flag-icon-ae"></span> UAE Dirham </td>
+                                    <td>AED</td>
+                                    <td>1</td>
+                                    <td>36.48</td>
+                                    <td>36.48</td>
+                                    <td>36.84</td>
+                                </tr><tr class="even">
+                                    <td width="4rem" class="sorting_1">16</td>
+                                    <td><span class="flag-icon flag-icon-hk"></span> Hong Kong Dollar </td>
+                                    <td>HKD</td>
+                                    <td>1</td>
+                                    <td>17.33</td>
+                                    <td>17.33</td>
+                                    <td>17.5</td>
+                                </tr><tr class="odd">
+                                    <td width="4rem" class="sorting_1">17</td>
+                                    <td><span class="flag-icon flag-icon-dk"></span> Danish Kroner </td>
+                                    <td>DKK</td>
+                                    <td>1</td>
+                                    <td>21.38</td>
+                                    <td>21.38</td>
+                                    <td>21.6</td>
+                                </tr><tr class="even">
+                                    <td width="4rem" class="sorting_1">18</td>
+                                    <td><span class="flag-icon flag-icon-se"></span> Swedish Kroner </td>
+                                    <td>SEK</td>
+                                    <td>1</td>
+                                    <td>14.3</td>
+                                    <td>14.3</td>
+                                    <td>14.45</td>
+                                </tr><tr class="odd">
+                                    <td width="4rem" class="sorting_1">19</td>
+                                    <td><span class="flag-icon flag-icon-bh"></span> Bahraini Dinar </td>
+                                    <td>BHD</td>
+                                    <td>1</td>
+                                    <td>360.86</td>
+                                    <td>360.86</td>
+                                    <td>364.47</td>
+                                </tr><tr class="even">
+                                    <td width="4rem" class="sorting_1">20</td>
+                                    <td><span class="flag-icon flag-icon-kw"></span> Kuwaiti Dinar </td>
+                                    <td>KWD</td>
+                                    <td>1</td>
+                                    <td>445.36</td>
+                                    <td>445.36</td>
+                                    <td>449.81</td>
+                                </tr><tr class="odd">
+                                    <td width="4rem" class="sorting_1">21</td>
+                                    <td><span class="flag-icon flag-icon-in"></span> Indian Rupee</td>
+                                    <td>INR</td>
+                                    <td>100</td>
+                                    <td>160</td>
+                                    <td>160</td>
+                                    <td>160.15</td>
+                                </tr><tr class="even">
+                                    <td width="4rem" class="sorting_1">22</td>
+                                    <td><span class="flag-icon flag-icon-om"></span> Omani Riyal</td>
+                                    <td>OMR</td>
+                                    <td>1</td>
+                                    <td>353.34</td>
+                                    <td>353.34</td>
+                                    <td>356.87</td>
+                                </tr><tr class="odd">
+                                    <td width="4rem" class="sorting_1">23</td>
+                                    <td><span class="flag-icon "></span> Currency</td>
+                                    <td>Code</td>
+                                    <td>Unit</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                </tr></tbody>
+                        </table>
+Successfully opened Nepal Bank Limited
+Opening Agricultural Development Bank Limited - https://www.adbl.gov.np/forex
+<table class="w-full table-auto border-collapse"><thead><tr class="bg-custom-green "><th class="px-4 py-2 text-left font-thin text-white">Currency</th><th class="px-4 py-2 text-left font-thin text-white">Unit</th><th class="px-4 py-2 text-left font-thin text-white">Buying (Note of below Deno 50)</th><th class="px-4 py-2 text-left font-thin text-white">Buying (Note of Deno 50 and above)</th><th class="px-4 py-2 text-left font-thin text-white">Selling</th></tr></thead><tbody></tbody></table>
+Successfully opened Agricultural Development Bank Limited
+Opening Rastriya Banijya Bank Limited - https://www.rbb.com.np/forexdetail
+<table class="table table-striped">
+                                <thead>
+                                <tr>
+                                    <th>Currency</th>
+                                    <th>Code</th>
+                                    <th>Unit</th>
+                                    <th>Buying <br> (Cash below Deno 50)</th>
+                                    <th>Buying <br> (Cash 50 and above Deno)</th>
+                                    <th>Selling</th>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                                                            <tr>
+                                            <td>USD</td>
+                                            <td>&nbsp;USD</td>
+                                            <td>1</td>
+                                            <td>136.65</td>
+                                            <td>136.65</td>
+                                            <td>137.25</td>
+                                        </tr>
+                                                                            <tr>
+                                            <td>&nbsp;&nbsp;Euro</td>
+                                            <td>&nbsp;EUR</td>
+                                            <td>1</td>
+                                            <td>159.29</td>
+                                            <td>159.29</td>
+                                            <td>160.86</td>
+                                        </tr>
+                                                                            <tr>
+                                            <td>&nbsp;&nbsp;Pound Sterling</td>
+                                            <td>&nbsp;GBP</td>
+                                            <td>1</td>
+                                            <td>184.78</td>
+                                            <td>184.78</td>
+                                            <td>185.80</td>
+                                        </tr>
+                                                                            <tr>
+                                            <td>&nbsp;&nbsp;Swiss Franc</td>
+                                            <td>&nbsp;CHF</td>
+                                            <td>1</td>
+                                            <td>170.71</td>
+                                            <td>170.71</td>
+                                            <td>172.39</td>
+                                        </tr>
+                                                                            <tr>
+                                            <td>&nbsp;&nbsp;Australian Dollar</td>
+                                            <td>&nbsp;AUD</td>
+                                            <td>1</td>
+                                            <td>88.93</td>
+                                            <td>88.93</td>
+                                            <td>89.66</td>
+                                        </tr>
+                                                                            <tr>
+                                            <td>&nbsp;&nbsp;Canadian Dollar</td>
+                                            <td>&nbsp;CAD</td>
+                                            <td>1</td>
+                                            <td>99.46</td>
+                                            <td>99.46</td>
+                                            <td>100.44</td>
+                                        </tr>
+                                                                            <tr>
+                                            <td>&nbsp;&nbsp;Singapore Dollar</td>
+                                            <td>&nbsp;SGD</td>
+                                            <td>1</td>
+                                            <td>106.05</td>
+                                            <td>106.05</td>
+                                            <td>107.10</td>
+                                        </tr>
+                                                                            <tr>
+                                            <td>&nbsp;&nbsp;Japanese Yen</td>
+                                            <td>&nbsp;JPY</td>
+                                            <td>10</td>
+                                            <td>9.30</td>
+                                            <td>9.30</td>
+                                            <td>9.39</td>
+                                        </tr>
+                                                                            <tr>
+                                            <td>&nbsp;&nbsp;Chinese Yuan</td>
+                                            <td>&nbsp;CNY</td>
+                                            <td>1</td>
+                                            <td>18.54</td>
+                                            <td>18.54</td>
+                                            <td>18.72</td>
+                                        </tr>
+                                                                            <tr>
+                                            <td>&nbsp;&nbsp;Hong Kong Dollar</td>
+                                            <td>&nbsp;HKD</td>
+                                            <td>1</td>
+                                            <td>17.39</td>
+                                            <td>17.39</td>
+                                            <td>17.56</td>
+                                        </tr>
+                                                                            <tr>
+                                            <td>&nbsp;&nbsp;Danish Kroner</td>
+                                            <td>&nbsp;DKK</td>
+                                            <td>1</td>
+                                            <td>21.37</td>
+                                            <td>21.37</td>
+                                            <td>21.58</td>
+                                        </tr>
+                                                                            <tr>
+                                            <td>&nbsp;&nbsp;Malaysian Ringgit</td>
+                                            <td>&nbsp;MYR</td>
+                                            <td>1</td>
+                                            <td>31.53</td>
+                                            <td>31.53</td>
+                                            <td>31.83</td>
+                                        </tr>
+                                                                            <tr>
+                                            <td>&nbsp;&nbsp;Qatari Riyal</td>
+                                            <td>&nbsp;QAR</td>
+                                            <td>1</td>
+                                            <td>36.54</td>
+                                            <td>36.54</td>
+                                            <td>36.90</td>
+                                        </tr>
+                                                                            <tr>
+                                            <td>&nbsp;&nbsp;Saudi Arab Riyal</td>
+                                            <td>&nbsp;SAR</td>
+                                            <td>1</td>
+                                            <td>36.01</td>
+                                            <td>36.01</td>
+                                            <td>36.36</td>
+                                        </tr>
+                                                                            <tr>
+                                            <td>&nbsp;&nbsp;Swedish Kroner</td>
+                                            <td>&nbsp;SEK</td>
+                                            <td>1</td>
+                                            <td>14.23</td>
+                                            <td>14.23</td>
+                                            <td>14.36</td>
+                                        </tr>
+                                                                            <tr>
+                                            <td>&nbsp;&nbsp;Thai Baht</td>
+                                            <td>&nbsp;THB</td>
+                                            <td>1</td>
+                                            <td>4.18</td>
+                                            <td>4.18</td>
+                                            <td>4.21</td>
+                                        </tr>
+                                                                            <tr>
+                                            <td>&nbsp;&nbsp;UAE Dirham</td>
+                                            <td>&nbsp;AED</td>
+                                            <td>1</td>
+                                            <td>36.24</td>
+                                            <td>36.24</td>
+                                            <td>36.60</td>
+                                        </tr>
+                                                                            <tr>
+                                            <td>&nbsp;&nbsp;South Korean Won</td>
+                                            <td>&nbsp;KRW</td>
+                                            <td>100</td>
+                                            <td>9.95</td>
+                                            <td>9.95</td>
+                                            <td>10.04</td>
+                                        </tr>
+                                                                            <tr>
+                                            <td>&nbsp;&nbsp;Kuwaiti Dinar</td>
+                                            <td>&nbsp;KWD</td>
+                                            <td>1</td>
+                                            <td>445.99</td>
+                                            <td>445.99</td>
+                                            <td>448.67</td>
+                                        </tr>
+                                                                            <tr>
+                                            <td>&nbsp;&nbsp;Bahrain Dinar</td>
+                                            <td>&nbsp;BHD</td>
+                                            <td>1</td>
+                                            <td>361.62</td>
+                                            <td>361.62</td>
+                                            <td>363.11</td>
+                                        </tr>
+                                                                            <tr>
+                                            <td>Omani Riyal</td>
+                                            <td>OMR</td>
+                                            <td>1</td>
+                                            <td>354.04</td>
+                                            <td>354.04</td>
+                                            <td>355.56</td>
+                                        </tr>
+                                                                            <tr>
+                                            <td>Indian Currency</td>
+                                            <td>INR</td>
+                                            <td>100</td>
+                                            <td>160.00</td>
+                                            <td>160.00</td>
+                                            <td>160.15</td>
+                                        </tr>
+                                                                    </tbody>
+                            </table>
+Successfully opened Rastriya Banijya Bank Limited
+Opening Standard Chartered Bank Nepal Limited - https://www.sc.com/np/forex-solutions/
+<table width="565">
+<thead>
+<tr>
+<th width="118">
+<div class="th-wrapper"></div>
+</th>
+<th width="151">
+<div class="th-wrapper"></div>
+</th>
+<th width="97">
+<div class="th-wrapper">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BUY</div>
+</th>
+<th width="92">
+<div class="th-wrapper"></div>
+</th>
+<th width="107">
+<div class="th-wrapper">SELL</div>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CCY</td>
+<td width="151">CCY NOTES-BUY</td>
+<td>PRIME/EXPO</td>
+<td>OTHERS</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>USD</td>
+<td>136.60</td>
+<td>136.60</td>
+<td>136.60</td>
+<td>137.20</td>
+</tr>
+<tr>
+<td>EUR</td>
+<td>158.92</td>
+<td></td>
+<td>158.92</td>
+<td>160.51</td>
+</tr>
+<tr>
+<td>GBP</td>
+<td>184.45</td>
+<td></td>
+<td>184.45</td>
+<td>186.29</td>
+</tr>
+<tr>
+<td>CHF</td>
+<td>170.52</td>
+<td></td>
+<td>170.52</td>
+<td>172.23</td>
+</tr>
+<tr>
+<td>JPY (10)</td>
+<td>9.25</td>
+<td></td>
+<td>9.25</td>
+<td>9.34</td>
+</tr>
+<tr>
+<td>AUD</td>
+<td>88.65</td>
+<td></td>
+<td>88.65</td>
+<td>89.49</td>
+</tr>
+<tr>
+<td>SGD</td>
+<td>105.92</td>
+<td></td>
+<td>105.92</td>
+<td>106.87</td>
+</tr>
+<tr>
+<td>HKD</td>
+<td>17.20</td>
+<td></td>
+<td>17.20</td>
+<td>17.36</td>
+</tr>
+<tr>
+<td>CAD</td>
+<td>99.11</td>
+<td></td>
+<td>99.11</td>
+<td>100.10</td>
+</tr>
+<tr>
+<td>INR</td>
+<td>1.6000</td>
+<td></td>
+<td>1.6000</td>
+<td>1.6015</td>
+</tr>
+<tr>
+<td>DKK</td>
+<td>21.22</td>
+<td></td>
+<td>21.22</td>
+<td>21.43</td>
+</tr>
+<tr>
+<td>QAR</td>
+<td>36.54</td>
+<td></td>
+<td>36.54</td>
+<td>36.90</td>
+</tr>
+<tr>
+<td>CNY</td>
+<td>18.86</td>
+<td></td>
+<td>18.86</td>
+<td>19.04</td>
+</tr>
+<tr>
+<td>SAR</td>
+<td>35.56</td>
+<td></td>
+<td>35.56</td>
+<td>35.90</td>
+</tr>
+<tr>
+<td>SEK</td>
+<td>14.19</td>
+<td></td>
+<td>14.19</td>
+<td>14.32</td>
+</tr>
+<tr>
+<td>THB</td>
+<td>4.14</td>
+<td></td>
+<td>4.1400</td>
+<td>4.180</td>
+</tr>
+<tr>
+<td>MYR</td>
+<td>31.36</td>
+<td></td>
+<td>31.3600</td>
+<td>31.66</td>
+</tr>
+<tr>
+<td>AED</td>
+<td>36.31</td>
+<td></td>
+<td>36.3100</td>
+<td>36.66</td>
+</tr>
+<tr>
+<td>KRW (100)</td>
+<td>9.94</td>
+<td></td>
+<td>9.9400</td>
+<td>10.03</td>
+</tr>
+<tr>
+<td>BHD</td>
+<td>360.45</td>
+<td></td>
+<td>360.4500</td>
+<td>364.05</td>
+</tr>
+<tr>
+<td>KWD</td>
+<td>444.23</td>
+<td></td>
+<td>444.2300</td>
+<td>448.67</td>
+</tr>
+<tr>
+<td>OMR</td>
+<td>352.76</td>
+<td></td>
+<td>352.7600</td>
+<td>356.29</td>
+</tr>
+</tbody>
+</table>
+Successfully opened Standard Chartered Bank Nepal Limited
+Opening Nepal SBI Bank Limited - https://nsbl.statebank/exchange-rate
+<table class="table table-bordered">
+				<thead class="thead-style">
+					<tr>
+						<th scope="col">Currency</th>
+						<th scope="col">Unit</th>
+						<th scope="col">Buying Rate(Cash)</th>
+						<th scope="col">Buying Rate(Doc)</th>
+						<th scope="col">Selling Rate</th>
+					</tr>
+				</thead>
+				<tbody id="rates">
+					
+					<tr>
+						<td>
+							US Dollar 
+							
+																																																																																																																																																																								   
+		  
+						</td>
+						<td>
+							
+							1
+						</td>
+						<td>
+							
+																									   
+							136.7
+						</td>
+						<td>
+							
+							136.7
+						</td>
+						<td>
+							
+						
+																										  
+							137.3
+						</td>
+					</tr>
+					
+					<tr>
+						<td>
+							United Arab Emirates Dirham 
+							
+																																																																																																																																																																								   
+		  
+						</td>
+						<td>
+							
+							1
+						</td>
+						<td>
+							
+																									   
+							37.23
+						</td>
+						<td>
+							
+							37.23
+						</td>
+						<td>
+							
+						
+																										  
+							37.58
+						</td>
+					</tr>
+					
+					<tr>
+						<td>
+							Australian Dollar 
+							
+																																																																																																																																																																								   
+		  
+						</td>
+						<td>
+							
+							1
+						</td>
+						<td>
+							
+																									   
+							89.31
+						</td>
+						<td>
+							
+							89.31
+						</td>
+						<td>
+							
+						
+																										  
+							90.19
+						</td>
+					</tr>
+					
+					<tr>
+						<td>
+							Bahraini Dinar 
+							
+																																																																																																																																																																								   
+		  
+						</td>
+						<td>
+							
+							1
+						</td>
+						<td>
+							
+																									   
+							362.65
+						</td>
+						<td>
+							
+							362.65
+						</td>
+						<td>
+							
+						
+																										  
+							366.27
+						</td>
+					</tr>
+					
+					<tr>
+						<td>
+							CAD 
+							
+																																																																																																																																																																								   
+		  
+						</td>
+						<td>
+							
+							1
+						</td>
+						<td>
+							
+																									   
+							99.23
+						</td>
+						<td>
+							
+							99.23
+						</td>
+						<td>
+							
+						
+																										  
+							100.22
+						</td>
+					</tr>
+					
+					<tr>
+						<td>
+							Swiss Franc 
+							
+																																																																																																																																																																								   
+		  
+						</td>
+						<td>
+							
+							1
+						</td>
+						<td>
+							
+																									   
+							170.66
+						</td>
+						<td>
+							
+							170.66
+						</td>
+						<td>
+							
+						
+																										  
+							172.36
+						</td>
+					</tr>
+					
+					<tr>
+						<td>
+							Chinese Yuan 
+							
+																																																																																																																																																																								   
+		  
+						</td>
+						<td>
+							
+							1
+						</td>
+						<td>
+							
+																									   
+							18.99
+						</td>
+						<td>
+							
+							18.99
+						</td>
+						<td>
+							
+						
+																										  
+							19.17
+						</td>
+					</tr>
+					
+					<tr>
+						<td>
+							Danish krone 
+							
+																																																																																																																																																																								   
+		  
+						</td>
+						<td>
+							
+							1
+						</td>
+						<td>
+							
+																									   
+							21.46
+						</td>
+						<td>
+							
+							21.46
+						</td>
+						<td>
+							
+						
+																										  
+							21.66
+						</td>
+					</tr>
+					
+					<tr>
+						<td>
+							Euro 
+							
+																																																																																																																																																																								   
+		  
+						</td>
+						<td>
+							
+							1
+						</td>
+						<td>
+							
+																									   
+							159.82
+						</td>
+						<td>
+							
+							159.82
+						</td>
+						<td>
+							
+						
+																										  
+							161.41
+						</td>
+					</tr>
+					
+					<tr>
+						<td>
+							British Pound 
+							
+																																																																																																																																																																								   
+		  
+						</td>
+						<td>
+							
+							1
+						</td>
+						<td>
+							
+																									   
+							185.47
+						</td>
+						<td>
+							
+							185.47
+						</td>
+						<td>
+							
+						
+																										  
+							187.32
+						</td>
+					</tr>
+					
+					<tr>
+						<td>
+							Hong Kong Dollar 
+							
+																																																																																																																																																																								   
+		  
+						</td>
+						<td>
+							
+							1
+						</td>
+						<td>
+							
+																									   
+							17.41
+						</td>
+						<td>
+							
+							17.41
+						</td>
+						<td>
+							
+						
+																										  
+							17.56
+						</td>
+					</tr>
+					
+					<tr>
+						<td>
+							Indian Rupee (INR) 
+							
+																																																																																																																																																																								   
+		  
+						</td>
+						<td>
+							
+							1
+						</td>
+						<td>
+							
+																									   
+							1.6
+						</td>
+						<td>
+							
+							1.6
+						</td>
+						<td>
+							
+						
+																										  
+							1.6015
+						</td>
+					</tr>
+					
+					<tr>
+						<td>
+							Japanese Yen 
+							
+																																																																																																																																																																								   
+		  
+						</td>
+						<td>
+							
+							10
+						</td>
+						<td>
+							
+																									   
+							9.34
+						</td>
+						<td>
+							
+							9.34
+						</td>
+						<td>
+							
+						
+																										  
+							9.42
+						</td>
+					</tr>
+					
+					<tr>
+						<td>
+							South Korean Won 
+							
+																																																																																																																																																																								   
+		  
+						</td>
+						<td>
+							
+							100
+						</td>
+						<td>
+							
+																									   
+							9.82
+						</td>
+						<td>
+							
+							9.82
+						</td>
+						<td>
+							
+						
+																										  
+							9.9
+						</td>
+					</tr>
+					
+					<tr>
+						<td>
+							Kuwaiti Dinar 
+							
+																																																																																																																																																																								   
+		  
+						</td>
+						<td>
+							
+							1
+						</td>
+						<td>
+							
+																									   
+							447.79
+						</td>
+						<td>
+							
+							447.79
+						</td>
+						<td>
+							
+						
+																										  
+							452.25
+						</td>
+					</tr>
+					
+					<tr>
+						<td>
+							Malaysian Ringgit 
+							
+																																																																																																																																																																								   
+		  
+						</td>
+						<td>
+							
+							1
+						</td>
+						<td>
+							
+																									   
+							32.16
+						</td>
+						<td>
+							
+							32.16
+						</td>
+						<td>
+							
+						
+																										  
+							32.47
+						</td>
+					</tr>
+					
+					<tr>
+						<td>
+							Qatari Riyal 
+							
+																																																																																																																																																																								   
+		  
+						</td>
+						<td>
+							
+							1
+						</td>
+						<td>
+							
+																									   
+							36.87
+						</td>
+						<td>
+							
+							36.87
+						</td>
+						<td>
+							
+						
+																										  
+							37.23
+						</td>
+					</tr>
+					
+					<tr>
+						<td>
+							Saudi Riyal 
+							
+																																																																																																																																																																								   
+		  
+						</td>
+						<td>
+							
+							1
+						</td>
+						<td>
+							
+																									   
+							36.45
+						</td>
+						<td>
+							
+							36.45
+						</td>
+						<td>
+							
+						
+																										  
+							36.8
+						</td>
+					</tr>
+					
+					<tr>
+						<td>
+							Swedish Krona 
+							
+																																																																																																																																																																								   
+		  
+						</td>
+						<td>
+							
+							1
+						</td>
+						<td>
+							
+																									   
+							14.32
+						</td>
+						<td>
+							
+							14.32
+						</td>
+						<td>
+							
+						
+																										  
+							14.45
+						</td>
+					</tr>
+					
+					<tr>
+						<td>
+							Singapore Dollar 
+							
+																																																																																																																																																																								   
+		  
+						</td>
+						<td>
+							
+							1
+						</td>
+						<td>
+							
+																									   
+							106.41
+						</td>
+						<td>
+							
+							106.41
+						</td>
+						<td>
+							
+						
+																										  
+							107.46
+						</td>
+					</tr>
+					
+					<tr>
+						<td>
+							Thai Baht 
+							
+																																																																																																																																																																								   
+		  
+						</td>
+						<td>
+							
+							1
+						</td>
+						<td>
+							
+																									   
+							4.19
+						</td>
+						<td>
+							
+							4.19
+						</td>
+						<td>
+							
+						
+																										  
+							4.22
+						</td>
+					</tr>
+					
+					<tr>
+						<td>
+							OMR 
+							
+																																																																																																																																																																								   
+		  
+						</td>
+						<td>
+							
+							1
+						</td>
+						<td>
+							
+																									   
+							354.42
+						</td>
+						<td>
+							
+							354.42
+						</td>
+						<td>
+							
+						
+																										  
+							357.96
+						</td>
+					</tr>
+					
+				</tbody>
+			</table>
+Successfully opened Nepal SBI Bank Limited
+Opening Nabil Bank Limited - https://www.nabilbank.com/currency
+{'status': 200, 'data': [{'time': '10:05 AM', 'rate': [{'currency_short_code': 'us', 'currency_iso_code': 'USD', 'currency_code': 'Us Dollar', 'currency_unit': '1', 'buying_below': '136.02', 'buying_above': '136.70', 'selling': '137.30'}, {'currency_short_code': 'gb', 'currency_iso_code': 'GBP', 'currency_code': 'Pound Sterling', 'currency_unit': '1', 'buying_below': '185.38', 'buying_above': '185.38', 'selling': '187.23'}, {'currency_short_code': 'au', 'currency_iso_code': 'AUD', 'currency_code': 'Australian Dollar', 'currency_unit': '1', 'buying_below': '89.30', 'buying_above': '89.30', 'selling': '90.19'}, {'currency_short_code': 'ca', 'currency_iso_code': 'CAD', 'currency_code': 'Canadian Dollar', 'currency_unit': '1', 'buying_below': '99.77', 'buying_above': '99.77', 'selling': '100.75'}, {'currency_short_code': 'ch', 'currency_iso_code': 'CHF', 'currency_code': 'Swiss Frank', 'currency_unit': '1', 'buying_below': '170.94', 'buying_above': '170.94', 'selling': '172.64'}, {'currency_short_code': 'sg', 'currency_iso_code': 'SGD', 'currency_code': 'Singapore Dollar', 'currency_unit': '1', 'buying_below': '106.27', 'buying_above': '106.27', 'selling': '107.33'}, {'currency_short_code': 'jp', 'currency_iso_code': 'JPY', 'currency_code': 'Japanese Yen', 'currency_unit': '1', 'buying_below': '0.9326', 'buying_above': '0.9326', 'selling': '0.9418'}, {'currency_short_code': 'se', 'currency_iso_code': 'SEK', 'currency_code': 'Swedish Kroner', 'currency_unit': '1', 'buying_below': '14.35', 'buying_above': '14.35', 'selling': '14.49'}, {'currency_short_code': 'dk', 'currency_iso_code': 'DKK', 'currency_code': 'Danish Kroner', 'currency_unit': '1', 'buying_below': '21.49', 'buying_above': '21.49', 'selling': '21.70'}, {'currency_short_code': 'hk', 'currency_iso_code': 'HKD', 'currency_code': 'Hongkong Dollar', 'currency_unit': '1', 'buying_below': '17.37', 'buying_above': '17.37', 'selling': '17.54'}, {'currency_short_code': 'ae', 'currency_iso_code': 'AED', 'currency_code': 'UAE Dirham', 'currency_unit': '1', 'buying_below': '36.81', 'buying_above': '36.93', 'selling': '37.17'}, {'currency_short_code': 'th', 'currency_iso_code': 'THB', 'currency_code': 'Thai Bhat', 'currency_unit': '1', 'buying_below': '4.19', 'buying_above': '4.19', 'selling': '4.22'}, {'currency_short_code': 'my', 'currency_iso_code': 'MYR', 'currency_code': 'Malaysian Ringgit', 'currency_unit': '1', 'buying_below': '31.61', 'buying_above': '31.75', 'selling': '31.90'}, {'currency_short_code': 'sa', 'currency_iso_code': 'SAR', 'currency_code': 'Saudi Rial', 'currency_unit': '1', 'buying_below': '35.73', 'buying_above': '35.91', 'selling': '36.08'}, {'currency_short_code': 'cn', 'currency_iso_code': 'CNY', 'currency_code': 'Chinese Yuan', 'currency_unit': '1', 'buying_below': '18.99', 'buying_above': '18.99', 'selling': '19.17'}, {'currency_short_code': 'qa', 'currency_iso_code': 'QAR', 'currency_code': 'Qatari Riyal', 'currency_unit': '1', 'buying_below': '36.86', 'buying_above': '37.04', 'selling': '37.22'}, {'currency_short_code': 'eu', 'currency_iso_code': 'EUR', 'currency_code': 'Euro', 'currency_unit': '1', 'buying_below': '159.72', 'buying_above': '159.72', 'selling': '161.31'}, {'currency_short_code': 'kr', 'currency_iso_code': 'KRW', 'currency_code': 'S. Korean Won', 'currency_unit': '1', 'buying_below': '0.0995', 'buying_above': '0.0995', 'selling': '0.1004'}, {'currency_short_code': 'kw', 'currency_iso_code': 'KWD', 'currency_code': 'Kuwaiti Dinar', 'currency_unit': '1', 'buying_below': '442.90', 'buying_above': '445.11', 'selling': '447.29'}, {'currency_short_code': 'bh', 'currency_iso_code': 'BHD', 'currency_code': 'Bahrain Dinar', 'currency_unit': '1', 'buying_below': '358.74', 'buying_above': '360.53', 'selling': '362.29'}, {'currency_short_code': 'or', 'currency_iso_code': 'OMR', 'currency_code': 'Omani Riyal', 'currency_unit': '1', 'buying_below': '351.26', 'buying_above': '353.01', 'selling': '354.74'}]}], 'forex_notes': '<ul class="styled-list list-unstyled">\n\t<li>Rates are indicative only and are subject to change without prior notice depending on market conditions.</li>\n\t<li>For buying Foreign Currency Cash denomination of 50 or above, non cash rate will apply.</li>\n</ul>\n', 'forex_notes_np': '<ul class="styled-list list-unstyled">\n\t<li>दरहरू केवल सूचक मात्र हुन् र बजार सर्तहरूको आधारमा परिवर्तनको अधीनमा छन्।</li>\n\t<li>विदेशी मुद्रा नगद खरीदको लागि गैर नगदी दर लागू हुनेछ। test</li>\n</ul>\n', 'generated_date': '2025-07-10'}
+Successfully opened Nabil Bank Limited
+Opening Nepal Investment Mega Bank Limited - https://www.nimb.com.np/digital-banking/forex
+<table class="table"><thead><tr class="text-secondary"><th>Currency</th><th>Unit</th><th>Cash Buy</th><th>Non Cash Buy</th><th>Sell</th></tr></thead><tbody><tr><td class="rate-card--top d-flex align-items-center"><figure class="position-relative me-3"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="" src="/static/images/country-flags/USD.svg" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;" sizes="100vw" srcset="/static/images/country-flags/USD.svg 640w, /static/images/country-flags/USD.svg 750w, /static/images/country-flags/USD.svg 828w, /static/images/country-flags/USD.svg 1080w, /static/images/country-flags/USD.svg 1200w, /static/images/country-flags/USD.svg 1920w, /static/images/country-flags/USD.svg 2048w, /static/images/country-flags/USD.svg 3840w"><noscript></noscript></span></figure>US Dollar (USD)</td><td>1 </td><td>136.02</td><td>136.70</td><td>137.30</td></tr><tr><td class="rate-card--top d-flex align-items-center"><figure class="position-relative me-3"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="" src="/static/images/country-flags/GBP.svg" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;" sizes="100vw" srcset="/static/images/country-flags/GBP.svg 640w, /static/images/country-flags/GBP.svg 750w, /static/images/country-flags/GBP.svg 828w, /static/images/country-flags/GBP.svg 1080w, /static/images/country-flags/GBP.svg 1200w, /static/images/country-flags/GBP.svg 1920w, /static/images/country-flags/GBP.svg 2048w, /static/images/country-flags/GBP.svg 3840w"><noscript></noscript></span></figure>Pound Sterling (GBP)</td><td>1 </td><td>185.20</td><td>185.20</td><td>187.05</td></tr><tr><td class="rate-card--top d-flex align-items-center"><figure class="position-relative me-3"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="" src="/static/images/country-flags/AUD.svg" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;" sizes="100vw" srcset="/static/images/country-flags/AUD.svg 640w, /static/images/country-flags/AUD.svg 750w, /static/images/country-flags/AUD.svg 828w, /static/images/country-flags/AUD.svg 1080w, /static/images/country-flags/AUD.svg 1200w, /static/images/country-flags/AUD.svg 1920w, /static/images/country-flags/AUD.svg 2048w, /static/images/country-flags/AUD.svg 3840w"><noscript></noscript></span></figure>Australian Dollar (AUD)</td><td>1 </td><td>89.05</td><td>89.05</td><td>89.94</td></tr><tr><td class="rate-card--top d-flex align-items-center"><figure class="position-relative me-3"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="" src="/static/images/country-flags/CAD.svg" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;" sizes="100vw" srcset="/static/images/country-flags/CAD.svg 640w, /static/images/country-flags/CAD.svg 750w, /static/images/country-flags/CAD.svg 828w, /static/images/country-flags/CAD.svg 1080w, /static/images/country-flags/CAD.svg 1200w, /static/images/country-flags/CAD.svg 1920w, /static/images/country-flags/CAD.svg 2048w, /static/images/country-flags/CAD.svg 3840w"><noscript></noscript></span></figure>Canadian Dollar (CAD)</td><td>1 </td><td>99.48</td><td>99.48</td><td>100.47</td></tr><tr><td class="rate-card--top d-flex align-items-center"><figure class="position-relative me-3"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="" src="/static/images/country-flags/CHF.svg" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;" sizes="100vw" srcset="/static/images/country-flags/CHF.svg 640w, /static/images/country-flags/CHF.svg 750w, /static/images/country-flags/CHF.svg 828w, /static/images/country-flags/CHF.svg 1080w, /static/images/country-flags/CHF.svg 1200w, /static/images/country-flags/CHF.svg 1920w, /static/images/country-flags/CHF.svg 2048w, /static/images/country-flags/CHF.svg 3840w"><noscript></noscript></span></figure>Swiss Frank (CHF)</td><td>1 </td><td>170.88</td><td>170.88</td><td>172.58</td></tr><tr><td class="rate-card--top d-flex align-items-center"><figure class="position-relative me-3"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="" src="/static/images/country-flags/SGD.svg" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;" sizes="100vw" srcset="/static/images/country-flags/SGD.svg 640w, /static/images/country-flags/SGD.svg 750w, /static/images/country-flags/SGD.svg 828w, /static/images/country-flags/SGD.svg 1080w, /static/images/country-flags/SGD.svg 1200w, /static/images/country-flags/SGD.svg 1920w, /static/images/country-flags/SGD.svg 2048w, /static/images/country-flags/SGD.svg 3840w"><noscript></noscript></span></figure>Singapore Dollar (SGD)</td><td>1 </td><td>106.32</td><td>106.32</td><td>107.39</td></tr><tr><td class="rate-card--top d-flex align-items-center"><figure class="position-relative me-3"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="" src="/static/images/country-flags/JPY.svg" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;" sizes="100vw" srcset="/static/images/country-flags/JPY.svg 640w, /static/images/country-flags/JPY.svg 750w, /static/images/country-flags/JPY.svg 828w, /static/images/country-flags/JPY.svg 1080w, /static/images/country-flags/JPY.svg 1200w, /static/images/country-flags/JPY.svg 1920w, /static/images/country-flags/JPY.svg 2048w, /static/images/country-flags/JPY.svg 3840w"><noscript></noscript></span></figure>Japanese Yen (JPY)</td><td>1 </td><td>0.9322</td><td>0.9322</td><td>0.9415</td></tr><tr><td class="rate-card--top d-flex align-items-center"><figure class="position-relative me-3"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="" src="/static/images/country-flags/SEK.svg" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;" sizes="100vw" srcset="/static/images/country-flags/SEK.svg 640w, /static/images/country-flags/SEK.svg 750w, /static/images/country-flags/SEK.svg 828w, /static/images/country-flags/SEK.svg 1080w, /static/images/country-flags/SEK.svg 1200w, /static/images/country-flags/SEK.svg 1920w, /static/images/country-flags/SEK.svg 2048w, /static/images/country-flags/SEK.svg 3840w"><noscript></noscript></span></figure>Swedish Kroner (SEK)</td><td>1 </td><td>14.28</td><td>14.28</td><td>14.42</td></tr><tr><td class="rate-card--top d-flex align-items-center"><figure class="position-relative me-3"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="" src="/static/images/country-flags/DKK.svg" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;" sizes="100vw" srcset="/static/images/country-flags/DKK.svg 640w, /static/images/country-flags/DKK.svg 750w, /static/images/country-flags/DKK.svg 828w, /static/images/country-flags/DKK.svg 1080w, /static/images/country-flags/DKK.svg 1200w, /static/images/country-flags/DKK.svg 1920w, /static/images/country-flags/DKK.svg 2048w, /static/images/country-flags/DKK.svg 3840w"><noscript></noscript></span></figure>Danish Kroner (DKK)</td><td>1 </td><td>21.26</td><td>21.26</td><td>21.47</td></tr><tr><td class="rate-card--top d-flex align-items-center"><figure class="position-relative me-3"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"><noscript></noscript></span></figure>Hongkong Dollar (HKD)</td><td>1 </td><td>17.30</td><td>17.30</td><td>17.47</td></tr><tr><td class="rate-card--top d-flex align-items-center"><figure class="position-relative me-3"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"><noscript></noscript></span></figure>UAE Dirham (AED)</td><td>1 </td><td>37.21</td><td>37.21</td><td>37.58</td></tr><tr><td class="rate-card--top d-flex align-items-center"><figure class="position-relative me-3"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"><noscript></noscript></span></figure>Thai Bhat (THB)</td><td>1 </td><td>4.17</td><td>4.17</td><td>4.21</td></tr><tr><td class="rate-card--top d-flex align-items-center"><figure class="position-relative me-3"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"><noscript></noscript></span></figure>Malaysian Ringgit (MYR)</td><td>1 </td><td>31.05</td><td>31.05</td><td>31.36</td></tr><tr><td class="rate-card--top d-flex align-items-center"><figure class="position-relative me-3"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"><noscript></noscript></span></figure>Saudi Rial (SAR)</td><td>1 </td><td>35.95</td><td>35.95</td><td>36.31</td></tr><tr><td class="rate-card--top d-flex align-items-center"><figure class="position-relative me-3"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"><noscript></noscript></span></figure>Chinese Yuan (CNY)</td><td>1 </td><td>18.97</td><td>18.97</td><td>19.16</td></tr><tr><td class="rate-card--top d-flex align-items-center"><figure class="position-relative me-3"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"><noscript></noscript></span></figure>Qatari Riyal (QAR)</td><td>1 </td><td>36.77</td><td>36.77</td><td>37.14</td></tr><tr><td class="rate-card--top d-flex align-items-center"><figure class="position-relative me-3"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"><noscript></noscript></span></figure>Euro (EUR)</td><td>1 </td><td>159.69</td><td>159.69</td><td>161.29</td></tr><tr><td class="rate-card--top d-flex align-items-center"><figure class="position-relative me-3"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"><noscript></noscript></span></figure>S Korean Won (KRW)</td><td>1 </td><td>0.0995</td><td>0.0995</td><td>0.1005</td></tr><tr><td class="rate-card--top d-flex align-items-center"><figure class="position-relative me-3"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"><noscript></noscript></span></figure>Kuwaiti Dinar (KWD)</td><td>1 </td><td>444.71</td><td>444.71</td><td>449.16</td></tr><tr><td class="rate-card--top d-flex align-items-center"><figure class="position-relative me-3"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"><noscript></noscript></span></figure>Bahrain Dinar (BHD)</td><td>1 </td><td>360.64</td><td>360.64</td><td>364.24</td></tr><tr><td class="rate-card--top d-flex align-items-center"><figure class="position-relative me-3"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"><noscript></noscript></span></figure>Indian Rupees (INR)</td><td>1 </td><td>1.6000</td><td>1.6000</td><td>1.6015</td></tr><tr><td class="rate-card--top d-flex align-items-center"><figure class="position-relative me-3"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"><noscript></noscript></span></figure>Omani Rial (OMR)</td><td>1 </td><td>354.07</td><td>354.07</td><td>357.61</td></tr></tbody></table>
+Successfully opened Nepal Investment Mega Bank Limited
+Opening Himalayan Bank Limited - https://www.himalayanbank.com/int/rate/listbyDate.php
+<table width="100%" border="0" cellpadding="4" cellspacing="1" bgcolor="#D3A9C1">
+                    <tbody><tr style="color: #FFFFFF">
+                    <td width="85" rowspan="2" align="center" bgcolor="#FFF4FA"><font color="#000000"><b>Currency</b></font></td>
+                    <td width="50" rowspan="2" align="center" bgcolor="#FFF4FA"><font color="#000000"><b>Unit</b></font></td>
+                    <td colspan="2" align="center" bgcolor="#FFF4FA"><font color="#000000"><b>Cash</b></font></td>
+                    <td colspan="2" align="center" bgcolor="#FFF4FA"><font color="#000000"><b>TC</b></font></td>
+                  </tr>
+                  <tr bgcolor="#73454F" style="color: #FFFFFF">
+                    <td align="center" bgcolor="#FFF4FA"><font color="#000000"><b>Buying</b></font></td>
+                    <td align="center" bgcolor="#FFF4FA"><font color="#000000"><b>Selling</b></font></td>
+                    <td align="center" bgcolor="#FFF4FA"><font color="#000000"><b>Buying</b></font></td>
+                    <td align="center" bgcolor="#FFF4FA"><font color="#000000"><b>Selling</b></font></td>
+                  </tr>
+                                    <tr> 
+                    <td align="center" bgcolor="#FFFFFF">USD</td>
+                    <td align="center" bgcolor="#FFFFFF">1</td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    136.6500                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    -                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    136.6500                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    137.2500                    </td>
+                  </tr>
+                                    <tr> 
+                    <td align="center" bgcolor="#F8F8F8">USD-CASH</td>
+                    <td align="center" bgcolor="#F8F8F8"></td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    -                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    -                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    -                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    137.5500                    </td>
+                  </tr>
+                                    <tr> 
+                    <td align="center" bgcolor="#FFFFFF">AUD</td>
+                    <td align="center" bgcolor="#FFFFFF">1</td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    89.3300                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    -                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    89.3300                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    90.2300                    </td>
+                  </tr>
+                                    <tr> 
+                    <td align="center" bgcolor="#F8F8F8">EUR</td>
+                    <td align="center" bgcolor="#F8F8F8">1</td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    159.6400                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    -                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    159.6400                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    161.2300                    </td>
+                  </tr>
+                                    <tr> 
+                    <td align="center" bgcolor="#FFFFFF">GBP</td>
+                    <td align="center" bgcolor="#FFFFFF">1</td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    185.1500                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    -                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    185.1500                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    187.0000                    </td>
+                  </tr>
+                                    <tr> 
+                    <td align="center" bgcolor="#F8F8F8">CAD</td>
+                    <td align="center" bgcolor="#F8F8F8">1</td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    98.8800                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    -                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    98.8800                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    99.8700                    </td>
+                  </tr>
+                                    <tr> 
+                    <td align="center" bgcolor="#FFFFFF">CHF</td>
+                    <td align="center" bgcolor="#FFFFFF">1</td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    170.7600                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    -                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    170.7600                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    172.4700                    </td>
+                  </tr>
+                                    <tr> 
+                    <td align="center" bgcolor="#F8F8F8">JPY</td>
+                    <td align="center" bgcolor="#F8F8F8">1</td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    0.9363                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    -                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    0.9363                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    0.9456                    </td>
+                  </tr>
+                                    <tr> 
+                    <td align="center" bgcolor="#FFFFFF">SGD</td>
+                    <td align="center" bgcolor="#FFFFFF">1</td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    106.4200                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    -                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    106.4200                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    107.4800                    </td>
+                  </tr>
+                                    <tr> 
+                    <td align="center" bgcolor="#F8F8F8">CNY</td>
+                    <td align="center" bgcolor="#F8F8F8">1</td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    18.9100                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    -                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    18.9100                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    19.1000                    </td>
+                  </tr>
+                                    <tr> 
+                    <td align="center" bgcolor="#FFFFFF">AED</td>
+                    <td align="center" bgcolor="#FFFFFF">1</td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    36.9400                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    -                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    36.9400                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    37.3100                    </td>
+                  </tr>
+                                    <tr> 
+                    <td align="center" bgcolor="#F8F8F8">MYR</td>
+                    <td align="center" bgcolor="#F8F8F8">1</td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    31.9100                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    -                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    31.9100                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    32.2300                    </td>
+                  </tr>
+                                    <tr> 
+                    <td align="center" bgcolor="#FFFFFF">QAR</td>
+                    <td align="center" bgcolor="#FFFFFF">1</td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    37.3000                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    -                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    37.3000                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    37.6800                    </td>
+                  </tr>
+                                    <tr> 
+                    <td align="center" bgcolor="#F8F8F8">SAR</td>
+                    <td align="center" bgcolor="#F8F8F8">1</td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    36.1600                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    -                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    36.1600                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    36.5200                    </td>
+                  </tr>
+                                    <tr> 
+                    <td align="center" bgcolor="#FFFFFF">THB</td>
+                    <td align="center" bgcolor="#FFFFFF">1</td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    4.2200                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    -                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    4.2200                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    4.2600                    </td>
+                  </tr>
+                                    <tr> 
+                    <td align="center" bgcolor="#F8F8F8">KRW</td>
+                    <td align="center" bgcolor="#F8F8F8">1</td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    0.0993                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    -                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    0.0993                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    0.1003                    </td>
+                  </tr>
+                                    <tr> 
+                    <td align="center" bgcolor="#FFFFFF">DKK</td>
+                    <td align="center" bgcolor="#FFFFFF">1</td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    21.6300                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    -                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    21.6300                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    21.8400                    </td>
+                  </tr>
+                                    <tr> 
+                    <td align="center" bgcolor="#F8F8F8">HKD</td>
+                    <td align="center" bgcolor="#F8F8F8">1</td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    17.5700                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    -                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    17.5700                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    17.7500                    </td>
+                  </tr>
+                                    <tr> 
+                    <td align="center" bgcolor="#FFFFFF">SEK</td>
+                    <td align="center" bgcolor="#FFFFFF">1</td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    14.5700                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    -                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    14.5700                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    14.7100                    </td>
+                  </tr>
+                                    <tr> 
+                    <td align="center" bgcolor="#F8F8F8">BHD</td>
+                    <td align="center" bgcolor="#F8F8F8">1</td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    359.7900                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    -                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    359.7900                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    363.3900                    </td>
+                  </tr>
+                                    <tr> 
+                    <td align="center" bgcolor="#FFFFFF">KWD</td>
+                    <td align="center" bgcolor="#FFFFFF">1</td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    444.2600                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    -                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    444.2600                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    448.7000                    </td>
+                  </tr>
+                                    <tr> 
+                    <td align="center" bgcolor="#F8F8F8">OMR</td>
+                    <td align="center" bgcolor="#F8F8F8">1</td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    352.2900                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    -                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    352.2900                    </td>
+                    <td align="center" bgcolor="#F8F8F8">
+                    355.8100                    </td>
+                  </tr>
+                                    <tr> 
+                    <td align="center" bgcolor="#FFFFFF">INR</td>
+                    <td align="center" bgcolor="#FFFFFF">100</td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    160.0000                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    -                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    160.0000                    </td>
+                    <td align="center" bgcolor="#FFFFFF">
+                    160.1500                    </td>
+                  </tr>
+                              </tbody></table>
+Successfully opened Himalayan Bank Limited
+Opening Global IME Bank Limited - https://www.globalimebank.com/forex-rates/
+<div class="table-grid"><div class="table-row header"><div class="table-cell" style="width: min(25rem, 100%);">Currency</div><div class="table-cell" style="width: auto;">Unit</div><div class="table-cell" style="width: auto;">CSB</div><div class="table-cell" style="width: auto;">NCB</div><div class="table-cell" style="width: auto;">Selling</div></div><div class="table-row body"><div class="table-cell" style="width: min(25rem, 100%);"><img alt="USD" loading="lazy" width="20" height="15" decoding="async" data-nimg="1" class="me-2" src="/assets/svg/country-flags/USD.svg" style="color: transparent; object-fit: contain;"><span class="d-none d-md-block ">US Dollar</span><span class="d-md-none">USD</span></div><div class="table-cell" style="width: auto;">1</div><div class="table-cell" style="width: auto;">135.97</div><div class="table-cell" style="width: auto;">136.65</div><div class="table-cell" style="width: auto;">137.25</div></div><div class="table-row body"><div class="table-cell" style="width: min(25rem, 100%);"><img alt="GBP" loading="lazy" width="20" height="15" decoding="async" data-nimg="1" class="me-2" src="/assets/svg/country-flags/GBP.svg" style="color: transparent; object-fit: contain;"><span class="d-none d-md-block ">Pound Sterling</span><span class="d-md-none">GBP</span></div><div class="table-cell" style="width: auto;">1</div><div class="table-cell" style="width: auto;">185.29</div><div class="table-cell" style="width: auto;">185.29</div><div class="table-cell" style="width: auto;">187.13</div></div><div class="table-row body"><div class="table-cell" style="width: min(25rem, 100%);"><img alt="AUD" loading="lazy" width="20" height="15" decoding="async" data-nimg="1" class="me-2" src="/assets/svg/country-flags/AUD.svg" style="color: transparent; object-fit: contain;"><span class="d-none d-md-block ">Australian Dollar</span><span class="d-md-none">AUD</span></div><div class="table-cell" style="width: auto;">1</div><div class="table-cell" style="width: auto;">89.28</div><div class="table-cell" style="width: auto;">89.28</div><div class="table-cell" style="width: auto;">90.15</div></div><div class="table-row body"><div class="table-cell" style="width: min(25rem, 100%);"><img alt="CAD" loading="lazy" width="20" height="15" decoding="async" data-nimg="1" class="me-2" src="/assets/svg/country-flags/CAD.svg" style="color: transparent; object-fit: contain;"><span class="d-none d-md-block ">Canadian Dollar</span><span class="d-md-none">CAD</span></div><div class="table-cell" style="width: auto;">1</div><div class="table-cell" style="width: auto;">100.00</div><div class="table-cell" style="width: auto;">100.00</div><div class="table-cell" style="width: auto;">100.98</div></div><div class="table-row body"><div class="table-cell" style="width: min(25rem, 100%);"><img alt="CHF" loading="lazy" width="20" height="15" decoding="async" data-nimg="1" class="me-2" src="/assets/svg/country-flags/CHF.svg" style="color: transparent; object-fit: contain;"><span class="d-none d-md-block ">Swiss Franc</span><span class="d-md-none">CHF</span></div><div class="table-cell" style="width: auto;">1</div><div class="table-cell" style="width: auto;">170.19</div><div class="table-cell" style="width: auto;">171.05</div><div class="table-cell" style="width: auto;">171.88</div></div><div class="table-row body"><div class="table-cell" style="width: min(25rem, 100%);"><img alt="SGD" loading="lazy" width="20" height="15" decoding="async" data-nimg="1" class="me-2" src="/assets/svg/country-flags/SGD.svg" style="color: transparent; object-fit: contain;"><span class="d-none d-md-block ">Singapore Dollar</span><span class="d-md-none">SGD</span></div><div class="table-cell" style="width: auto;">1</div><div class="table-cell" style="width: auto;">106.60</div><div class="table-cell" style="width: auto;">106.60</div><div class="table-cell" style="width: auto;">107.64</div></div><div class="table-row body"><div class="table-cell" style="width: min(25rem, 100%);"><img alt="JPY" loading="lazy" width="20" height="15" decoding="async" data-nimg="1" class="me-2" src="/assets/svg/country-flags/JPY.svg" style="color: transparent; object-fit: contain;"><span class="d-none d-md-block ">Japanese Yen</span><span class="d-md-none">JPY</span></div><div class="table-cell" style="width: auto;">10</div><div class="table-cell" style="width: auto;">9.36</div><div class="table-cell" style="width: auto;">9.36</div><div class="table-cell" style="width: auto;">9.44</div></div><div class="table-row body"><div class="table-cell" style="width: min(25rem, 100%);"><img alt="SEK" loading="lazy" width="20" height="15" decoding="async" data-nimg="1" class="me-2" src="/assets/svg/country-flags/SEK.svg" style="color: transparent; object-fit: contain;"><span class="d-none d-md-block ">Swedish Kroner</span><span class="d-md-none">SEK</span></div><div class="table-cell" style="width: auto;">1</div><div class="table-cell" style="width: auto;">14.23</div><div class="table-cell" style="width: auto;">14.31</div><div class="table-cell" style="width: auto;">14.37</div></div><div class="table-row body"><div class="table-cell" style="width: min(25rem, 100%);"><img alt="DKK" loading="lazy" width="20" height="15" decoding="async" data-nimg="1" class="me-2" src="/assets/svg/country-flags/DKK.svg" style="color: transparent; object-fit: contain;"><span class="d-none d-md-block ">Danish Krone</span><span class="d-md-none">DKK</span></div><div class="table-cell" style="width: auto;">1</div><div class="table-cell" style="width: auto;">21.29</div><div class="table-cell" style="width: auto;">21.40</div><div class="table-cell" style="width: auto;">21.49</div></div><div class="table-row body"><div class="table-cell" style="width: min(25rem, 100%);"><img alt="HKD" loading="lazy" width="20" height="15" decoding="async" data-nimg="1" class="me-2" src="/assets/svg/country-flags/HKD.svg" style="color: transparent; object-fit: contain;"><span class="d-none d-md-block ">Hongkong Dollar</span><span class="d-md-none">HKD</span></div><div class="table-cell" style="width: auto;">1</div><div class="table-cell" style="width: auto;">17.28</div><div class="table-cell" style="width: auto;">17.36</div><div class="table-cell" style="width: auto;">17.44</div></div><div class="table-row body"><div class="table-cell" style="width: min(25rem, 100%);"><img alt="AED" loading="lazy" width="20" height="15" decoding="async" data-nimg="1" class="me-2" src="/assets/svg/country-flags/AED.svg" style="color: transparent; object-fit: contain;"><span class="d-none d-md-block ">UAE Dirham</span><span class="d-md-none">AED</span></div><div class="table-cell" style="width: auto;">1</div><div class="table-cell" style="width: auto;">37.08</div><div class="table-cell" style="width: auto;">37.13</div><div class="table-cell" style="width: auto;">37.44</div></div><div class="table-row body"><div class="table-cell" style="width: min(25rem, 100%);"><img alt="THB" loading="lazy" width="20" height="15" decoding="async" data-nimg="1" class="me-2" src="/assets/svg/country-flags/THB.svg" style="color: transparent; object-fit: contain;"><span class="d-none d-md-block ">Thai Bhat</span><span class="d-md-none">THB</span></div><div class="table-cell" style="width: auto;">1</div><div class="table-cell" style="width: auto;">4.14</div><div class="table-cell" style="width: auto;">4.16</div><div class="table-cell" style="width: auto;">4.18</div></div><div class="table-row body"><div class="table-cell" style="width: min(25rem, 100%);"><img alt="MYR" loading="lazy" width="20" height="15" decoding="async" data-nimg="1" class="me-2" src="/assets/svg/country-flags/MYR.svg" style="color: transparent; object-fit: contain;"><span class="d-none d-md-block ">Malaysian Ringgit</span><span class="d-md-none">MYR</span></div><div class="table-cell" style="width: auto;">1</div><div class="table-cell" style="width: auto;">31.86</div><div class="table-cell" style="width: auto;">31.91</div><div class="table-cell" style="width: auto;">32.17</div></div><div class="table-row body"><div class="table-cell" style="width: min(25rem, 100%);"><img alt="SAR" loading="lazy" width="20" height="15" decoding="async" data-nimg="1" class="me-2" src="/assets/svg/country-flags/SAR.svg" style="color: transparent; object-fit: contain;"><span class="d-none d-md-block ">Saudi Rial</span><span class="d-md-none">SAR</span></div><div class="table-cell" style="width: auto;">1</div><div class="table-cell" style="width: auto;">35.83</div><div class="table-cell" style="width: auto;">35.88</div><div class="table-cell" style="width: auto;">36.17</div></div><div class="table-row body"><div class="table-cell" style="width: min(25rem, 100%);"><img alt="CNY" loading="lazy" width="20" height="15" decoding="async" data-nimg="1" class="me-2" src="/assets/svg/country-flags/CNY.svg" style="color: transparent; object-fit: contain;"><span class="d-none d-md-block ">Chinese Yuan</span><span class="d-md-none">CNY</span></div><div class="table-cell" style="width: auto;">1</div><div class="table-cell" style="width: auto;">19.01</div><div class="table-cell" style="width: auto;">19.11</div><div class="table-cell" style="width: auto;">19.19</div></div><div class="table-row body"><div class="table-cell" style="width: min(25rem, 100%);"><img alt="QAR" loading="lazy" width="20" height="15" decoding="async" data-nimg="1" class="me-2" src="/assets/svg/country-flags/QAR.svg" style="color: transparent; object-fit: contain;"><span class="d-none d-md-block ">Qatari Riyal</span><span class="d-md-none">QAR</span></div><div class="table-cell" style="width: auto;">1</div><div class="table-cell" style="width: auto;">36.83</div><div class="table-cell" style="width: auto;">36.88</div><div class="table-cell" style="width: auto;">37.19</div></div><div class="table-row body"><div class="table-cell" style="width: min(25rem, 100%);"><img alt="EUR" loading="lazy" width="20" height="15" decoding="async" data-nimg="1" class="me-2" src="/assets/svg/country-flags/EUR.svg" style="color: transparent; object-fit: contain;"><span class="d-none d-md-block ">Euro</span><span class="d-md-none">EUR</span></div><div class="table-cell" style="width: auto;">1</div><div class="table-cell" style="width: auto;">159.60</div><div class="table-cell" style="width: auto;">159.60</div><div class="table-cell" style="width: auto;">161.18</div></div><div class="table-row body"><div class="table-cell" style="width: min(25rem, 100%);"><img alt="KRWR" loading="lazy" width="20" height="15" decoding="async" data-nimg="1" class="me-2" src="/assets/svg/country-flags/KRWR.svg" style="color: transparent; object-fit: contain;"><span class="d-none d-md-block ">South Korean Won</span><span class="d-md-none">KRWR</span></div><div class="table-cell" style="width: auto;">100</div><div class="table-cell" style="width: auto;">10.00</div><div class="table-cell" style="width: auto;">10.00</div><div class="table-cell" style="width: auto;">10.09</div></div><div class="table-row body"><div class="table-cell" style="width: min(25rem, 100%);"><img alt="KWD" loading="lazy" width="20" height="15" decoding="async" data-nimg="1" class="me-2" src="/assets/svg/country-flags/KWD.svg" style="color: transparent; object-fit: contain;"><span class="d-none d-md-block ">Kuwaiti Dinar</span><span class="d-md-none">KWD</span></div><div class="table-cell" style="width: auto;">1</div><div class="table-cell" style="width: auto;">444.10</div><div class="table-cell" style="width: auto;">446.34</div><div class="table-cell" style="width: auto;">448.50</div></div><div class="table-row body"><div class="table-cell" style="width: min(25rem, 100%);"><img alt="BHD" loading="lazy" width="20" height="15" decoding="async" data-nimg="1" class="me-2" src="/assets/svg/country-flags/BHD.svg" style="color: transparent; object-fit: contain;"><span class="d-none d-md-block ">Bahrain Dinar</span><span class="d-md-none">BHD</span></div><div class="table-cell" style="width: auto;">1</div><div class="table-cell" style="width: auto;">358.90</div><div class="table-cell" style="width: auto;">360.71</div><div class="table-cell" style="width: auto;">362.46</div></div><div class="table-row body"><div class="table-cell" style="width: min(25rem, 100%);"><img alt="INR" loading="lazy" width="20" height="15" decoding="async" data-nimg="1" class="me-2" src="/assets/svg/country-flags/INR.svg" style="color: transparent; object-fit: contain;"><span class="d-none d-md-block ">Indian Rupees</span><span class="d-md-none">INR</span></div><div class="table-cell" style="width: auto;">100</div><div class="table-cell" style="width: auto;">160.00</div><div class="table-cell" style="width: auto;">160.00</div><div class="table-cell" style="width: auto;">160.15</div></div><div class="table-row body"><div class="table-cell" style="width: min(25rem, 100%);"><img alt="OMR" loading="lazy" width="20" height="15" decoding="async" data-nimg="1" class="me-2" src="/assets/svg/country-flags/OMR.svg" style="color: transparent; object-fit: contain;"><span class="d-none d-md-block ">Omani Riyal</span><span class="d-md-none">OMR</span></div><div class="table-cell" style="width: auto;">1</div><div class="table-cell" style="width: auto;">353.41</div><div class="table-cell" style="width: auto;">355.18</div><div class="table-cell" style="width: auto;">356.91</div></div></div>
+Successfully opened Global IME Bank Limited
+Opening NMB Bank Limited - https://www.nmb.com.np/forex
+<table role="table" id="datatableexample" class="table table-striped"><thead><tr role="row"><th colspan="1" role="columnheader">Currency</th><th colspan="1" role="columnheader">Unit</th><th colspan="1" role="columnheader">Buying(Note of Deno 50)</th><th colspan="1" role="columnheader">Buying(Note of Deno 50 and above)</th><th colspan="1" role="columnheader">Selling/Rs.</th></tr></thead><tbody id="table_body" role="rowgroup"><tr role="row"><td role="cell"><i class="flag-icon flag-icon-us"></i> US Dollar</td><td role="cell"> 1</td><td role="cell"> 136.02</td><td role="cell"> 136.70</td><td role="cell"> 137.30</td></tr><tr role="row"><td role="cell"><i class="flag-icon flag-icon-eu"></i> Euro</td><td role="cell"> 1</td><td role="cell"> 159.87</td><td role="cell"> 160.05</td><td role="cell"> 161.63</td></tr><tr role="row"><td role="cell"><i class="flag-icon flag-icon-gb"></i> Pound Sterling</td><td role="cell"> 1</td><td role="cell"> 185.38</td><td role="cell"> 185.58</td><td role="cell"> 187.44</td></tr><tr role="row"><td role="cell"><i class="flag-icon flag-icon-ch"></i> Swiss Franc</td><td role="cell"> 1</td><td role="cell"> 171.37</td><td role="cell"> 171.37</td><td role="cell"> 172.88</td></tr><tr role="row"><td role="cell"><i class="flag-icon flag-icon-hm"></i> Australian Dollar</td><td role="cell"> 1</td><td role="cell"> 89.39</td><td role="cell"> 89.39</td><td role="cell"> 90.27</td></tr><tr role="row"><td role="cell"><i class="flag-icon flag-icon-ca"></i> Canadian Dollar</td><td role="cell"> 1</td><td role="cell"> 99.86</td><td role="cell"> 99.86</td><td role="cell"> 100.86</td></tr><tr role="row"><td role="cell"><i class="flag-icon flag-icon-sg"></i> Singapore Dollar</td><td role="cell"> 1</td><td role="cell"> 106.25</td><td role="cell"> 106.46</td><td role="cell"> 107.51</td></tr><tr role="row"><td role="cell"><i class="flag-icon flag-icon-jp"></i> Japanese Yen</td><td role="cell"> 10</td><td role="cell"> 9.32</td><td role="cell"> 9.32</td><td role="cell"> 9.41</td></tr><tr role="row"><td role="cell"><i class="flag-icon flag-icon-cn"></i> Chinese Yuan</td><td role="cell"> 1</td><td role="cell"> 19.00</td><td role="cell"> 19.00</td><td role="cell"> 19.18</td></tr><tr role="row"><td role="cell"><i class="flag-icon flag-icon-hk"></i> Hongkong Dollar</td><td role="cell"> 1</td><td role="cell"> 17.34</td><td role="cell"> 17.37</td><td role="cell"> 17.53</td></tr><tr role="row"><td role="cell"><i class="flag-icon flag-icon-dk"></i> Danish Kroner</td><td role="cell"> 1</td><td role="cell"> 21.34</td><td role="cell"> 21.38</td><td role="cell"> 21.57</td></tr><tr role="row"><td role="cell"><i class="flag-icon flag-icon-my"></i> Malaysian Ringgit</td><td role="cell"> 1</td><td role="cell"> 31.80</td><td role="cell"> 31.86</td><td role="cell"> 32.12</td></tr><tr role="row"><td role="cell"><i class="flag-icon flag-icon-qa"></i> Qatari Riyal</td><td role="cell"> 1</td><td role="cell"> 37.30</td><td role="cell"> 37.34</td><td role="cell"> 37.59</td></tr><tr role="row"><td role="cell"><i class="flag-icon flag-icon-sa"></i> Saudi Rial</td><td role="cell"> 1</td><td role="cell"> 36.05</td><td role="cell"> 36.12</td><td role="cell"> 36.44</td></tr><tr role="row"><td role="cell"><i class="flag-icon flag-icon-se"></i> Swedish Kroner</td><td role="cell"> 1</td><td role="cell"> 14.30</td><td role="cell"> 14.31</td><td role="cell"> 14.43</td></tr><tr role="row"><td role="cell"><i class="flag-icon flag-icon-th"></i> Thai Bhat</td><td role="cell"> 1</td><td role="cell"> 4.18</td><td role="cell"> 4.18</td><td role="cell"> 4.21</td></tr><tr role="row"><td role="cell"><i class="flag-icon flag-icon-ae"></i> UAE Dirham</td><td role="cell"> 1</td><td role="cell"> 37.15</td><td role="cell"> 37.22</td><td role="cell"> 37.48</td></tr><tr role="row"><td role="cell"><i class="flag-icon flag-icon-kw"></i> Kuwaiti Dinar</td><td role="cell"> 1</td><td role="cell"> 443.31</td><td role="cell"> 445.54</td><td role="cell"> 449.25</td></tr><tr role="row"><td role="cell"><i class="flag-icon flag-icon-bh"></i> Bahrain Dinar</td><td role="cell"> 1</td><td role="cell"> 360.85</td><td role="cell"> 361.21</td><td role="cell"> 364.19</td></tr><tr role="row"><td role="cell"><i class="flag-icon flag-icon-kr"></i> Korean Won</td><td role="cell"> 100</td><td role="cell"> 9.90</td><td role="cell"> 9.91</td><td role="cell"> 10.00</td></tr><tr role="row"><td role="cell"><i class="flag-icon flag-icon-om"></i> Omani Riyal</td><td role="cell"> 1</td><td role="cell"> 353.36</td><td role="cell"> 353.71</td><td role="cell"> 357.17</td></tr><tr role="row"><td role="cell"><i class="flag-icon flag-icon-in"></i> Indian Rupees</td><td role="cell"> 1</td><td role="cell"> 1.60</td><td role="cell"> 1.60</td><td role="cell"> 1.6015</td></tr></tbody></table>
+Successfully opened NMB Bank Limited
+Opening Machhapuchchhre Bank Limited - https://www.machbank.com/forex
+<table class="table table-striped styled-table">
+										<thead>
+											<tr>
+												<th rowspan="2">CURRENCY</th>
+												<th rowspan="2" class="text-center">UNIT</th>
+												<th class="text-center" colspan="2">BUY</th>
+												<th rowspan="2" class="text-center">SELL</th>
+											</tr>
+                                            <tr>
+                                                <th class="text-center">CASH (Below Deno 50)</th>
+                                                <th class="text-center">CASH (Deno 50 &amp; Above) &amp; Others</th>
+                                            </tr>
+										</thead>
+										<tbody id="table_body">
+																								<tr>
+														<td>US Dollar</td>
+														<td class="text-center">1</td>
+														<td class="text-center">136.70</td>
+                                                        <td class="text-center">136.70</td>
+                                                        <td class="text-center">137.30</td>
+													</tr>
+																								<tr>
+														<td>Euro</td>
+														<td class="text-center">1</td>
+														<td class="text-center">159.94</td>
+                                                        <td class="text-center">159.94</td>
+                                                        <td class="text-center">161.53</td>
+													</tr>
+																								<tr>
+														<td>Pound Sterling</td>
+														<td class="text-center">1</td>
+														<td class="text-center">185.40</td>
+                                                        <td class="text-center">185.40</td>
+                                                        <td class="text-center">187.25</td>
+													</tr>
+																								<tr>
+														<td>Australian Dollar</td>
+														<td class="text-center">1</td>
+														<td class="text-center">89.16</td>
+                                                        <td class="text-center">89.16</td>
+                                                        <td class="text-center">90.05</td>
+													</tr>
+																								<tr>
+														<td>Swiss Franc</td>
+														<td class="text-center">1</td>
+														<td class="text-center">171.57</td>
+                                                        <td class="text-center">171.57</td>
+                                                        <td class="text-center">173.28</td>
+													</tr>
+																								<tr>
+														<td>Canadian Dollar</td>
+														<td class="text-center">1</td>
+														<td class="text-center">99.61</td>
+                                                        <td class="text-center">99.61</td>
+                                                        <td class="text-center">100.60</td>
+													</tr>
+																								<tr>
+														<td>Singapore Dollar</td>
+														<td class="text-center">1</td>
+														<td class="text-center">106.26</td>
+                                                        <td class="text-center">106.26</td>
+                                                        <td class="text-center">107.32</td>
+													</tr>
+																								<tr>
+														<td>Japanese Yen</td>
+														<td class="text-center">10</td>
+														<td class="text-center">9.32</td>
+                                                        <td class="text-center">9.32</td>
+                                                        <td class="text-center">9.41</td>
+													</tr>
+																								<tr>
+														<td>Hongkong Dollar</td>
+														<td class="text-center">1</td>
+														<td class="text-center">17.33</td>
+                                                        <td class="text-center">17.33</td>
+                                                        <td class="text-center">17.50</td>
+													</tr>
+																								<tr>
+														<td>Danish Kroner</td>
+														<td class="text-center">1</td>
+														<td class="text-center">21.39</td>
+                                                        <td class="text-center">21.39</td>
+                                                        <td class="text-center">21.60</td>
+													</tr>
+																								<tr>
+														<td>Qatari Riyal</td>
+														<td class="text-center">1</td>
+														<td class="text-center">37.23</td>
+                                                        <td class="text-center">37.23</td>
+                                                        <td class="text-center">37.60</td>
+													</tr>
+																								<tr>
+														<td>Saudi Riyal</td>
+														<td class="text-center">1</td>
+														<td class="text-center">36.27</td>
+                                                        <td class="text-center">36.27</td>
+                                                        <td class="text-center">36.63</td>
+													</tr>
+																								<tr>
+														<td>Swedish Kroner</td>
+														<td class="text-center">1</td>
+														<td class="text-center">14.31</td>
+                                                        <td class="text-center">14.31</td>
+                                                        <td class="text-center">14.45</td>
+													</tr>
+																								<tr>
+														<td>Thai Bhat</td>
+														<td class="text-center">1</td>
+														<td class="text-center">4.17</td>
+                                                        <td class="text-center">4.17</td>
+                                                        <td class="text-center">4.21</td>
+													</tr>
+																								<tr>
+														<td>Malaysian Ringgit</td>
+														<td class="text-center">1</td>
+														<td class="text-center">31.96</td>
+                                                        <td class="text-center">31.96</td>
+                                                        <td class="text-center">32.27</td>
+													</tr>
+																								<tr>
+														<td>UAE Dirham</td>
+														<td class="text-center">1</td>
+														<td class="text-center">37.04</td>
+                                                        <td class="text-center">37.04</td>
+                                                        <td class="text-center">37.41</td>
+													</tr>
+																								<tr>
+														<td>S. Korean Won</td>
+														<td class="text-center">100</td>
+														<td class="text-center">9.91</td>
+                                                        <td class="text-center">9.91</td>
+                                                        <td class="text-center">10.00</td>
+													</tr>
+																								<tr>
+														<td>Chinese Yuan</td>
+														<td class="text-center">1</td>
+														<td class="text-center">18.95</td>
+                                                        <td class="text-center">18.95</td>
+                                                        <td class="text-center">19.13</td>
+													</tr>
+																								<tr>
+														<td>Kuwaiti Dinar</td>
+														<td class="text-center">1</td>
+														<td class="text-center">445.42</td>
+                                                        <td class="text-center">445.42</td>
+                                                        <td class="text-center">449.87</td>
+													</tr>
+																								<tr>
+														<td>Bahrain Dinar</td>
+														<td class="text-center">1</td>
+														<td class="text-center">360.85</td>
+                                                        <td class="text-center">360.85</td>
+                                                        <td class="text-center">364.45</td>
+													</tr>
+																								<tr>
+														<td>Omani Riyal</td>
+														<td class="text-center">1</td>
+														<td class="text-center">353.34</td>
+                                                        <td class="text-center">353.34</td>
+                                                        <td class="text-center">356.87</td>
+													</tr>
+																								<tr>
+														<td>Indian Rupees</td>
+														<td class="text-center">100</td>
+														<td class="text-center">160.00</td>
+                                                        <td class="text-center">160.00</td>
+                                                        <td class="text-center">160.15</td>
+													</tr>
+																																	<tr>
+            <td>Fine Gold</td>
+            <td class="text-center">10 gm</td>
+            <td class="text-center">160,820.85</td>
+            <td colspan="2"></td>
+          </tr>										</tbody>
+									</table>
+Successfully opened Machhapuchchhre Bank Limited
+Opening Kumari Bank Limited - https://www.kumaribank.com/forex
+{'code': 200, 'message': '', 'data': {'INR': {'RTLIST_DATE': '10-JUL-25', 'FXD_CRNCY_CODE': 'INR', 'VAR_CRNCY_CODE': 'NPR', 'FXD_CRNCY_UNITS': '1', 'BUY_RATE': '1.6', 'SELL_RATE': '1.6015', 'forex_name': 'Indian Rupee'}, 'USD': {'RTLIST_DATE': '10-JUL-25', 'FXD_CRNCY_CODE': 'USD', 'VAR_CRNCY_CODE': 'NPR', 'FXD_CRNCY_UNITS': '1', 'BUY_RATE': '136.65', 'SELL_RATE': '137.25', 'forex_name': 'U.S. Dollar'}, 'EUR': {'RTLIST_DATE': '10-JUL-25', 'FXD_CRNCY_CODE': 'EUR', 'VAR_CRNCY_CODE': 'NPR', 'FXD_CRNCY_UNITS': '1', 'BUY_RATE': '159.93', 'SELL_RATE': '161.53', 'forex_name': 'European Euro'}, 'GBP': {'RTLIST_DATE': '10-JUL-25', 'FXD_CRNCY_CODE': 'GBP', 'VAR_CRNCY_CODE': 'NPR', 'FXD_CRNCY_UNITS': '1', 'BUY_RATE': '185.38', 'SELL_RATE': '187.23', 'forex_name': 'UK Pound Sterling'}, 'CHF': {'RTLIST_DATE': '10-JUL-25', 'FXD_CRNCY_CODE': 'CHF', 'VAR_CRNCY_CODE': 'NPR', 'FXD_CRNCY_UNITS': '1', 'BUY_RATE': '171.14', 'SELL_RATE': '172.85', 'forex_name': 'Swiss Franc'}, 'AUD': {'RTLIST_DATE': '10-JUL-25', 'FXD_CRNCY_CODE': 'AUD', 'VAR_CRNCY_CODE': 'NPR', 'FXD_CRNCY_UNITS': '1', 'BUY_RATE': '89.2', 'SELL_RATE': '90.09', 'forex_name': 'Australian Dollar'}, 'CAD': {'RTLIST_DATE': '10-JUL-25', 'FXD_CRNCY_CODE': 'CAD', 'VAR_CRNCY_CODE': 'NPR', 'FXD_CRNCY_UNITS': '1', 'BUY_RATE': '99.35', 'SELL_RATE': '100.34', 'forex_name': 'Canadian Dollar'}, 'SGD': {'RTLIST_DATE': '10-JUL-25', 'FXD_CRNCY_CODE': 'SGD', 'VAR_CRNCY_CODE': 'NPR', 'FXD_CRNCY_UNITS': '1', 'BUY_RATE': '106.2', 'SELL_RATE': '107.26', 'forex_name': 'Singapore Dollar'}, 'JPY': {'RTLIST_DATE': '10-JUL-25', 'FXD_CRNCY_CODE': 'JPY', 'VAR_CRNCY_CODE': 'NPR', 'FXD_CRNCY_UNITS': '10', 'BUY_RATE': '9.32', 'SELL_RATE': '9.41', 'forex_name': 'Japanese Yen'}, 'CNY': {'RTLIST_DATE': '10-JUL-25', 'FXD_CRNCY_CODE': 'CNY', 'VAR_CRNCY_CODE': 'NPR', 'FXD_CRNCY_UNITS': '1', 'BUY_RATE': '18.89', 'SELL_RATE': '19.08', 'forex_name': 'Chinese Yuan'}, 'SAR': {'RTLIST_DATE': '10-JUL-25', 'FXD_CRNCY_CODE': 'SAR', 'VAR_CRNCY_CODE': 'NPR', 'FXD_CRNCY_UNITS': '1', 'BUY_RATE': '36.22', 'SELL_RATE': '36.58', 'forex_name': 'Saudi Riyal'}, 'QAR': {'RTLIST_DATE': '10-JUL-25', 'FXD_CRNCY_CODE': 'QAR', 'VAR_CRNCY_CODE': 'NPR', 'FXD_CRNCY_UNITS': '1', 'BUY_RATE': '36.85', 'SELL_RATE': '37.22', 'forex_name': 'Qatari Riyal'}, 'THB': {'RTLIST_DATE': '10-JUL-25', 'FXD_CRNCY_CODE': 'THB', 'VAR_CRNCY_CODE': 'NPR', 'FXD_CRNCY_UNITS': '1', 'BUY_RATE': '4.15', 'SELL_RATE': '4.19', 'forex_name': 'Thai Baht'}, 'AED': {'RTLIST_DATE': '10-JUL-25', 'FXD_CRNCY_CODE': 'AED', 'VAR_CRNCY_CODE': 'NPR', 'FXD_CRNCY_UNITS': '1', 'BUY_RATE': '36.83', 'SELL_RATE': '37.2', 'forex_name': 'UAE Dirham'}, 'MYR': {'RTLIST_DATE': '10-JUL-25', 'FXD_CRNCY_CODE': 'MYR', 'VAR_CRNCY_CODE': 'NPR', 'FXD_CRNCY_UNITS': '1', 'BUY_RATE': '31.87', 'SELL_RATE': '32.19', 'forex_name': 'Malaysian Ringgit'}, 'KRW': {'RTLIST_DATE': '10-JUL-25', 'FXD_CRNCY_CODE': 'KRW', 'VAR_CRNCY_CODE': 'NPR', 'FXD_CRNCY_UNITS': '100', 'BUY_RATE': '9.95', 'SELL_RATE': '10.05', 'forex_name': 'South Korean Won'}, 'SEK': {'RTLIST_DATE': '10-JUL-25', 'FXD_CRNCY_CODE': 'SEK', 'VAR_CRNCY_CODE': 'NPR', 'FXD_CRNCY_UNITS': '1', 'BUY_RATE': '14.27', 'SELL_RATE': '14.41', 'forex_name': 'Swedish Kroner'}, 'DKK': {'RTLIST_DATE': '10-JUL-25', 'FXD_CRNCY_CODE': 'DKK', 'VAR_CRNCY_CODE': 'NPR', 'FXD_CRNCY_UNITS': '1', 'BUY_RATE': '21.38', 'SELL_RATE': '21.59', 'forex_name': 'Danish Kroner'}, 'HKD': {'RTLIST_DATE': '10-JUL-25', 'FXD_CRNCY_CODE': 'HKD', 'VAR_CRNCY_CODE': 'NPR', 'FXD_CRNCY_UNITS': '1', 'BUY_RATE': '17.32', 'SELL_RATE': '17.49', 'forex_name': 'Hong Kong Dollar'}, 'KWD': {'RTLIST_DATE': '10-JUL-25', 'FXD_CRNCY_CODE': 'KWD', 'VAR_CRNCY_CODE': 'NPR', 'FXD_CRNCY_UNITS': '1', 'BUY_RATE': '442.93', 'SELL_RATE': '447.36', 'forex_name': 'Kuwaity Dinar'}, 'BHD': {'RTLIST_DATE': '10-JUL-25', 'FXD_CRNCY_CODE': 'BHD', 'VAR_CRNCY_CODE': 'NPR', 'FXD_CRNCY_UNITS': '1', 'BUY_RATE': '358.88', 'SELL_RATE': '362.47', 'forex_name': 'Bahrain Dinar'}, 'OMR': {'RTLIST_DATE': '10-JUL-25', 'FXD_CRNCY_CODE': 'OMR', 'VAR_CRNCY_CODE': 'NPR', 'FXD_CRNCY_UNITS': '1', 'BUY_RATE': '351.41', 'SELL_RATE': '354.92', 'forex_name': 'Omani Riyal'}}, 'additional-data': {'date': 'Jul 10, 2025 10:00 am'}}
+Successfully opened Kumari Bank Limited
+Opening Laxmi Sunrise Bank Limited - https://www.laxmisunrise.com/rates/forex/
+<table id="lb-forex-table-0" class="lb-forex-table table table-striped table-bordered dataTable" cellspacing="0" width=""><thead><tr><th width="150" class="sorting" tabindex="0" aria-controls="lb-forex-table-0" rowspan="1" colspan="1" aria-label="Currency: activate to sort column ascending" style="width: 150px;">Currency</th><th width="150" class="sorting" tabindex="0" aria-controls="lb-forex-table-0" rowspan="1" colspan="1" aria-label="Unit: activate to sort column ascending" style="width: 150px;">Unit</th><th class="sorting" tabindex="0" aria-controls="lb-forex-table-0" rowspan="1" colspan="1" aria-label="Buying Currency Notes(Cash below Deno 50): activate to sort column ascending" style="width: 252.602px;">Buying Currency Notes<br>(Cash below Deno 50)</th><th class="sorting" tabindex="0" aria-controls="lb-forex-table-0" rowspan="1" colspan="1" aria-label="Buying Other Instruments(Cash 50 and above Deno): activate to sort column ascending" style="width: 287.398px;">Buying Other Instruments<br>(Cash 50 and above Deno)</th><th width="200" class="sorting" tabindex="0" aria-controls="lb-forex-table-0" rowspan="1" colspan="1" aria-label="Selling: activate to sort column ascending" style="width: 200px;">Selling</th></tr></thead><tfoot><tr><th width="150" rowspan="1" colspan="1">Currency</th><th width="150" rowspan="1" colspan="1">Unit</th><th rowspan="1" colspan="1">Buying Currency Notes<br>(Cash below Deno 50)</th><th rowspan="1" colspan="1">Buying Other Instruments<br>(Cash 50 and above Deno)</th><th width="200" rowspan="1" colspan="1">Selling</th></tr></tfoot><tbody><tr class="odd"><td>USD</td><td>1</td><td>136.02</td><td>136.7</td><td>137.3</td></tr><tr class="even"><td>EUR</td><td>1</td><td>160.11</td><td>160.11</td><td>161.71</td></tr><tr class="odd"><td>GBP</td><td>1</td><td>185.62</td><td>185.62</td><td>187.48</td></tr><tr class="even"><td>CHF</td><td>1</td><td>171.8</td><td>171.8</td><td>173.52</td></tr><tr class="odd"><td>JPY (10)</td><td>10</td><td>9.33</td><td>9.33</td><td>9.42</td></tr><tr class="even"><td>AUD</td><td>1</td><td>89.27</td><td>89.27</td><td>90.16</td></tr><tr class="odd"><td>SGD</td><td>1</td><td>106.61</td><td>106.61</td><td>107.68</td></tr><tr class="even"><td>HKD</td><td>1</td><td>17.38</td><td>17.38</td><td>17.55</td></tr><tr class="odd"><td>CAD</td><td>1</td><td>99.71</td><td>99.71</td><td>100.71</td></tr><tr class="even"><td>INR</td><td>1</td><td>1.6</td><td>1.6</td><td>1.6015</td></tr><tr class="odd"><td>DKK</td><td>1</td><td>21.45</td><td>21.45</td><td>21.66</td></tr><tr class="even"><td>CNY</td><td>1</td><td>19.05</td><td>19.05</td><td>19.24</td></tr><tr class="odd"><td>QAR</td><td>1</td><td>37.21</td><td>37.21</td><td>37.58</td></tr><tr class="even"><td>SAR</td><td>1</td><td>36.16</td><td>36.16</td><td>36.52</td></tr><tr class="odd"><td>SEK</td><td>1</td><td>14.29</td><td>14.29</td><td>14.43</td></tr><tr class="even"><td>MYR</td><td>1</td><td>31.89</td><td>31.89</td><td>32.21</td></tr><tr class="odd"><td>THB</td><td>1</td><td>4.16</td><td>4.16</td><td>4.2</td></tr><tr class="even"><td>AED</td><td>1</td><td>37.04</td><td>37.04</td><td>37.41</td></tr><tr class="odd"><td>KRW (100)</td><td>100</td><td>9.88</td><td>9.88</td><td>9.98</td></tr><tr class="even"><td>KWD</td><td>1</td><td>444.18</td><td>444.18</td><td>448.62</td></tr><tr class="odd"><td>BHD</td><td>1</td><td>359.77</td><td>359.77</td><td>363.37</td></tr><tr class="even"><td>OMR</td><td>1</td><td>352.28</td><td>352.28</td><td>355.803</td></tr></tbody></table>
+Successfully opened Laxmi Sunrise Bank Limited
+Opening Prime Commercial Bank Limited - https://primebank.com.np/forex
+{'status': 'success', 'status_code': 200, 'status_message': 'Forex Retreived Successfully', 'data': [{'id': '5228', 'Time': '14:25:27', 'list': [{'id': '105430', 'ForexId': '5228', 'CurrencyId': 'USD', 'Buying1': '136.75', 'Buying2': '136.75', 'Selling1': '137.35\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105431', 'ForexId': '5228', 'CurrencyId': 'EUR', 'Buying1': '159.98', 'Buying2': '159.98', 'Selling1': '161.44\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105432', 'ForexId': '5228', 'CurrencyId': 'GBP', 'Buying1': '185.8', 'Buying2': '185.8', 'Selling1': '187.55\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105433', 'ForexId': '5228', 'CurrencyId': 'CHF', 'Buying1': '171.45', 'Buying2': '171.45', 'Selling1': '173.06\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105434', 'ForexId': '5228', 'CurrencyId': 'AUD', 'Buying1': '89.28', 'Buying2': '89.28', 'Selling1': '90.09\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105435', 'ForexId': '5228', 'CurrencyId': 'CAD', 'Buying1': '99.51', 'Buying2': '99.51', 'Selling1': '100.45\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105436', 'ForexId': '5228', 'CurrencyId': 'SGD', 'Buying1': '106.3', 'Buying2': '106.3', 'Selling1': '107.35\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105437', 'ForexId': '5228', 'CurrencyId': 'JPY', 'Buying1': '0.9326', 'Buying2': '0.9326', 'Selling1': '0.9417\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105438', 'ForexId': '5228', 'CurrencyId': 'CNY', 'Buying1': '19', 'Buying2': '19', 'Selling1': '19.18\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105439', 'ForexId': '5228', 'CurrencyId': 'SAR', 'Buying1': '36.27', 'Buying2': '36.27', 'Selling1': '36.62\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105440', 'ForexId': '5228', 'CurrencyId': 'QAR', 'Buying1': '37.34', 'Buying2': '37.34', 'Selling1': '37.71\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105441', 'ForexId': '5228', 'CurrencyId': 'THB', 'Buying1': '4.19', 'Buying2': '4.19', 'Selling1': '4.23\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105442', 'ForexId': '5228', 'CurrencyId': 'AED', 'Buying1': '37.03', 'Buying2': '37.03', 'Selling1': '37.39\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105443', 'ForexId': '5228', 'CurrencyId': 'MYR', 'Buying1': '31.97', 'Buying2': '31.97', 'Selling1': '32.28\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105444', 'ForexId': '5228', 'CurrencyId': 'KRW', 'Buying1': '0.0992', 'Buying2': '0.0992', 'Selling1': '0.1001\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105445', 'ForexId': '5228', 'CurrencyId': 'SEK', 'Buying1': '14.3', 'Buying2': '14.3', 'Selling1': '14.44\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105446', 'ForexId': '5228', 'CurrencyId': 'DKK', 'Buying1': '21.38', 'Buying2': '21.38', 'Selling1': '21.59\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105447', 'ForexId': '5228', 'CurrencyId': 'HKD', 'Buying1': '17.33', 'Buying2': '17.33', 'Selling1': '17.5\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105448', 'ForexId': '5228', 'CurrencyId': 'KWD', 'Buying1': '445.28', 'Buying2': '445.28', 'Selling1': '449.53\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105449', 'ForexId': '5228', 'CurrencyId': 'BHD', 'Buying1': '360.89', 'Buying2': '360.89', 'Selling1': '364.34\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105450', 'ForexId': '5228', 'CurrencyId': 'OMR', 'Buying1': '354.32', 'Buying2': '354.32', 'Selling1': '357.67\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}]}, {'id': '5227', 'Time': '10:14:38', 'list': [{'id': '105409', 'ForexId': '5227', 'CurrencyId': 'USD', 'Buying1': '136.65', 'Buying2': '136.65', 'Selling1': '137.25\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105410', 'ForexId': '5227', 'CurrencyId': 'EUR', 'Buying1': '159.91', 'Buying2': '159.91', 'Selling1': '161.36\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105411', 'ForexId': '5227', 'CurrencyId': 'GBP', 'Buying1': '185.65', 'Buying2': '185.65', 'Selling1': '187.36\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105412', 'ForexId': '5227', 'CurrencyId': 'CHF', 'Buying1': '171.24', 'Buying2': '171.24', 'Selling1': '172.85\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105413', 'ForexId': '5227', 'CurrencyId': 'AUD', 'Buying1': '89.04', 'Buying2': '89.04', 'Selling1': '89.86\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105414', 'ForexId': '5227', 'CurrencyId': 'CAD', 'Buying1': '99.37', 'Buying2': '99.37', 'Selling1': '100.28\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105415', 'ForexId': '5227', 'CurrencyId': 'SGD', 'Buying1': '106.17', 'Buying2': '106.17', 'Selling1': '107.2\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105416', 'ForexId': '5227', 'CurrencyId': 'JPY', 'Buying1': '0.932', 'Buying2': '0.932', 'Selling1': '0.9411\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105417', 'ForexId': '5227', 'CurrencyId': 'CNY', 'Buying1': '18.98', 'Buying2': '18.98', 'Selling1': '19.16\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105418', 'ForexId': '5227', 'CurrencyId': 'SAR', 'Buying1': '36.24', 'Buying2': '36.24', 'Selling1': '36.59\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105419', 'ForexId': '5227', 'CurrencyId': 'QAR', 'Buying1': '37.38', 'Buying2': '37.38', 'Selling1': '37.68\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105420', 'ForexId': '5227', 'CurrencyId': 'THB', 'Buying1': '4.18', 'Buying2': '4.18', 'Selling1': '4.22\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105421', 'ForexId': '5227', 'CurrencyId': 'AED', 'Buying1': '37.01', 'Buying2': '37.01', 'Selling1': '37.37\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105422', 'ForexId': '5227', 'CurrencyId': 'MYR', 'Buying1': '31.94', 'Buying2': '31.94', 'Selling1': '32.25\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105423', 'ForexId': '5227', 'CurrencyId': 'KRW', 'Buying1': '0.099', 'Buying2': '0.099', 'Selling1': '0.0999\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105424', 'ForexId': '5227', 'CurrencyId': 'SEK', 'Buying1': '14.29', 'Buying2': '14.29', 'Selling1': '14.43\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105425', 'ForexId': '5227', 'CurrencyId': 'DKK', 'Buying1': '21.37', 'Buying2': '21.37', 'Selling1': '21.58\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105426', 'ForexId': '5227', 'CurrencyId': 'HKD', 'Buying1': '17.32', 'Buying2': '17.32', 'Selling1': '17.48\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105427', 'ForexId': '5227', 'CurrencyId': 'KWD', 'Buying1': '445.14', 'Buying2': '445.14', 'Selling1': '449.42\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105428', 'ForexId': '5227', 'CurrencyId': 'BHD', 'Buying1': '360.6', 'Buying2': '360.6', 'Selling1': '364.06\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}, {'id': '105429', 'ForexId': '5227', 'CurrencyId': 'OMR', 'Buying1': '354.03', 'Buying2': '354.03', 'Selling1': '357.4\r\n', 'Selling2': None, 'Selling3': None, 'Disabled': '0'}]}], 'date': '2025-07-10'}
+Successfully opened Prime Commercial Bank Limited
+Opening Sanima Bank Limited - https://www.sanimabank.com/know-us/forex
+{'resCod': '200', 'resDesc': 'List of frontend forex rate', 'data': {'id': 'ce58f3b9-eaac-4c1c-b63c-df45be7b63b5', 'date': '2025-07-10', 'time': '10:14 AM', 'status': True, 'forexCategory': [{'id': '3b583f7e-6c1f-40b5-b167-5df7a1ab48f5', 'unit': 1, 'cash_buy': 136.1, 'non_cash_buy': 136.7, 'sell': 137.3, 'feature_order': None, 'item': {'id': '0bc8d7d2-ed84-42d8-a6bc-a2e5118d1eb9', 'name': 'US Dollar', 'code': 'USD'}}, {'id': 'd4b34b9f-427f-47df-b47b-d922b26536d6', 'unit': 1, 'cash_buy': 185.45301, 'non_cash_buy': 185.45301, 'sell': 187.30754, 'feature_order': None, 'item': {'id': 'eda97d90-09f8-42bf-a08d-644e3331b4f3', 'name': 'Pound Sterling', 'code': 'GBP'}}, {'id': '0f8a386a-73af-442a-a013-4e80818e0f30', 'unit': 1, 'cash_buy': 88.9018, 'non_cash_buy': 88.9018, 'sell': 89.790818, 'feature_order': None, 'item': {'id': '37c5a16a-7824-4b98-87db-065a9869e2e0', 'name': 'Australian Dollar', 'code': 'AUD'}}, {'id': 'eb2e0246-3c95-4f9f-9563-cb7d2b3499e0', 'unit': 1, 'cash_buy': 99.390391, 'non_cash_buy': 99.390391, 'sell': 100.384295, 'feature_order': None, 'item': {'id': '36d92339-02ea-47cf-85ac-14bec58f7394', 'name': 'Canadian Dollar', 'code': 'CAD'}}, {'id': '03fc8e98-f426-4ee9-8bac-d12cdd9b5e33', 'unit': 1, 'cash_buy': 171.666247, 'non_cash_buy': 171.666247, 'sell': 173.382909, 'feature_order': None, 'item': {'id': 'cfb19af4-3b11-4492-b58a-a620231703de', 'name': 'Swiss Frank', 'code': 'CHF'}}, {'id': '5a26feb0-4ee3-4d93-9a0e-89fe36cb80c9', 'unit': 1, 'cash_buy': 106.830259, 'non_cash_buy': 106.830259, 'sell': 107.898562, 'feature_order': None, 'item': {'id': '147f23d7-8e2f-43e5-a0a8-2ad5b573a929', 'name': 'Singapore Dollar', 'code': 'SGD'}}, {'id': '5fad4050-58b9-4f4c-9b9f-a39d35a13f54', 'unit': 10, 'cash_buy': 9.375092, 'non_cash_buy': 9.375092, 'sell': 9.468843, 'feature_order': None, 'item': {'id': '66ec1cac-1a17-4342-8648-9d1f73c41b45', 'name': 'Japanese Yen', 'code': 'JPY'}}, {'id': '47cba771-9a88-4e4f-803c-149db8c99552', 'unit': 1, 'cash_buy': 14.306346, 'non_cash_buy': 14.306346, 'sell': 14.44941, 'feature_order': None, 'item': {'id': '0dd6d4b6-5d72-4e25-b6cc-d44faaf58c52', 'name': 'Swedish Kroner', 'code': 'SEK'}}, {'id': '862b73c9-1a40-4453-95ac-a6fcdd8d5730', 'unit': 1, 'cash_buy': 21.497429, 'non_cash_buy': 21.497429, 'sell': 21.712403, 'feature_order': None, 'item': {'id': '0175cec8-30f2-4c8e-a6ab-668b96c84b3a', 'name': 'Danish Kroner', 'code': 'DKK'}}, {'id': 'b995f3cd-7df0-4184-9a4b-d9b8579dff53', 'unit': 1, 'cash_buy': 17.304017, 'non_cash_buy': 17.304017, 'sell': 17.477057, 'feature_order': None, 'item': {'id': '9ef5aa6b-7eed-4513-a8b7-aa701cf4b0c3', 'name': 'Hongkong Dollar', 'code': 'HKD'}}, {'id': 'bb9289b5-f4d8-4de1-aac5-90a49563c9cf', 'unit': 1, 'cash_buy': 37.026655, 'non_cash_buy': 37.026655, 'sell': 37.396922, 'feature_order': None, 'item': {'id': '2f33a773-3019-4544-8b5a-bf933dec5101', 'name': 'UAE Dirham', 'code': 'AED'}}, {'id': '155cd02e-fcfc-4dd6-9a43-71316ce93d71', 'unit': 1, 'cash_buy': 4.189396, 'non_cash_buy': 4.189396, 'sell': 4.23129, 'feature_order': None, 'item': {'id': '87b9b633-5460-4f9c-969f-b10e80d61919', 'name': 'Thai Bhat', 'code': 'THB'}}, {'id': '06224345-51fc-46bb-b74e-29a7ed238d4e', 'unit': 1, 'cash_buy': 31.664706, 'non_cash_buy': 31.664706, 'sell': 31.981353, 'feature_order': None, 'item': {'id': '746703e4-82ff-4ee6-8972-52c7cbca57f7', 'name': 'Malaysian Ringgit', 'code': 'MYR'}}, {'id': 'd56659bf-6eaf-4a77-a107-05d25191e079', 'unit': 1, 'cash_buy': 36.348474, 'non_cash_buy': 36.348474, 'sell': 36.711958, 'feature_order': None, 'item': {'id': 'd7856977-fd09-4f5c-86ff-91ad0226920e', 'name': 'Saudi Rial', 'code': 'SAR'}}, {'id': '291335fe-9d43-4080-b850-2c8401879a6c', 'unit': 1, 'cash_buy': 18.974567, 'non_cash_buy': 18.974567, 'sell': 19.164313, 'feature_order': None, 'item': {'id': 'bbd3747f-8a2a-4215-a7f6-01eed11646ee', 'name': 'Chinese Yuan', 'code': 'CNY'}}, {'id': 'cf62e195-b46a-4d44-b739-9b3f04802c08', 'unit': 1, 'cash_buy': 37.548328, 'non_cash_buy': 37.548328, 'sell': 37.923811, 'feature_order': None, 'item': {'id': '18d43d6e-35c6-4589-9eac-5fc572726f18', 'name': 'Qatari Riyal', 'code': 'QAR'}}, {'id': 'cdbbdb41-8318-4988-8d8c-ae4b972f8d41', 'unit': 1, 'cash_buy': 159.89011, 'non_cash_buy': 159.89011, 'sell': 161.489011, 'feature_order': None, 'item': {'id': 'f8ad694a-a98d-45ed-8981-617be6f3dbe1', 'name': 'Euro', 'code': 'EUR'}}, {'id': '12fe9a67-e2b0-48c9-bbd0-b203e90d30d9', 'unit': 100, 'cash_buy': 9.954343, 'non_cash_buy': 9.954343, 'sell': 10.053886, 'feature_order': None, 'item': {'id': '9526b6e1-9b5c-4e7c-ab9f-6977f1506c12', 'name': 'South Korean Won', 'code': 'KRW'}}, {'id': '231e40f4-64a8-46ef-a60b-a26b644d57a6', 'unit': 1, 'cash_buy': 447.085639, 'non_cash_buy': 447.085639, 'sell': 451.556496, 'feature_order': None, 'item': {'id': '4075a1d2-c1c3-4e36-942d-d21ac0501bcc', 'name': 'Kuwaiti Dinar', 'code': 'KWD'}}, {'id': '480fff61-2f81-41f3-8bd6-19c53fface37', 'unit': 1, 'cash_buy': 361.947566, 'non_cash_buy': 361.947566, 'sell': 365.567042, 'feature_order': None, 'item': {'id': 'df0f8264-9eb5-4971-87bb-62c78476966d', 'name': 'Bahrain Dinar', 'code': 'BHD'}}, {'id': 'd6208a17-9f28-4809-b32f-d35d594d99a0', 'unit': 100, 'cash_buy': 160, 'non_cash_buy': 160, 'sell': 160.15, 'feature_order': None, 'item': {'id': '547c3803-ba05-4672-a00d-a344e10f6a86', 'name': 'Indian Rupees', 'code': 'INR'}}, {'id': '79ef8ee5-107b-4993-b814-f55320e442bd', 'unit': 1, 'cash_buy': 354.383381, 'non_cash_buy': 354.383381, 'sell': 357.927215, 'feature_order': None, 'item': {'id': '73ad7f28-abe8-11ef-8fe3-02420a00010c', 'name': 'Omani Riyal', 'code': 'OMR'}}]}}
+Successfully opened Sanima Bank Limited
+Opening Prabhu Bank Limited - https://www.prabhubank.com/forex
+<table class="table styled-table">
+														<thead>
+															<tr>
+																<th>Currency</th>
+																<th class="text-center">Unit</th>
+																<th class="text-center">Buying (Notes of below Deno 50)</th>
+																<th class="text-center">Buying (Notes of Deno 50 and above)</th>
+																<th class="text-center">Selling/Rs.</th>
+															</tr>
+														</thead>
+														<tbody id="table_body"><tr>
+																				<td>Us Dollar</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">136.02</td>
+																				<td class="text-center">136.70</td>
+																				<td class="text-center">137.30</td>
+																			</tr><tr>
+																				<td>Euro</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">160.08</td>
+																				<td class="text-center">160.08</td>
+																				<td class="text-center">161.68</td>
+																			</tr><tr>
+																				<td>Pound Sterling</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">185.36</td>
+																				<td class="text-center">185.36</td>
+																				<td class="text-center">187.21</td>
+																			</tr><tr>
+																				<td>Australian Dollar</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">89.35</td>
+																				<td class="text-center">89.35</td>
+																				<td class="text-center">90.25</td>
+																			</tr><tr>
+																				<td>Swiss Frank</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">171.43</td>
+																				<td class="text-center">171.43</td>
+																				<td class="text-center">173.14</td>
+																			</tr><tr>
+																				<td>Canadian Dollar</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">99.72</td>
+																				<td class="text-center">99.72</td>
+																				<td class="text-center">100.72</td>
+																			</tr><tr>
+																				<td>Singapore Dollar</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">106.42</td>
+																				<td class="text-center">106.42</td>
+																				<td class="text-center">107.48</td>
+																			</tr><tr>
+																				<td>Japanese Yen</td>
+																				<td class="text-center">10</td>
+																				<td class="text-center">9.33</td>
+																				<td class="text-center">9.33</td>
+																				<td class="text-center">9.42</td>
+																			</tr><tr>
+																				<td>Chinese Yuan</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">18.98</td>
+																				<td class="text-center">18.98</td>
+																				<td class="text-center">19.17</td>
+																			</tr><tr>
+																				<td>Qatari Riyal</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">37.32</td>
+																				<td class="text-center">37.32</td>
+																				<td class="text-center">37.70</td>
+																			</tr><tr>
+																				<td>Saudi Rial</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">36.18</td>
+																				<td class="text-center">36.18</td>
+																				<td class="text-center">36.54</td>
+																			</tr><tr>
+																				<td>Thai Bhat</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">4.18</td>
+																				<td class="text-center">4.18</td>
+																				<td class="text-center">4.22</td>
+																			</tr><tr>
+																				<td>Malaysian Ringgit</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">31.93</td>
+																				<td class="text-center">31.93</td>
+																				<td class="text-center">32.25</td>
+																			</tr><tr>
+																				<td>UAE Dirham</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">37.09</td>
+																				<td class="text-center">37.09</td>
+																				<td class="text-center">37.46</td>
+																			</tr><tr>
+																				<td>Hongkong Dollar</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">17.38</td>
+																				<td class="text-center">17.38</td>
+																				<td class="text-center">17.55</td>
+																			</tr><tr>
+																				<td>Danish Kroner</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">21.44</td>
+																				<td class="text-center">21.44</td>
+																				<td class="text-center">21.66</td>
+																			</tr><tr>
+																				<td>Swedish Kroner</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">14.36</td>
+																				<td class="text-center">14.36</td>
+																				<td class="text-center">14.51</td>
+																			</tr><tr>
+																				<td>S. Korean Won</td>
+																				<td class="text-center">100</td>
+																				<td class="text-center">9.92</td>
+																				<td class="text-center">9.92</td>
+																				<td class="text-center">10.02</td>
+																			</tr><tr>
+																				<td>Indian Rupees</td>
+																				<td class="text-center">100</td>
+																				<td class="text-center">160.00</td>
+																				<td class="text-center">160.00</td>
+																				<td class="text-center">160.15</td>
+																			</tr><tr>
+																				<td>Bahrain Dinar</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">360.69</td>
+																				<td class="text-center">360.69</td>
+																				<td class="text-center">364.30</td>
+																			</tr><tr>
+																				<td>Kuwaiti Dinar</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">445.66</td>
+																				<td class="text-center">445.66</td>
+																				<td class="text-center">450.12</td>
+																			</tr><tr>
+																				<td>Omani Rial</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">353.11</td>
+																				<td class="text-center">353.11</td>
+																				<td class="text-center">356.64</td>
+																			</tr>				</tbody>
+													</table>
+Successfully opened Prabhu Bank Limited
+Opening Siddhartha Bank Limited - https://www.siddharthabank.com/forex
+<table class="styled-table">
+														<thead>
+															<tr>
+																<th>Currency</th>
+																<th class="text-center text-nowrap">Unit</th>
+																<th class="text-center text-nowrap">Buying (Notes of below Deno 50)</th>
+																<th class="text-center text-nowrap">Buying (Notes of Deno 50 and above)</th>
+																<th class="text-center text-nowrap">Selling/Rs.</th>
+															</tr>
+														</thead>
+														<tbody id="table_body"><tr>
+																				<td class="text-nowrap"><img src="https://www.siddharthabank.com/assets/frontend/img/flags/1x1/in.svg" class="img-flag">Indian Rupees</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">1.6000</td>
+																				<td class="text-center">1.6000</td>
+																				<td class="text-center">1.6015</td>
+																			</tr><tr>
+																				<td class="text-nowrap"><img src="https://www.siddharthabank.com/assets/frontend/img/flags/1x1/us.svg" class="img-flag">Us Dollar</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">136.0200</td>
+																				<td class="text-center">136.7000</td>
+																				<td class="text-center">137.3000</td>
+																			</tr><tr>
+																				<td class="text-nowrap"><img src="https://www.siddharthabank.com/assets/frontend/img/flags/1x1/eu.svg" class="img-flag">Euro</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">159.7900</td>
+																				<td class="text-center">159.7900</td>
+																				<td class="text-center">161.3800</td>
+																			</tr><tr>
+																				<td class="text-nowrap"><img src="https://www.siddharthabank.com/assets/frontend/img/flags/1x1/gb.svg" class="img-flag">Pound Sterling</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">185.4700</td>
+																				<td class="text-center">185.4700</td>
+																				<td class="text-center">187.3200</td>
+																			</tr><tr>
+																				<td class="text-nowrap"><img src="https://www.siddharthabank.com/assets/frontend/img/flags/1x1/ch.svg" class="img-flag">Swiss Frank</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">170.4900</td>
+																				<td class="text-center">170.4900</td>
+																				<td class="text-center">172.1900</td>
+																			</tr><tr>
+																				<td class="text-nowrap"><img src="https://www.siddharthabank.com/assets/frontend/img/flags/1x1/au.svg" class="img-flag">Australian Dollar</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">89.6200</td>
+																				<td class="text-center">89.6200</td>
+																				<td class="text-center">90.5100</td>
+																			</tr><tr>
+																				<td class="text-nowrap"><img src="https://www.siddharthabank.com/assets/frontend/img/flags/1x1/au.svg" class="img-flag">Australian Dollar Cash</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">0.0000</td>
+																				<td class="text-center">0.0000</td>
+																				<td class="text-center">90.5100</td>
+																			</tr><tr>
+																				<td class="text-nowrap"><img src="https://www.siddharthabank.com/assets/frontend/img/flags/1x1/ca.svg" class="img-flag">Canadian Dollar</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">99.9300</td>
+																				<td class="text-center">99.9300</td>
+																				<td class="text-center">100.9200</td>
+																			</tr><tr>
+																				<td class="text-nowrap"><img src="https://www.siddharthabank.com/assets/frontend/img/flags/1x1/sg.svg" class="img-flag">Singapore Dollar</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">106.7100</td>
+																				<td class="text-center">106.7100</td>
+																				<td class="text-center">107.7700</td>
+																			</tr><tr>
+																				<td class="text-nowrap"><img src="https://www.siddharthabank.com/assets/frontend/img/flags/1x1/jp.svg" class="img-flag">Japanese Yen</td>
+																				<td class="text-center">10</td>
+																				<td class="text-center">9.3550</td>
+																				<td class="text-center">9.3550</td>
+																				<td class="text-center">9.4480</td>
+																			</tr><tr>
+																				<td class="text-nowrap"><img src="https://www.siddharthabank.com/assets/frontend/img/flags/1x1/cn.svg" class="img-flag">Chinese Yuan</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">19.0000</td>
+																				<td class="text-center">19.0000</td>
+																				<td class="text-center">19.1900</td>
+																			</tr><tr>
+																				<td class="text-nowrap"><img src="https://www.siddharthabank.com/assets/frontend/img/flags/1x1/sa.svg" class="img-flag">Saudi Rial</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">35.9200</td>
+																				<td class="text-center">35.9200</td>
+																				<td class="text-center">36.2700</td>
+																			</tr><tr>
+																				<td class="text-nowrap"><img src="https://www.siddharthabank.com/assets/frontend/img/flags/1x1/qa.svg" class="img-flag">Qatari Riyal</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">36.9200</td>
+																				<td class="text-center">36.9200</td>
+																				<td class="text-center">37.2800</td>
+																			</tr><tr>
+																				<td class="text-nowrap"><img src="https://www.siddharthabank.com/assets/frontend/img/flags/1x1/th.svg" class="img-flag">Thai Bhat</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">4.2000</td>
+																				<td class="text-center">4.2000</td>
+																				<td class="text-center">4.2400</td>
+																			</tr><tr>
+																				<td class="text-nowrap"><img src="https://www.siddharthabank.com/assets/frontend/img/flags/1x1/ae.svg" class="img-flag">UAE Dirham</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">36.9200</td>
+																				<td class="text-center">36.9200</td>
+																				<td class="text-center">37.2800</td>
+																			</tr><tr>
+																				<td class="text-nowrap"><img src="https://www.siddharthabank.com/assets/frontend/img/flags/1x1/my.svg" class="img-flag">Malaysian Ringgit</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">31.9400</td>
+																				<td class="text-center">31.9400</td>
+																				<td class="text-center">32.2500</td>
+																			</tr><tr>
+																				<td class="text-nowrap"><img src="https://www.siddharthabank.com/assets/frontend/img/flags/1x1/kr.svg" class="img-flag">S. Korean Won</td>
+																				<td class="text-center">100</td>
+																				<td class="text-center">9.9700</td>
+																				<td class="text-center">9.9700</td>
+																				<td class="text-center">10.0600</td>
+																			</tr><tr>
+																				<td class="text-nowrap"><img src="https://www.siddharthabank.com/assets/frontend/img/flags/1x1/se.svg" class="img-flag">Swedish Kroner</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">14.4000</td>
+																				<td class="text-center">14.4000</td>
+																				<td class="text-center">14.5400</td>
+																			</tr><tr>
+																				<td class="text-nowrap"><img src="https://www.siddharthabank.com/assets/frontend/img/flags/1x1/dk.svg" class="img-flag">Danish Kroner</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">21.3900</td>
+																				<td class="text-center">21.3900</td>
+																				<td class="text-center">21.6000</td>
+																			</tr><tr>
+																				<td class="text-nowrap"><img src="https://www.siddharthabank.com/assets/frontend/img/flags/1x1/hk.svg" class="img-flag">Hongkong Dollar</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">17.3700</td>
+																				<td class="text-center">17.3700</td>
+																				<td class="text-center">17.5400</td>
+																			</tr><tr>
+																				<td class="text-nowrap"><img src="https://www.siddharthabank.com/assets/frontend/img/flags/1x1/kw.svg" class="img-flag">Kuwaiti Dinar</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">444.7000</td>
+																				<td class="text-center">444.7000</td>
+																				<td class="text-center">449.1000</td>
+																			</tr><tr>
+																				<td class="text-nowrap"><img src="https://www.siddharthabank.com/assets/frontend/img/flags/1x1/bh.svg" class="img-flag">Bahrain Dinar</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">360.7800</td>
+																				<td class="text-center">360.7800</td>
+																				<td class="text-center">364.3900</td>
+																			</tr><tr>
+																				<td class="text-nowrap"><img src="https://www.siddharthabank.com/assets/frontend/img/flags/1x1/omr.svg" class="img-flag">Omani Rial</td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">353.0500</td>
+																				<td class="text-center">353.0500</td>
+																				<td class="text-center">356.5800</td>
+																			</tr>				</tbody>
+													</table>
+Successfully opened Siddhartha Bank Limited
+Opening Kamana Sewa Bikas Bank Limited - https://www.kamanasewabank.com/forex
+{'code': 200, 'message': '', 'data': [{'id': 13966, 'date': '2025-07-10', 'time': '10:33 AM', 'flag_class': 'flag-icon flag-icon-us', 'currency_name': 'US Dollar', 'fxd_currency_code': 'USD', 'var_currency_code': 'NPR', 'fxd_currency_units': '1', 'buy_rate_cash': '135.96', 'buy_rate_non_cash': '136.65', 'sell_rate': '137.25', 'created_date': 'Jul 10, 2025'}, {'id': 13967, 'date': '2025-07-10', 'time': '10:33 AM', 'flag_class': 'flag-icon flag-icon-gb', 'currency_name': 'Pound Sterling', 'fxd_currency_code': 'GBP', 'var_currency_code': 'NPR', 'fxd_currency_units': '1', 'buy_rate_cash': '186.2', 'buy_rate_non_cash': '187.14', 'sell_rate': '189.01', 'created_date': 'Jul 10, 2025'}, {'id': 13968, 'date': '2025-07-10', 'time': '10:33 AM', 'flag_class': 'flag-icon flag-icon-hm', 'currency_name': 'Australian Dollar', 'fxd_currency_code': 'AUD', 'var_currency_code': 'NPR', 'fxd_currency_units': '1', 'buy_rate_cash': '89.87', 'buy_rate_non_cash': '90.32', 'sell_rate': '91.72', 'created_date': 'Jul 10, 2025'}, {'id': 13969, 'date': '2025-07-10', 'time': '10:33 AM', 'flag_class': 'flag-icon flag-icon-ca', 'currency_name': 'Canadian Dollar', 'fxd_currency_code': 'CAD', 'var_currency_code': 'NPR', 'fxd_currency_units': '1', 'buy_rate_cash': '99.18', 'buy_rate_non_cash': '99.68', 'sell_rate': '100.68', 'created_date': 'Jul 10, 2025'}, {'id': 13970, 'date': '2025-07-10', 'time': '10:33 AM', 'flag_class': 'flag-icon flag-icon-ch', 'currency_name': 'Swiss Franc', 'fxd_currency_code': 'CHF', 'var_currency_code': 'NPR', 'fxd_currency_units': '1', 'buy_rate_cash': '170.71', 'buy_rate_non_cash': '171.57', 'sell_rate': '173.28', 'created_date': 'Jul 10, 2025'}, {'id': 13971, 'date': '2025-07-10', 'time': '10:33 AM', 'flag_class': 'flag-icon flag-icon-sg', 'currency_name': 'Singapore Dollar', 'fxd_currency_code': 'SGD', 'var_currency_code': 'NPR', 'fxd_currency_units': '1', 'buy_rate_cash': '106.11', 'buy_rate_non_cash': '106.64', 'sell_rate': '107.71', 'created_date': 'Jul 10, 2025'}, {'id': 13972, 'date': '2025-07-10', 'time': '10:33 AM', 'flag_class': 'flag-icon flag-icon-jp', 'currency_name': 'Japanese Yen', 'fxd_currency_code': 'JPY', 'var_currency_code': 'NPR', 'fxd_currency_units': '1', 'buy_rate_cash': '0.9293', 'buy_rate_non_cash': '0.934', 'sell_rate': '0.9433', 'created_date': 'Jul 10, 2025'}, {'id': 13973, 'date': '2025-07-10', 'time': '10:33 AM', 'flag_class': 'flag-icon flag-icon-se', 'currency_name': 'Swedish Kroner', 'fxd_currency_code': 'SEK', 'var_currency_code': 'NPR', 'fxd_currency_units': '1', 'buy_rate_cash': '14.24', 'buy_rate_non_cash': '14.31', 'sell_rate': '14.46', 'created_date': 'Jul 10, 2025'}, {'id': 13974, 'date': '2025-07-10', 'time': '10:33 AM', 'flag_class': 'flag-icon flag-icon-dk', 'currency_name': 'Danish Kroner', 'fxd_currency_code': 'DKK', 'var_currency_code': 'NPR', 'fxd_currency_units': '1', 'buy_rate_cash': '21.3', 'buy_rate_non_cash': '21.41', 'sell_rate': '21.62', 'created_date': 'Jul 10, 2025'}, {'id': 13975, 'date': '2025-07-10', 'time': '10:33 AM', 'flag_class': 'flag-icon flag-icon-hk', 'currency_name': 'Hongkong Dollar', 'fxd_currency_code': 'HKD', 'var_currency_code': 'NPR', 'fxd_currency_units': '1', 'buy_rate_cash': '17.27', 'buy_rate_non_cash': '17.35', 'sell_rate': '17.53', 'created_date': 'Jul 10, 2025'}, {'id': 13976, 'date': '2025-07-10', 'time': '10:33 AM', 'flag_class': 'flag-icon flag-icon-ae', 'currency_name': 'UAE Dirham', 'fxd_currency_code': 'AED', 'var_currency_code': 'NPR', 'fxd_currency_units': '1', 'buy_rate_cash': '36.85', 'buy_rate_non_cash': '37.04', 'sell_rate': '37.41', 'created_date': 'Jul 10, 2025'}, {'id': 13977, 'date': '2025-07-10', 'time': '10:33 AM', 'flag_class': 'flag-icon flag-icon-th', 'currency_name': 'Thai Bhat', 'fxd_currency_code': 'THB', 'var_currency_code': 'NPR', 'fxd_currency_units': '1', 'buy_rate_cash': '4.16', 'buy_rate_non_cash': '4.18', 'sell_rate': '4.22', 'created_date': 'Jul 10, 2025'}, {'id': 13978, 'date': '2025-07-10', 'time': '10:33 AM', 'flag_class': 'flag-icon flag-icon-my', 'currency_name': 'Malaysian Ringgit', 'fxd_currency_code': 'MYR', 'var_currency_code': 'NPR', 'fxd_currency_units': '1', 'buy_rate_cash': '32', 'buy_rate_non_cash': '32.16', 'sell_rate': '32.48', 'created_date': 'Jul 10, 2025'}, {'id': 13979, 'date': '2025-07-10', 'time': '10:33 AM', 'flag_class': 'flag-icon flag-icon-sa', 'currency_name': 'Saudi Rial', 'fxd_currency_code': 'SAR', 'var_currency_code': 'NPR', 'fxd_currency_units': '1', 'buy_rate_cash': '36.14', 'buy_rate_non_cash': '36.32', 'sell_rate': '36.68', 'created_date': 'Jul 10, 2025'}, {'id': 13980, 'date': '2025-07-10', 'time': '10:33 AM', 'flag_class': 'flag-icon flag-icon-cn', 'currency_name': 'Chinese Yuan', 'fxd_currency_code': 'CNY', 'var_currency_code': 'NPR', 'fxd_currency_units': '1', 'buy_rate_cash': '18.94', 'buy_rate_non_cash': '19.04', 'sell_rate': '19.23', 'created_date': 'Jul 10, 2025'}, {'id': 13981, 'date': '2025-07-10', 'time': '10:33 AM', 'flag_class': 'flag-icon flag-icon-qa', 'currency_name': 'Qatari Riyal', 'fxd_currency_code': 'QAR', 'var_currency_code': 'NPR', 'fxd_currency_units': '1', 'buy_rate_cash': '37.05', 'buy_rate_non_cash': '37.23', 'sell_rate': '37.6', 'created_date': 'Jul 10, 2025'}, {'id': 13982, 'date': '2025-07-10', 'time': '10:33 AM', 'flag_class': 'flag-icon flag-icon-eu', 'currency_name': 'Euro', 'fxd_currency_code': 'EUR', 'var_currency_code': 'NPR', 'fxd_currency_units': '1', 'buy_rate_cash': '159.12', 'buy_rate_non_cash': '159.92', 'sell_rate': '161.52', 'created_date': 'Jul 10, 2025'}, {'id': 13983, 'date': '2025-07-10', 'time': '10:33 AM', 'flag_class': 'flag-icon flag-icon-kr', 'currency_name': 'Korean Won', 'fxd_currency_code': 'KRW', 'var_currency_code': 'NPR', 'fxd_currency_units': '1', 'buy_rate_cash': '0.0987', 'buy_rate_non_cash': '0.0992', 'sell_rate': '0.1002', 'created_date': 'Jul 10, 2025'}, {'id': 13984, 'date': '2025-07-10', 'time': '10:33 AM', 'flag_class': 'flag-icon flag-icon-kw', 'currency_name': 'Kuwaiti Dinar', 'fxd_currency_code': 'KWD', 'var_currency_code': 'NPR', 'fxd_currency_units': '1', 'buy_rate_cash': '443.21', 'buy_rate_non_cash': '445.44', 'sell_rate': '449.89', 'created_date': 'Jul 10, 2025'}, {'id': 13985, 'date': '2025-07-10', 'time': '10:33 AM', 'flag_class': 'flag-icon flag-icon-bh', 'currency_name': 'Bahrain Dinar', 'fxd_currency_code': 'BHD', 'var_currency_code': 'NPR', 'fxd_currency_units': '1', 'buy_rate_cash': '359', 'buy_rate_non_cash': '360.8', 'sell_rate': '364.41', 'created_date': 'Jul 10, 2025'}, {'id': 13986, 'date': '2025-07-10', 'time': '10:33 AM', 'flag_class': 'flag-icon flag-icon-in', 'currency_name': 'Indian Rupees', 'fxd_currency_code': 'INR', 'var_currency_code': 'NPR', 'fxd_currency_units': '100', 'buy_rate_cash': '160', 'buy_rate_non_cash': '160', 'sell_rate': '160.15', 'created_date': 'Jul 10, 2025'}, {'id': 13987, 'date': '2025-07-10', 'time': '10:33 AM', 'flag_class': 'flag-icon flag-icon-om', 'currency_name': 'Omani Rial', 'fxd_currency_code': 'OMR', 'var_currency_code': 'NPR', 'fxd_currency_units': '1', 'buy_rate_cash': '351.67', 'buy_rate_non_cash': '353.44', 'sell_rate': '356.97', 'created_date': 'Jul 10, 2025'}], 'additional-data': ''}
+Successfully opened Kamana Sewa Bikas Bank Limited
+Opening Garima Bikas Bank Limited - https://garimabank.com.np/forex?date=yyyy-mm-dd&currency=
+Trying URL: https://garimabank.com.np/forex?date=2025-07-10&currency=
+Searching for 'No record found' to see if we need to go back'
+❌ No table for date 2025-07-10, trying previous day...
+Trying URL: https://garimabank.com.np/forex?date=2025-07-09&currency=
+Searching for 'No record found' to see if we need to go back'
+✅ Table found for date 2025-07-09
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="100%" style="text-align: center; width: 100%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: none;">
+
+ <tbody><tr style="background:#0055A6">
+  <td width="65%" valign="bottom" style="width: 65.74%; border: 1pt solid rgb(227, 227, 227); background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 3pt 5.25pt;">
+  <b><font color="#fff">Method
+  of Transaction</font></b>
+  </td>
+  <td width="34%" valign="bottom" style="width: 34.26%; border-top: 1pt solid rgb(227, 227, 227); border-right: 1pt solid rgb(227, 227, 227); border-bottom: 1pt solid rgb(227, 227, 227); border-image: initial; border-left: none; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 3pt 5.25pt;">
+ <b><font color="#fff">Daily
+  Limit</font></b>
+  </td>
+ </tr>
+ <tr>
+  <td width="65%" valign="bottom" style="width: 65.74%; border-right: 1pt solid rgb(227, 227, 227); border-bottom: 1pt solid rgb(227, 227, 227); border-left: 1pt solid rgb(227, 227, 227); border-image: initial; border-top: none; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 3pt 5.25pt;">
+  <p style="margin-top: 0in; line-height: 18pt;"><font color="#000000">QR
+  Code Payment</font></p>
+  </td>
+  <td width="34%" valign="bottom" style="width: 34.26%; border-top: none; border-left: none; border-bottom: 1pt solid rgb(227, 227, 227); border-right: 1pt solid rgb(227, 227, 227); background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 3pt 5.25pt;">
+  <p style="margin-top: 0in; line-height: 18pt;"><font color="#000000">NPR 3
+  Lakh</font></p>
+  </td>
+ </tr>
+</tbody></table>
+Successfully opened Garima Bikas Bank Limited
+Opening Shine Resunga Development Bank Limited - https://srdb.com.np/Exchange-Rates
+{'status': {'code': 200}, 'errors': {'validation': None}, 'params': {'date': None, 'from': '2025-07-10', 'to': '2025-07-10', 'post_type': None, 'per_page': '20', 'page': '1', 'slug': None, 'q': None}, 'data': {'payload': [{'date': '2025-07-10', 'published_on': '2025-07-10 00:00:03', 'modified_on': '2025-07-09 18:08:03', 'rates': [{'currency': {'iso3': 'INR', 'name': 'Indian Rupee', 'unit': 100}, 'buy': '160.00', 'sell': '160.15'}, {'currency': {'iso3': 'USD', 'name': 'U.S. Dollar', 'unit': 1}, 'buy': '136.78', 'sell': '137.38'}, {'currency': {'iso3': 'EUR', 'name': 'European Euro', 'unit': 1}, 'buy': '160.08', 'sell': '160.78'}, {'currency': {'iso3': 'GBP', 'name': 'UK Pound Sterling', 'unit': 1}, 'buy': '185.84', 'sell': '186.66'}, {'currency': {'iso3': 'CHF', 'name': 'Swiss Franc', 'unit': 1}, 'buy': '171.68', 'sell': '172.44'}, {'currency': {'iso3': 'AUD', 'name': 'Australian Dollar', 'unit': 1}, 'buy': '89.22', 'sell': '89.61'}, {'currency': {'iso3': 'CAD', 'name': 'Canadian Dollar', 'unit': 1}, 'buy': '99.86', 'sell': '100.30'}, {'currency': {'iso3': 'SGD', 'name': 'Singapore Dollar', 'unit': 1}, 'buy': '106.76', 'sell': '107.23'}, {'currency': {'iso3': 'JPY', 'name': 'Japanese Yen', 'unit': 10}, 'buy': '9.33', 'sell': '9.37'}, {'currency': {'iso3': 'CNY', 'name': 'Chinese Yuan', 'unit': 1}, 'buy': '19.05', 'sell': '19.13'}, {'currency': {'iso3': 'SAR', 'name': 'Saudi Arabian Riyal', 'unit': 1}, 'buy': '36.47', 'sell': '36.63'}, {'currency': {'iso3': 'QAR', 'name': 'Qatari Riyal', 'unit': 1}, 'buy': '37.53', 'sell': '37.69'}, {'currency': {'iso3': 'THB', 'name': 'Thai Baht', 'unit': 1}, 'buy': '4.18', 'sell': '4.20'}, {'currency': {'iso3': 'AED', 'name': 'UAE Dirham', 'unit': 1}, 'buy': '37.24', 'sell': '37.40'}, {'currency': {'iso3': 'MYR', 'name': 'Malaysian Ringgit', 'unit': 1}, 'buy': '32.18', 'sell': '32.32'}, {'currency': {'iso3': 'KRW', 'name': 'South Korean Won', 'unit': 100}, 'buy': '9.94', 'sell': '9.98'}, {'currency': {'iso3': 'SEK', 'name': 'Swedish Kroner', 'unit': 1}, 'buy': '14.35', 'sell': '14.41'}, {'currency': {'iso3': 'DKK', 'name': 'Danish Kroner', 'unit': 1}, 'buy': '21.45', 'sell': '21.55'}, {'currency': {'iso3': 'HKD', 'name': 'Hong Kong Dollar', 'unit': 1}, 'buy': '17.42', 'sell': '17.50'}, {'currency': {'iso3': 'KWD', 'name': 'Kuwaity Dinar', 'unit': 1}, 'buy': '447.86', 'sell': '449.82'}, {'currency': {'iso3': 'BHD', 'name': 'Bahrain Dinar', 'unit': 1}, 'buy': '362.85', 'sell': '364.45'}, {'currency': {'iso3': 'OMR', 'name': 'Omani Rial', 'unit': 1}, 'buy': '355.28', 'sell': '356.84'}]}]}, 'pagination': {'page': 1, 'pages': 1, 'per_page': 20, 'total': 1, 'links': {'prev': None, 'next': None}}}
+Successfully opened Shine Resunga Development Bank Limited
+Opening Mahalaxmi Bikas Bank Limited - https://www.mahalaxmibank.com/forex
+<table class="table styled-table">
+														<thead>
+															<tr>
+																<th>Currency</th>
+																<th class="text-center">Unit</th>
+																<th class="text-center">Buying (Notes of below Deno 50)</th>
+																<th class="text-center">Buying (Notes of Deno 50 and above)</th>
+																<th class="text-center">Selling/Rs.</th>
+															</tr>
+														</thead>
+														<tbody id="table_body"><tr>
+																				<td><img class="rounded-circle border" width="25px" height="25px" src="https://www.mahalaxmibank.com/assets/frontend/img/flags/1x1/us.svg" alt="us">
+<span class="fw-bold">Us Dollar</span></td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">136.25</td>
+																				<td class="text-center">136.75</td>
+																				<td class="text-center">137.25</td>
+																			</tr><tr>
+																				<td><img class="rounded-circle border" width="25px" height="25px" src="https://www.mahalaxmibank.com/assets/frontend/img/flags/1x1/eu.svg" alt="eu">
+<span class="fw-bold">Euro</span></td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">159.61</td>
+																				<td class="text-center">159.61</td>
+																				<td class="text-center">161.19</td>
+																			</tr><tr>
+																				<td><img class="rounded-circle border" width="25px" height="25px" src="https://www.mahalaxmibank.com/assets/frontend/img/flags/1x1/gb.svg" alt="gb">
+<span class="fw-bold">Pound Sterling</span></td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">187.07</td>
+																				<td class="text-center">187.07</td>
+																				<td class="text-center">188.90</td>
+																			</tr><tr>
+																				<td><img class="rounded-circle border" width="25px" height="25px" src="https://www.mahalaxmibank.com/assets/frontend/img/flags/1x1/au.svg" alt="au">
+<span class="fw-bold">Australian Dollar</span></td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">90.22</td>
+																				<td class="text-center">90.22</td>
+																				<td class="text-center">91.10</td>
+																			</tr><tr>
+																				<td><img class="rounded-circle border" width="25px" height="25px" src="https://www.mahalaxmibank.com/assets/frontend/img/flags/1x1/ch.svg" alt="ch">
+<span class="fw-bold">Swiss Frank</span></td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">171.57</td>
+																				<td class="text-center">171.57</td>
+																				<td class="text-center">173.25</td>
+																			</tr><tr>
+																				<td><img class="rounded-circle border" width="25px" height="25px" src="https://www.mahalaxmibank.com/assets/frontend/img/flags/1x1/ca.svg" alt="ca">
+<span class="fw-bold">Canadian Dollar</span></td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">99.56</td>
+																				<td class="text-center">99.56</td>
+																				<td class="text-center">100.54</td>
+																			</tr><tr>
+																				<td><img class="rounded-circle border" width="25px" height="25px" src="https://www.mahalaxmibank.com/assets/frontend/img/flags/1x1/sg.svg" alt="sg">
+<span class="fw-bold">Singapore Dollar</span></td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">106.51</td>
+																				<td class="text-center">106.51</td>
+																				<td class="text-center">107.56</td>
+																			</tr><tr>
+																				<td><img class="rounded-circle border" width="25px" height="25px" src="https://www.mahalaxmibank.com/assets/frontend/img/flags/1x1/jp.svg" alt="jp">
+<span class="fw-bold">Japanese Yen</span></td>
+																				<td class="text-center">10</td>
+																				<td class="text-center">9.33</td>
+																				<td class="text-center">9.33</td>
+																				<td class="text-center">9.43</td>
+																			</tr><tr>
+																				<td><img class="rounded-circle border" width="25px" height="25px" src="https://www.mahalaxmibank.com/assets/frontend/img/flags/1x1/cn.svg" alt="cn">
+<span class="fw-bold">Chinese Yuan</span></td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">19.01</td>
+																				<td class="text-center">19.01</td>
+																				<td class="text-center">19.20</td>
+																			</tr><tr>
+																				<td><img class="rounded-circle border" width="25px" height="25px" src="https://www.mahalaxmibank.com/assets/frontend/img/flags/1x1/qa.svg" alt="qa">
+<span class="fw-bold">Qatari Riyal</span></td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">37.35</td>
+																				<td class="text-center">37.35</td>
+																				<td class="text-center">37.72</td>
+																			</tr><tr>
+																				<td><img class="rounded-circle border" width="25px" height="25px" src="https://www.mahalaxmibank.com/assets/frontend/img/flags/1x1/sa.svg" alt="sa">
+<span class="fw-bold">Saudi Rial</span></td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">36.20</td>
+																				<td class="text-center">36.20</td>
+																				<td class="text-center">36.55</td>
+																			</tr><tr>
+																				<td><img class="rounded-circle border" width="25px" height="25px" src="https://www.mahalaxmibank.com/assets/frontend/img/flags/1x1/th.svg" alt="th">
+<span class="fw-bold">Thai Bhat</span></td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">4.11</td>
+																				<td class="text-center">4.11</td>
+																				<td class="text-center">4.15</td>
+																			</tr><tr>
+																				<td><img class="rounded-circle border" width="25px" height="25px" src="https://www.mahalaxmibank.com/assets/frontend/img/flags/1x1/my.svg" alt="my">
+<span class="fw-bold">Malaysian Ringgit</span></td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">31.91</td>
+																				<td class="text-center">31.91</td>
+																				<td class="text-center">32.22</td>
+																			</tr><tr>
+																				<td><img class="rounded-circle border" width="25px" height="25px" src="https://www.mahalaxmibank.com/assets/frontend/img/flags/1x1/ae.svg" alt="ae">
+<span class="fw-bold">UAE Dirham</span></td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">36.98</td>
+																				<td class="text-center">36.98</td>
+																				<td class="text-center">37.34</td>
+																			</tr><tr>
+																				<td><img class="rounded-circle border" width="25px" height="25px" src="https://www.mahalaxmibank.com/assets/frontend/img/flags/1x1/hk.svg" alt="hk">
+<span class="fw-bold">Hongkong Dollar</span></td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">17.28</td>
+																				<td class="text-center">17.28</td>
+																				<td class="text-center">17.45</td>
+																			</tr><tr>
+																				<td><img class="rounded-circle border" width="25px" height="25px" src="https://www.mahalaxmibank.com/assets/frontend/img/flags/1x1/dk.svg" alt="dk">
+<span class="fw-bold">Danish Kroner</span></td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">21.33</td>
+																				<td class="text-center">21.33</td>
+																				<td class="text-center">21.54</td>
+																			</tr><tr>
+																				<td><img class="rounded-circle border" width="25px" height="25px" src="https://www.mahalaxmibank.com/assets/frontend/img/flags/1x1/se.svg" alt="se">
+<span class="fw-bold">Swedish Kroner</span></td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">14.24</td>
+																				<td class="text-center">14.24</td>
+																				<td class="text-center">14.38</td>
+																			</tr><tr>
+																				<td><img class="rounded-circle border" width="25px" height="25px" src="https://www.mahalaxmibank.com/assets/frontend/img/flags/1x1/kr.svg" alt="kr">
+<span class="fw-bold">S. Korean Won</span></td>
+																				<td class="text-center">100</td>
+																				<td class="text-center">9.91</td>
+																				<td class="text-center">9.91</td>
+																				<td class="text-center">10.00</td>
+																			</tr><tr>
+																				<td><img class="rounded-circle border" width="25px" height="25px" src="https://www.mahalaxmibank.com/assets/frontend/img/flags/1x1/in.svg" alt="in">
+<span class="fw-bold">Indian Rupees</span></td>
+																				<td class="text-center">100</td>
+																				<td class="text-center">160.00</td>
+																				<td class="text-center">160.00</td>
+																				<td class="text-center">160.15</td>
+																			</tr><tr>
+																				<td><img class="rounded-circle border" width="25px" height="25px" src="https://www.mahalaxmibank.com/assets/frontend/img/flags/1x1/bh.svg" alt="bh">
+<span class="fw-bold">Bahrain Dinar</span></td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">361.05</td>
+																				<td class="text-center">361.05</td>
+																				<td class="text-center">364.59</td>
+																			</tr><tr>
+																				<td><img class="rounded-circle border" width="25px" height="25px" src="https://www.mahalaxmibank.com/assets/frontend/img/flags/1x1/kw.svg" alt="kw">
+<span class="fw-bold">Kuwaiti Dinar</span></td>
+																				<td class="text-center">1</td>
+																				<td class="text-center">446.27</td>
+																				<td class="text-center">446.27</td>
+																				<td class="text-center">450.64</td>
+																			</tr>				</tbody>
+													</table>

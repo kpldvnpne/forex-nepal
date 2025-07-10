@@ -116,8 +116,6 @@ async def open_bank_pages(json_file_path):
             except Exception as e:
                 print(f"Error opening {bank['name']}: {str(e)}")
 
-            input()
-
         # Create tasks for all banks
         for bank in banks:
           await open_page(bank)
