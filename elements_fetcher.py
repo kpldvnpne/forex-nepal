@@ -31,7 +31,6 @@ async def open_bank_pages(json_file_path):
         # Launch Chromium browser
         browser = await p.chromium.launch(
             headless=False,  # Keep browser visible
-            devtools=True    # Enable developer tools
         )
 
         # Create a new browser context
@@ -55,7 +54,11 @@ async def open_bank_pages(json_file_path):
                   print(await table.evaluate('el => el.outerHTML'))
                 elif 'api' in bank:
                     api = bank['api']
-                    api.replace()
+                    api = api.replace('yyyy-mm-dd', '')
+                    response = await page.wait_for_event("response", lambda r: api in r.url, timeout=30_000)
+                    json_data = await response.json()
+                    print(json_data)
+
                 input()
 
                 print(f"Successfully opened {bank['name']}")
