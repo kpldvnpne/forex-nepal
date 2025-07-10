@@ -38,11 +38,14 @@ async def check_forex_links(json_file_path):
         # Create a new browser context
         context = await browser.new_context()
 
+        # Create the first page to act as our main tab
+        main_page = await context.new_page()
+
         # Track successful and failed links
         successful_links = []
         failed_links = []
 
-        print("\nOpening forex links...")
+        print("\nOpening forex links in new tabs...")
         print("=" * 50)
 
         for i, bank in enumerate(banks, 1):
@@ -56,22 +59,44 @@ async def check_forex_links(json_file_path):
                 continue
 
             try:
-                # Create a new page (tab) for each bank
-                page = await context.new_page()
-
                 print(f"{i:2d}. Opening: {bank_name} ({bank_class})")
                 print(f"    URL: {forex_url}")
 
-                # Navigate to the forex page
-                response = await page.goto(forex_url, timeout=10000)  # 10 second timeout
+                # Open link in new tab using JavaScript
+                await main_page.evaluate(f"window.open('{forex_url}', '_blank')")
 
-                # Check if the page loaded successfully
-                if response and response.status < 400:
-                    print(f"    Status: ✓ Loaded successfully (HTTP {response.status})")
-                    successful_links.append({'bank': bank_name, 'class': bank_class, 'url': forex_url})
+                # Wait for the new tab to be created
+                await asyncio.sleep(1)
+
+                # Get all pages (tabs) in the context
+                pages = context.pages
+
+                # Find the newly created tab (last one)
+                if len(pages) > i:  # We have a new tab
+                    new_tab = pages[-1]
+
+                    # Wait for the page to load
+                    try:
+                        await new_tab.wait_for_load_state('networkidle', timeout=10000)
+
+                        # Check the final URL to see if it loaded properly
+                        current_url = new_tab.url
+
+                        if current_url and not current_url.startswith('about:blank'):
+                            print(f"    Status: ✓ Loaded successfully")
+                            print(f"    Final URL: {current_url}")
+                            successful_links.append({'bank': bank_name, 'class': bank_class, 'url': forex_url, 'final_url': current_url})
+                        else:
+                            print(f"    Status: ✗ Failed to load properly")
+                            failed_links.append({'bank': bank_name, 'class': bank_class, 'url': forex_url, 'reason': 'Blank page or failed to load'})
+
+                    except Exception as tab_error:
+                        print(f"    Status: ✗ Error loading tab - {str(tab_error)}")
+                        failed_links.append({'bank': bank_name, 'class': bank_class, 'url': forex_url, 'reason': str(tab_error)})
+
                 else:
-                    print(f"    Status: ✗ Failed to load (HTTP {response.status if response else 'No response'})")
-                    failed_links.append({'bank': bank_name, 'class': bank_class, 'url': forex_url, 'reason': f'HTTP {response.status if response else "No response"}'})
+                    print(f"    Status: ✗ Failed to create new tab")
+                    failed_links.append({'bank': bank_name, 'class': bank_class, 'url': forex_url, 'reason': 'Tab creation failed'})
 
                 # Wait a bit before opening the next link
                 await asyncio.sleep(2)
@@ -79,12 +104,6 @@ async def check_forex_links(json_file_path):
             except Exception as e:
                 print(f"    Status: ✗ Error - {str(e)}")
                 failed_links.append({'bank': bank_name, 'class': bank_class, 'url': forex_url, 'reason': str(e)})
-
-                # Close the page if it was created but failed
-                try:
-                    await page.close()
-                except:
-                    pass
 
         # Print summary
         print("\n" + "=" * 50)
