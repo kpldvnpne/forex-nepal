@@ -1,0 +1,4444 @@
+{
+    "all_banks": [
+        {
+            "rates": [
+                {
+                    "currency": {
+                        "name": "US Dollar",
+                        "iso_code": "USD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 136.7,
+                        "buy_non_cash": 136.7,
+                        "sell": 137.3
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Euro",
+                        "iso_code": "EUR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 159.53,
+                        "buy_non_cash": 159.53,
+                        "sell": 161.13
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Sterling Pound",
+                        "iso_code": "GBP",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 185.04,
+                        "buy_non_cash": 185.04,
+                        "sell": 186.89
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Canadian Dollar",
+                        "iso_code": "CAD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 99.51,
+                        "buy_non_cash": 99.51,
+                        "sell": 100.5
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swiss Franc",
+                        "iso_code": "CHF",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 171.33,
+                        "buy_non_cash": 171.33,
+                        "sell": 173.04
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Singapore Dollar",
+                        "iso_code": "SGD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 106.35,
+                        "buy_non_cash": 106.35,
+                        "sell": 107.42
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Japanese Yen",
+                        "iso_code": "JPY",
+                        "unit": 10
+                    },
+                    "rates": {
+                        "buy_cash": 9.3,
+                        "buy_non_cash": 9.3,
+                        "sell": 9.39
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Australian Dollar",
+                        "iso_code": "AUD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 89.13,
+                        "buy_non_cash": 89.13,
+                        "sell": 90.02
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "South Korean Won",
+                        "iso_code": "KRW",
+                        "unit": 100
+                    },
+                    "rates": {
+                        "buy_cash": 9.91,
+                        "buy_non_cash": 9.91,
+                        "sell": 10.01
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Saudi Riyal",
+                        "iso_code": "SAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 35.77,
+                        "buy_non_cash": 35.77,
+                        "sell": 36.12
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Chinese Yuan",
+                        "iso_code": "CNY",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 18.95,
+                        "buy_non_cash": 18.95,
+                        "sell": 19.14
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Qatari Rial",
+                        "iso_code": "QAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.69,
+                        "buy_non_cash": 36.69,
+                        "sell": 37.06
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Malaysian Ringgit",
+                        "iso_code": "MYR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 31.3,
+                        "buy_non_cash": 31.3,
+                        "sell": 31.61
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Thai Baht",
+                        "iso_code": "THB",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 4.18,
+                        "buy_non_cash": 4.18,
+                        "sell": 4.22
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "UAE Dirham",
+                        "iso_code": "AED",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.48,
+                        "buy_non_cash": 36.48,
+                        "sell": 36.84
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Hong Kong Dollar",
+                        "iso_code": "HKD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 17.33,
+                        "buy_non_cash": 17.33,
+                        "sell": 17.5
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Danish Kroner",
+                        "iso_code": "DKK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 21.38,
+                        "buy_non_cash": 21.38,
+                        "sell": 21.6
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swedish Kroner",
+                        "iso_code": "SEK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 14.3,
+                        "buy_non_cash": 14.3,
+                        "sell": 14.45
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Bahraini Dinar",
+                        "iso_code": "BHD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 360.86,
+                        "buy_non_cash": 360.86,
+                        "sell": 364.47
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Kuwaiti Dinar",
+                        "iso_code": "KWD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 445.36,
+                        "buy_non_cash": 445.36,
+                        "sell": 449.81
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Indian Rupee",
+                        "iso_code": "INR",
+                        "unit": 100
+                    },
+                    "rates": {
+                        "buy_cash": 160.0,
+                        "buy_non_cash": 160.0,
+                        "sell": 160.15
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Omani Riyal",
+                        "iso_code": "OMR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 353.34,
+                        "buy_non_cash": 353.34,
+                        "sell": 356.87
+                    }
+                }
+            ],
+            "bank_name": "Nepal Bank Limited",
+            "source_url": "https://www.nepalbank.com.np/forex",
+            "fetch_datetime_utc": "2025-07-10T16:48:56.197632Z"
+        },
+        {
+            "rates": [
+                {
+                    "currency": {
+                        "name": "US Dollar",
+                        "iso_code": "USD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 136.02,
+                        "buy_non_cash": 136.7,
+                        "sell": 137.3
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Euro",
+                        "iso_code": "EUR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 159.7,
+                        "buy_non_cash": 159.95,
+                        "sell": 161.48
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Pound Sterling",
+                        "iso_code": "GBP",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 185.28,
+                        "buy_non_cash": 185.56,
+                        "sell": 187.3
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swiss Franc",
+                        "iso_code": "CHF",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 170.92,
+                        "buy_non_cash": 171.07,
+                        "sell": 173.13
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Australian Dollar",
+                        "iso_code": "AUD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 89.33,
+                        "buy_non_cash": 89.47,
+                        "sell": 90.31
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Canadian Dollar",
+                        "iso_code": "CAD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 99.74,
+                        "buy_non_cash": 99.83,
+                        "sell": 100.78
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Singapore Dollar",
+                        "iso_code": "SGD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 106.19,
+                        "buy_non_cash": 106.42,
+                        "sell": 107.55
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Japanese Yen",
+                        "iso_code": "JPY",
+                        "unit": 10
+                    },
+                    "rates": {
+                        "buy_cash": 9.35,
+                        "buy_non_cash": 9.36,
+                        "sell": 9.45
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Chinese Yuan",
+                        "iso_code": "CNY",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 18.92,
+                        "buy_non_cash": 18.93,
+                        "sell": 19.12
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Saudi Riyal",
+                        "iso_code": "SAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 35.98,
+                        "buy_non_cash": 36.03,
+                        "sell": 36.33
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Qatari Rial",
+                        "iso_code": "QAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.94,
+                        "buy_non_cash": 37.0,
+                        "sell": 37.32
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Thai Baht",
+                        "iso_code": "THB",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 4.15,
+                        "buy_non_cash": 4.17,
+                        "sell": 4.22
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "UAE Dirham",
+                        "iso_code": "AED",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.91,
+                        "buy_non_cash": 36.98,
+                        "sell": 37.38
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Malaysian Ringgit",
+                        "iso_code": "MYR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 31.67,
+                        "buy_non_cash": 31.76,
+                        "sell": 32.44
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "South Korean Won",
+                        "iso_code": "KRW",
+                        "unit": 100
+                    },
+                    "rates": {
+                        "buy_cash": 9.88,
+                        "buy_non_cash": 9.91,
+                        "sell": 9.98
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swedish Krona",
+                        "iso_code": "SEK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 14.27,
+                        "buy_non_cash": 14.28,
+                        "sell": 14.41
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Danish Krone",
+                        "iso_code": "DKK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 21.24,
+                        "buy_non_cash": 21.28,
+                        "sell": 21.75
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Hong Kong Dollar",
+                        "iso_code": "HKD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 17.17,
+                        "buy_non_cash": 17.26,
+                        "sell": 17.44
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Kuwaiti Dinar",
+                        "iso_code": "KWD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 442.22,
+                        "buy_non_cash": 444.44,
+                        "sell": 447.8
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Bahraini Dinar",
+                        "iso_code": "BHD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 360.78,
+                        "buy_non_cash": 361.09,
+                        "sell": 363.22
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Omani Rial",
+                        "iso_code": "OMR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 353.42,
+                        "buy_non_cash": 353.69,
+                        "sell": 357.41
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Indian Rupee",
+                        "iso_code": "INR",
+                        "unit": 100
+                    },
+                    "rates": {
+                        "buy_cash": 160.0,
+                        "buy_non_cash": 160.0,
+                        "sell": 160.15
+                    }
+                }
+            ],
+            "bank_name": "Agricultural Development Bank Limited",
+            "source_url": "https://www.adbl.gov.np/forex",
+            "fetch_datetime_utc": "2025-07-10T16:48:25.804615Z"
+        },
+        {
+            "rates": [
+                {
+                    "currency": {
+                        "name": "US Dollar",
+                        "iso_code": "USD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 136.65,
+                        "buy_non_cash": 136.65,
+                        "sell": 137.25
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Euro",
+                        "iso_code": "EUR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 159.29,
+                        "buy_non_cash": 159.29,
+                        "sell": 160.86
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Pound Sterling",
+                        "iso_code": "GBP",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 184.78,
+                        "buy_non_cash": 184.78,
+                        "sell": 185.8
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swiss Franc",
+                        "iso_code": "CHF",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 170.71,
+                        "buy_non_cash": 170.71,
+                        "sell": 172.39
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Australian Dollar",
+                        "iso_code": "AUD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 88.93,
+                        "buy_non_cash": 88.93,
+                        "sell": 89.66
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Canadian Dollar",
+                        "iso_code": "CAD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 99.46,
+                        "buy_non_cash": 99.46,
+                        "sell": 100.44
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Singapore Dollar",
+                        "iso_code": "SGD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 106.05,
+                        "buy_non_cash": 106.05,
+                        "sell": 107.1
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Japanese Yen",
+                        "iso_code": "JPY",
+                        "unit": 10
+                    },
+                    "rates": {
+                        "buy_cash": 9.3,
+                        "buy_non_cash": 9.3,
+                        "sell": 9.39
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Chinese Yuan",
+                        "iso_code": "CNY",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 18.54,
+                        "buy_non_cash": 18.54,
+                        "sell": 18.72
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Hong Kong Dollar",
+                        "iso_code": "HKD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 17.39,
+                        "buy_non_cash": 17.39,
+                        "sell": 17.56
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Danish Kroner",
+                        "iso_code": "DKK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 21.37,
+                        "buy_non_cash": 21.37,
+                        "sell": 21.58
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Malaysian Ringgit",
+                        "iso_code": "MYR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 31.53,
+                        "buy_non_cash": 31.53,
+                        "sell": 31.83
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Qatari Riyal",
+                        "iso_code": "QAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.54,
+                        "buy_non_cash": 36.54,
+                        "sell": 36.9
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Saudi Arab Riyal",
+                        "iso_code": "SAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.01,
+                        "buy_non_cash": 36.01,
+                        "sell": 36.36
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swedish Kroner",
+                        "iso_code": "SEK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 14.23,
+                        "buy_non_cash": 14.23,
+                        "sell": 14.36
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Thai Baht",
+                        "iso_code": "THB",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 4.18,
+                        "buy_non_cash": 4.18,
+                        "sell": 4.21
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "UAE Dirham",
+                        "iso_code": "AED",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.24,
+                        "buy_non_cash": 36.24,
+                        "sell": 36.6
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "South Korean Won",
+                        "iso_code": "KRW",
+                        "unit": 100
+                    },
+                    "rates": {
+                        "buy_cash": 9.95,
+                        "buy_non_cash": 9.95,
+                        "sell": 10.04
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Kuwaiti Dinar",
+                        "iso_code": "KWD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 445.99,
+                        "buy_non_cash": 445.99,
+                        "sell": 448.67
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Bahrain Dinar",
+                        "iso_code": "BHD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 361.62,
+                        "buy_non_cash": 361.62,
+                        "sell": 363.11
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Omani Riyal",
+                        "iso_code": "OMR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 354.04,
+                        "buy_non_cash": 354.04,
+                        "sell": 355.56
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Indian Currency",
+                        "iso_code": "INR",
+                        "unit": 100
+                    },
+                    "rates": {
+                        "buy_cash": 160.0,
+                        "buy_non_cash": 160.0,
+                        "sell": 160.15
+                    }
+                }
+            ],
+            "bank_name": "Rastriya Banijya Bank Limited",
+            "source_url": "https://www.rbb.com.np/forexdetail",
+            "fetch_datetime_utc": "2025-07-10T16:50:55.692111Z"
+        },
+        {
+            "rates": [
+                {
+                    "currency": {
+                        "name": "US Dollar",
+                        "iso_code": "USD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 136.6,
+                        "buy_non_cash": 136.6,
+                        "sell": 137.2
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Euro",
+                        "iso_code": "EUR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 158.92,
+                        "buy_non_cash": 158.92,
+                        "sell": 160.51
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Pound Sterling",
+                        "iso_code": "GBP",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 184.45,
+                        "buy_non_cash": 184.45,
+                        "sell": 186.29
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swiss Franc",
+                        "iso_code": "CHF",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 170.52,
+                        "buy_non_cash": 170.52,
+                        "sell": 172.23
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Japanese Yen",
+                        "iso_code": "JPY",
+                        "unit": 10
+                    },
+                    "rates": {
+                        "buy_cash": 9.25,
+                        "buy_non_cash": 9.25,
+                        "sell": 9.34
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Australian Dollar",
+                        "iso_code": "AUD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 88.65,
+                        "buy_non_cash": 88.65,
+                        "sell": 89.49
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Singapore Dollar",
+                        "iso_code": "SGD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 105.92,
+                        "buy_non_cash": 105.92,
+                        "sell": 106.87
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Hong Kong Dollar",
+                        "iso_code": "HKD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 17.2,
+                        "buy_non_cash": 17.2,
+                        "sell": 17.36
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Canadian Dollar",
+                        "iso_code": "CAD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 99.11,
+                        "buy_non_cash": 99.11,
+                        "sell": 100.1
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Indian Rupee",
+                        "iso_code": "INR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 1.6,
+                        "buy_non_cash": 1.6,
+                        "sell": 1.6015
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Danish Krone",
+                        "iso_code": "DKK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 21.22,
+                        "buy_non_cash": 21.22,
+                        "sell": 21.43
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Qatari Riyal",
+                        "iso_code": "QAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.54,
+                        "buy_non_cash": 36.54,
+                        "sell": 36.9
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Chinese Yuan",
+                        "iso_code": "CNY",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 18.86,
+                        "buy_non_cash": 18.86,
+                        "sell": 19.04
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Saudi Riyal",
+                        "iso_code": "SAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 35.56,
+                        "buy_non_cash": 35.56,
+                        "sell": 35.9
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swedish Krona",
+                        "iso_code": "SEK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 14.19,
+                        "buy_non_cash": 14.19,
+                        "sell": 14.32
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Thai Baht",
+                        "iso_code": "THB",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 4.14,
+                        "buy_non_cash": 4.14,
+                        "sell": 4.18
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Malaysian Ringgit",
+                        "iso_code": "MYR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 31.36,
+                        "buy_non_cash": 31.36,
+                        "sell": 31.66
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "UAE Dirham",
+                        "iso_code": "AED",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.31,
+                        "buy_non_cash": 36.31,
+                        "sell": 36.66
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "South Korean Won",
+                        "iso_code": "KRW",
+                        "unit": 100
+                    },
+                    "rates": {
+                        "buy_cash": 9.94,
+                        "buy_non_cash": 9.94,
+                        "sell": 10.03
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Bahraini Dinar",
+                        "iso_code": "BHD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 360.45,
+                        "buy_non_cash": 360.45,
+                        "sell": 364.05
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Kuwaiti Dinar",
+                        "iso_code": "KWD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 444.23,
+                        "buy_non_cash": 444.23,
+                        "sell": 448.67
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Omani Rial",
+                        "iso_code": "OMR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 352.76,
+                        "buy_non_cash": 352.76,
+                        "sell": 356.29
+                    }
+                }
+            ],
+            "bank_name": "Standard Chartered Bank Nepal Limited",
+            "source_url": "https://www.sc.com/np/forex-solutions/",
+            "fetch_datetime_utc": "2025-07-10T16:48:06.621051Z"
+        },
+        {
+            "rates": [
+                {
+                    "currency": {
+                        "name": "US Dollar",
+                        "iso_code": "USD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 136.7,
+                        "buy_non_cash": 136.7,
+                        "sell": 137.3
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "United Arab Emirates Dirham",
+                        "iso_code": "AED",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 37.23,
+                        "buy_non_cash": 37.23,
+                        "sell": 37.58
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Australian Dollar",
+                        "iso_code": "AUD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 89.31,
+                        "buy_non_cash": 89.31,
+                        "sell": 90.19
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Bahraini Dinar",
+                        "iso_code": "BHD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 362.65,
+                        "buy_non_cash": 362.65,
+                        "sell": 366.27
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Canadian Dollar",
+                        "iso_code": "CAD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 99.23,
+                        "buy_non_cash": 99.23,
+                        "sell": 100.22
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swiss Franc",
+                        "iso_code": "CHF",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 170.66,
+                        "buy_non_cash": 170.66,
+                        "sell": 172.36
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Chinese Yuan",
+                        "iso_code": "CNY",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 18.99,
+                        "buy_non_cash": 18.99,
+                        "sell": 19.17
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Danish Krone",
+                        "iso_code": "DKK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 21.46,
+                        "buy_non_cash": 21.46,
+                        "sell": 21.66
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Euro",
+                        "iso_code": "EUR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 159.82,
+                        "buy_non_cash": 159.82,
+                        "sell": 161.41
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "British Pound",
+                        "iso_code": "GBP",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 185.47,
+                        "buy_non_cash": 185.47,
+                        "sell": 187.32
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Hong Kong Dollar",
+                        "iso_code": "HKD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 17.41,
+                        "buy_non_cash": 17.41,
+                        "sell": 17.56
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Indian Rupee",
+                        "iso_code": "INR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 1.6,
+                        "buy_non_cash": 1.6,
+                        "sell": 1.6015
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Japanese Yen",
+                        "iso_code": "JPY",
+                        "unit": 10
+                    },
+                    "rates": {
+                        "buy_cash": 9.34,
+                        "buy_non_cash": 9.34,
+                        "sell": 9.42
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "South Korean Won",
+                        "iso_code": "KRW",
+                        "unit": 100
+                    },
+                    "rates": {
+                        "buy_cash": 9.82,
+                        "buy_non_cash": 9.82,
+                        "sell": 9.9
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Kuwaiti Dinar",
+                        "iso_code": "KWD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 447.79,
+                        "buy_non_cash": 447.79,
+                        "sell": 452.25
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Malaysian Ringgit",
+                        "iso_code": "MYR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 32.16,
+                        "buy_non_cash": 32.16,
+                        "sell": 32.47
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Qatari Riyal",
+                        "iso_code": "QAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.87,
+                        "buy_non_cash": 36.87,
+                        "sell": 37.23
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Saudi Riyal",
+                        "iso_code": "SAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.45,
+                        "buy_non_cash": 36.45,
+                        "sell": 36.8
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swedish Krona",
+                        "iso_code": "SEK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 14.32,
+                        "buy_non_cash": 14.32,
+                        "sell": 14.45
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Singapore Dollar",
+                        "iso_code": "SGD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 106.41,
+                        "buy_non_cash": 106.41,
+                        "sell": 107.46
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Thai Baht",
+                        "iso_code": "THB",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 4.19,
+                        "buy_non_cash": 4.19,
+                        "sell": 4.22
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Omani Rial",
+                        "iso_code": "OMR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 354.42,
+                        "buy_non_cash": 354.42,
+                        "sell": 357.96
+                    }
+                }
+            ],
+            "bank_name": "Nepal SBI Bank Limited",
+            "source_url": "https://nsbl.statebank/exchange-rate",
+            "fetch_datetime_utc": "2025-07-10T16:49:51.947096Z"
+        },
+        null,
+        {
+            "rates": [
+                {
+                    "currency": {
+                        "name": "US Dollar",
+                        "iso_code": "USD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 136.02,
+                        "buy_non_cash": 136.7,
+                        "sell": 137.3
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Pound Sterling",
+                        "iso_code": "GBP",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 185.2,
+                        "buy_non_cash": 185.2,
+                        "sell": 187.05
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Australian Dollar",
+                        "iso_code": "AUD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 89.05,
+                        "buy_non_cash": 89.05,
+                        "sell": 89.94
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Canadian Dollar",
+                        "iso_code": "CAD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 99.48,
+                        "buy_non_cash": 99.48,
+                        "sell": 100.47
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swiss Frank",
+                        "iso_code": "CHF",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 170.88,
+                        "buy_non_cash": 170.88,
+                        "sell": 172.58
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Singapore Dollar",
+                        "iso_code": "SGD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 106.32,
+                        "buy_non_cash": 106.32,
+                        "sell": 107.39
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Japanese Yen",
+                        "iso_code": "JPY",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 0.9322,
+                        "buy_non_cash": 0.9322,
+                        "sell": 0.9415
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swedish Kroner",
+                        "iso_code": "SEK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 14.28,
+                        "buy_non_cash": 14.28,
+                        "sell": 14.42
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Danish Kroner",
+                        "iso_code": "DKK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 21.26,
+                        "buy_non_cash": 21.26,
+                        "sell": 21.47
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Hongkong Dollar",
+                        "iso_code": "HKD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 17.3,
+                        "buy_non_cash": 17.3,
+                        "sell": 17.47
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "UAE Dirham",
+                        "iso_code": "AED",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 37.21,
+                        "buy_non_cash": 37.21,
+                        "sell": 37.58
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Thai Bhat",
+                        "iso_code": "THB",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 4.17,
+                        "buy_non_cash": 4.17,
+                        "sell": 4.21
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Malaysian Ringgit",
+                        "iso_code": "MYR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 31.05,
+                        "buy_non_cash": 31.05,
+                        "sell": 31.36
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Saudi Rial",
+                        "iso_code": "SAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 35.95,
+                        "buy_non_cash": 35.95,
+                        "sell": 36.31
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Chinese Yuan",
+                        "iso_code": "CNY",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 18.97,
+                        "buy_non_cash": 18.97,
+                        "sell": 19.16
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Qatari Riyal",
+                        "iso_code": "QAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.77,
+                        "buy_non_cash": 36.77,
+                        "sell": 37.14
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Euro",
+                        "iso_code": "EUR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 159.69,
+                        "buy_non_cash": 159.69,
+                        "sell": 161.29
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "S Korean Won",
+                        "iso_code": "KRW",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 0.0995,
+                        "buy_non_cash": 0.0995,
+                        "sell": 0.1005
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Kuwaiti Dinar",
+                        "iso_code": "KWD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 444.71,
+                        "buy_non_cash": 444.71,
+                        "sell": 449.16
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Bahrain Dinar",
+                        "iso_code": "BHD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 360.64,
+                        "buy_non_cash": 360.64,
+                        "sell": 364.24
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Indian Rupees",
+                        "iso_code": "INR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 1.6,
+                        "buy_non_cash": 1.6,
+                        "sell": 1.6015
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Omani Rial",
+                        "iso_code": "OMR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 354.07,
+                        "buy_non_cash": 354.07,
+                        "sell": 357.61
+                    }
+                }
+            ],
+            "bank_name": "Nepal Investment Mega Bank Limited",
+            "source_url": "https://www.nimb.com.np/digital-banking/forex",
+            "fetch_datetime_utc": "2025-07-10T16:49:26.763090Z"
+        },
+        {
+            "rates": [
+                {
+                    "currency": {
+                        "name": "US Dollar",
+                        "iso_code": "USD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 136.65,
+                        "buy_non_cash": 136.65,
+                        "sell": 137.25
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Australian Dollar",
+                        "iso_code": "AUD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 89.33,
+                        "buy_non_cash": 89.33,
+                        "sell": 90.23
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Euro",
+                        "iso_code": "EUR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 159.64,
+                        "buy_non_cash": 159.64,
+                        "sell": 161.23
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Pound Sterling",
+                        "iso_code": "GBP",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 185.15,
+                        "buy_non_cash": 185.15,
+                        "sell": 187
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Canadian Dollar",
+                        "iso_code": "CAD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 98.88,
+                        "buy_non_cash": 98.88,
+                        "sell": 99.87
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swiss Franc",
+                        "iso_code": "CHF",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 170.76,
+                        "buy_non_cash": 170.76,
+                        "sell": 172.47
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Japanese Yen",
+                        "iso_code": "JPY",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 0.9363,
+                        "buy_non_cash": 0.9363,
+                        "sell": 0.9456
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Singapore Dollar",
+                        "iso_code": "SGD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 106.42,
+                        "buy_non_cash": 106.42,
+                        "sell": 107.48
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Chinese Yuan",
+                        "iso_code": "CNY",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 18.91,
+                        "buy_non_cash": 18.91,
+                        "sell": 19.1
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "UAE Dirham",
+                        "iso_code": "AED",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.94,
+                        "buy_non_cash": 36.94,
+                        "sell": 37.31
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Malaysian Ringgit",
+                        "iso_code": "MYR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 31.91,
+                        "buy_non_cash": 31.91,
+                        "sell": 32.23
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Qatari Riyal",
+                        "iso_code": "QAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 37.3,
+                        "buy_non_cash": 37.3,
+                        "sell": 37.68
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Saudi Riyal",
+                        "iso_code": "SAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.16,
+                        "buy_non_cash": 36.16,
+                        "sell": 36.52
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Thai Baht",
+                        "iso_code": "THB",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 4.22,
+                        "buy_non_cash": 4.22,
+                        "sell": 4.26
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "South Korean Won",
+                        "iso_code": "KRW",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 0.0993,
+                        "buy_non_cash": 0.0993,
+                        "sell": 0.1003
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Danish Krone",
+                        "iso_code": "DKK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 21.63,
+                        "buy_non_cash": 21.63,
+                        "sell": 21.84
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Hong Kong Dollar",
+                        "iso_code": "HKD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 17.57,
+                        "buy_non_cash": 17.57,
+                        "sell": 17.75
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swedish Krona",
+                        "iso_code": "SEK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 14.57,
+                        "buy_non_cash": 14.57,
+                        "sell": 14.71
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Bahraini Dinar",
+                        "iso_code": "BHD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 359.79,
+                        "buy_non_cash": 359.79,
+                        "sell": 363.39
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Kuwaiti Dinar",
+                        "iso_code": "KWD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 444.26,
+                        "buy_non_cash": 444.26,
+                        "sell": 448.7
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Omani Rial",
+                        "iso_code": "OMR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 352.29,
+                        "buy_non_cash": 352.29,
+                        "sell": 355.81
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Indian Rupee",
+                        "iso_code": "INR",
+                        "unit": 100
+                    },
+                    "rates": {
+                        "buy_cash": 160,
+                        "buy_non_cash": 160,
+                        "sell": 160.15
+                    }
+                }
+            ],
+            "bank_name": "Himalayan Bank Limited",
+            "source_url": "https://www.himalayanbank.com/int/rate/listbyDate.php",
+            "fetch_datetime_utc": "2025-07-10T16:52:21.351994Z"
+        },
+        {
+            "rates": [
+                {
+                    "currency": {
+                        "name": "US Dollar",
+                        "iso_code": "USD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 135.97,
+                        "buy_non_cash": 136.65,
+                        "sell": 137.25
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Pound Sterling",
+                        "iso_code": "GBP",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 185.29,
+                        "buy_non_cash": 185.29,
+                        "sell": 187.13
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Australian Dollar",
+                        "iso_code": "AUD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 89.28,
+                        "buy_non_cash": 89.28,
+                        "sell": 90.15
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Canadian Dollar",
+                        "iso_code": "CAD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 100.0,
+                        "buy_non_cash": 100.0,
+                        "sell": 100.98
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swiss Franc",
+                        "iso_code": "CHF",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 170.19,
+                        "buy_non_cash": 171.05,
+                        "sell": 171.88
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Singapore Dollar",
+                        "iso_code": "SGD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 106.6,
+                        "buy_non_cash": 106.6,
+                        "sell": 107.64
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Japanese Yen",
+                        "iso_code": "JPY",
+                        "unit": 10
+                    },
+                    "rates": {
+                        "buy_cash": 9.36,
+                        "buy_non_cash": 9.36,
+                        "sell": 9.44
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swedish Kroner",
+                        "iso_code": "SEK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 14.23,
+                        "buy_non_cash": 14.31,
+                        "sell": 14.37
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Danish Krone",
+                        "iso_code": "DKK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 21.29,
+                        "buy_non_cash": 21.4,
+                        "sell": 21.49
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Hongkong Dollar",
+                        "iso_code": "HKD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 17.28,
+                        "buy_non_cash": 17.36,
+                        "sell": 17.44
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "UAE Dirham",
+                        "iso_code": "AED",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 37.08,
+                        "buy_non_cash": 37.13,
+                        "sell": 37.44
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Thai Bhat",
+                        "iso_code": "THB",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 4.14,
+                        "buy_non_cash": 4.16,
+                        "sell": 4.18
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Malaysian Ringgit",
+                        "iso_code": "MYR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 31.86,
+                        "buy_non_cash": 31.91,
+                        "sell": 32.17
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Saudi Rial",
+                        "iso_code": "SAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 35.83,
+                        "buy_non_cash": 35.88,
+                        "sell": 36.17
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Chinese Yuan",
+                        "iso_code": "CNY",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 19.01,
+                        "buy_non_cash": 19.11,
+                        "sell": 19.19
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Qatari Riyal",
+                        "iso_code": "QAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.83,
+                        "buy_non_cash": 36.88,
+                        "sell": 37.19
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Euro",
+                        "iso_code": "EUR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 159.6,
+                        "buy_non_cash": 159.6,
+                        "sell": 161.18
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "South Korean Won",
+                        "iso_code": "KRW",
+                        "unit": 100
+                    },
+                    "rates": {
+                        "buy_cash": 10.0,
+                        "buy_non_cash": 10.0,
+                        "sell": 10.09
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Kuwaiti Dinar",
+                        "iso_code": "KWD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 444.1,
+                        "buy_non_cash": 446.34,
+                        "sell": 448.5
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Bahrain Dinar",
+                        "iso_code": "BHD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 358.9,
+                        "buy_non_cash": 360.71,
+                        "sell": 362.46
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Indian Rupees",
+                        "iso_code": "INR",
+                        "unit": 100
+                    },
+                    "rates": {
+                        "buy_cash": 160.0,
+                        "buy_non_cash": 160.0,
+                        "sell": 160.15
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Omani Riyal",
+                        "iso_code": "OMR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 353.41,
+                        "buy_non_cash": 355.18,
+                        "sell": 356.91
+                    }
+                }
+            ],
+            "bank_name": "Global IME Bank Limited",
+            "source_url": "https://www.globalimebank.com/forex-rates/",
+            "fetch_datetime_utc": "2025-07-10T16:49:05.958072Z"
+        },
+        {
+            "rates": [
+                {
+                    "currency": {
+                        "name": "US Dollar",
+                        "iso_code": "USD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 136.02,
+                        "buy_non_cash": 136.7,
+                        "sell": 137.3
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Euro",
+                        "iso_code": "EUR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 159.87,
+                        "buy_non_cash": 160.05,
+                        "sell": 161.63
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Pound Sterling",
+                        "iso_code": "GBP",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 185.38,
+                        "buy_non_cash": 185.58,
+                        "sell": 187.44
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swiss Franc",
+                        "iso_code": "CHF",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 171.37,
+                        "buy_non_cash": 171.37,
+                        "sell": 172.88
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Australian Dollar",
+                        "iso_code": "AUD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 89.39,
+                        "buy_non_cash": 89.39,
+                        "sell": 90.27
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Canadian Dollar",
+                        "iso_code": "CAD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 99.86,
+                        "buy_non_cash": 99.86,
+                        "sell": 100.86
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Singapore Dollar",
+                        "iso_code": "SGD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 106.25,
+                        "buy_non_cash": 106.46,
+                        "sell": 107.51
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Japanese Yen",
+                        "iso_code": "JPY",
+                        "unit": 10
+                    },
+                    "rates": {
+                        "buy_cash": 9.32,
+                        "buy_non_cash": 9.32,
+                        "sell": 9.41
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Chinese Yuan",
+                        "iso_code": "CNY",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 19.0,
+                        "buy_non_cash": 19.0,
+                        "sell": 19.18
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Hongkong Dollar",
+                        "iso_code": "HKD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 17.34,
+                        "buy_non_cash": 17.37,
+                        "sell": 17.53
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Danish Kroner",
+                        "iso_code": "DKK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 21.34,
+                        "buy_non_cash": 21.38,
+                        "sell": 21.57
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Malaysian Ringgit",
+                        "iso_code": "MYR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 31.8,
+                        "buy_non_cash": 31.86,
+                        "sell": 32.12
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Qatari Riyal",
+                        "iso_code": "QAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 37.3,
+                        "buy_non_cash": 37.34,
+                        "sell": 37.59
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Saudi Rial",
+                        "iso_code": "SAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.05,
+                        "buy_non_cash": 36.12,
+                        "sell": 36.44
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swedish Kroner",
+                        "iso_code": "SEK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 14.3,
+                        "buy_non_cash": 14.31,
+                        "sell": 14.43
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Thai Bhat",
+                        "iso_code": "THB",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 4.18,
+                        "buy_non_cash": 4.18,
+                        "sell": 4.21
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "UAE Dirham",
+                        "iso_code": "AED",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 37.15,
+                        "buy_non_cash": 37.22,
+                        "sell": 37.48
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Kuwaiti Dinar",
+                        "iso_code": "KWD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 443.31,
+                        "buy_non_cash": 445.54,
+                        "sell": 449.25
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Bahrain Dinar",
+                        "iso_code": "BHD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 360.85,
+                        "buy_non_cash": 361.21,
+                        "sell": 364.19
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Korean Won",
+                        "iso_code": "KRW",
+                        "unit": 100
+                    },
+                    "rates": {
+                        "buy_cash": 9.9,
+                        "buy_non_cash": 9.91,
+                        "sell": 10.0
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Omani Riyal",
+                        "iso_code": "OMR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 353.36,
+                        "buy_non_cash": 353.71,
+                        "sell": 357.17
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Indian Rupees",
+                        "iso_code": "INR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 1.6,
+                        "buy_non_cash": 1.6,
+                        "sell": 1.6015
+                    }
+                }
+            ],
+            "bank_name": "NMB Bank Limited",
+            "source_url": "https://www.nmb.com.np/forex",
+            "fetch_datetime_utc": "2025-07-10T16:50:08.962337Z"
+        },
+        {
+            "rates": [
+                {
+                    "currency": {
+                        "name": "US Dollar",
+                        "iso_code": "USD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 136.7,
+                        "buy_non_cash": 136.7,
+                        "sell": 137.3
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Euro",
+                        "iso_code": "EUR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 159.94,
+                        "buy_non_cash": 159.94,
+                        "sell": 161.53
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Pound Sterling",
+                        "iso_code": "GBP",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 185.4,
+                        "buy_non_cash": 185.4,
+                        "sell": 187.25
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Australian Dollar",
+                        "iso_code": "AUD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 89.16,
+                        "buy_non_cash": 89.16,
+                        "sell": 90.05
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swiss Franc",
+                        "iso_code": "CHF",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 171.57,
+                        "buy_non_cash": 171.57,
+                        "sell": 173.28
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Canadian Dollar",
+                        "iso_code": "CAD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 99.61,
+                        "buy_non_cash": 99.61,
+                        "sell": 100.6
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Singapore Dollar",
+                        "iso_code": "SGD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 106.26,
+                        "buy_non_cash": 106.26,
+                        "sell": 107.32
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Japanese Yen",
+                        "iso_code": "JPY",
+                        "unit": 10
+                    },
+                    "rates": {
+                        "buy_cash": 9.32,
+                        "buy_non_cash": 9.32,
+                        "sell": 9.41
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Hongkong Dollar",
+                        "iso_code": "HKD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 17.33,
+                        "buy_non_cash": 17.33,
+                        "sell": 17.5
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Danish Kroner",
+                        "iso_code": "DKK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 21.39,
+                        "buy_non_cash": 21.39,
+                        "sell": 21.6
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Qatari Riyal",
+                        "iso_code": "QAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 37.23,
+                        "buy_non_cash": 37.23,
+                        "sell": 37.6
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Saudi Riyal",
+                        "iso_code": "SAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.27,
+                        "buy_non_cash": 36.27,
+                        "sell": 36.63
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swedish Kroner",
+                        "iso_code": "SEK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 14.31,
+                        "buy_non_cash": 14.31,
+                        "sell": 14.45
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Thai Bhat",
+                        "iso_code": "THB",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 4.17,
+                        "buy_non_cash": 4.17,
+                        "sell": 4.21
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Malaysian Ringgit",
+                        "iso_code": "MYR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 31.96,
+                        "buy_non_cash": 31.96,
+                        "sell": 32.27
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "UAE Dirham",
+                        "iso_code": "AED",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 37.04,
+                        "buy_non_cash": 37.04,
+                        "sell": 37.41
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "South Korean Won",
+                        "iso_code": "KRW",
+                        "unit": 100
+                    },
+                    "rates": {
+                        "buy_cash": 9.91,
+                        "buy_non_cash": 9.91,
+                        "sell": 10.0
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Chinese Yuan",
+                        "iso_code": "CNY",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 18.95,
+                        "buy_non_cash": 18.95,
+                        "sell": 19.13
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Kuwaiti Dinar",
+                        "iso_code": "KWD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 445.42,
+                        "buy_non_cash": 445.42,
+                        "sell": 449.87
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Bahrain Dinar",
+                        "iso_code": "BHD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 360.85,
+                        "buy_non_cash": 360.85,
+                        "sell": 364.45
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Omani Riyal",
+                        "iso_code": "OMR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 353.34,
+                        "buy_non_cash": 353.34,
+                        "sell": 356.87
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Indian Rupees",
+                        "iso_code": "INR",
+                        "unit": 100
+                    },
+                    "rates": {
+                        "buy_cash": 160.0,
+                        "buy_non_cash": 160.0,
+                        "sell": 160.15
+                    }
+                }
+            ],
+            "bank_name": "Machhapuchchhre Bank Limited",
+            "source_url": "https://www.machbank.com/forex",
+            "fetch_datetime_utc": "2025-07-10T16:50:31.798732Z"
+        },
+        {
+            "rates": [
+                {
+                    "currency": {
+                        "name": "Indian Rupee",
+                        "iso_code": "INR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 1.6,
+                        "buy_non_cash": 1.6,
+                        "sell": 1.6015
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "U.S. Dollar",
+                        "iso_code": "USD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 136.65,
+                        "buy_non_cash": 136.65,
+                        "sell": 137.25
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "European Euro",
+                        "iso_code": "EUR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 159.93,
+                        "buy_non_cash": 159.93,
+                        "sell": 161.53
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "UK Pound Sterling",
+                        "iso_code": "GBP",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 185.38,
+                        "buy_non_cash": 185.38,
+                        "sell": 187.23
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swiss Franc",
+                        "iso_code": "CHF",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 171.14,
+                        "buy_non_cash": 171.14,
+                        "sell": 172.85
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Australian Dollar",
+                        "iso_code": "AUD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 89.2,
+                        "buy_non_cash": 89.2,
+                        "sell": 90.09
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Canadian Dollar",
+                        "iso_code": "CAD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 99.35,
+                        "buy_non_cash": 99.35,
+                        "sell": 100.34
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Singapore Dollar",
+                        "iso_code": "SGD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 106.2,
+                        "buy_non_cash": 106.2,
+                        "sell": 107.26
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Japanese Yen",
+                        "iso_code": "JPY",
+                        "unit": 10
+                    },
+                    "rates": {
+                        "buy_cash": 9.32,
+                        "buy_non_cash": 9.32,
+                        "sell": 9.41
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Chinese Yuan",
+                        "iso_code": "CNY",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 18.89,
+                        "buy_non_cash": 18.89,
+                        "sell": 19.08
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Saudi Riyal",
+                        "iso_code": "SAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.22,
+                        "buy_non_cash": 36.22,
+                        "sell": 36.58
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Qatari Riyal",
+                        "iso_code": "QAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.85,
+                        "buy_non_cash": 36.85,
+                        "sell": 37.22
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Thai Baht",
+                        "iso_code": "THB",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 4.15,
+                        "buy_non_cash": 4.15,
+                        "sell": 4.19
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "UAE Dirham",
+                        "iso_code": "AED",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.83,
+                        "buy_non_cash": 36.83,
+                        "sell": 37.2
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Malaysian Ringgit",
+                        "iso_code": "MYR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 31.87,
+                        "buy_non_cash": 31.87,
+                        "sell": 32.19
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "South Korean Won",
+                        "iso_code": "KRW",
+                        "unit": 100
+                    },
+                    "rates": {
+                        "buy_cash": 9.95,
+                        "buy_non_cash": 9.95,
+                        "sell": 10.05
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swedish Kroner",
+                        "iso_code": "SEK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 14.27,
+                        "buy_non_cash": 14.27,
+                        "sell": 14.41
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Danish Kroner",
+                        "iso_code": "DKK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 21.38,
+                        "buy_non_cash": 21.38,
+                        "sell": 21.59
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Hong Kong Dollar",
+                        "iso_code": "HKD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 17.32,
+                        "buy_non_cash": 17.32,
+                        "sell": 17.49
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Kuwaity Dinar",
+                        "iso_code": "KWD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 442.93,
+                        "buy_non_cash": 442.93,
+                        "sell": 447.36
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Bahrain Dinar",
+                        "iso_code": "BHD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 358.88,
+                        "buy_non_cash": 358.88,
+                        "sell": 362.47
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Omani Riyal",
+                        "iso_code": "OMR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 351.41,
+                        "buy_non_cash": 351.41,
+                        "sell": 354.92
+                    }
+                }
+            ],
+            "bank_name": "Kumari Bank Limited",
+            "source_url": "https://www.kumaribank.com/forex",
+            "fetch_datetime_utc": "2025-07-10T16:49:16.038218Z"
+        },
+        {
+            "rates": [
+                {
+                    "currency": {
+                        "name": "US Dollar",
+                        "iso_code": "USD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 136.02,
+                        "buy_non_cash": 136.7,
+                        "sell": 137.3
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Euro",
+                        "iso_code": "EUR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 160.11,
+                        "buy_non_cash": 160.11,
+                        "sell": 161.71
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Pound Sterling",
+                        "iso_code": "GBP",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 185.62,
+                        "buy_non_cash": 185.62,
+                        "sell": 187.48
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swiss Franc",
+                        "iso_code": "CHF",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 171.8,
+                        "buy_non_cash": 171.8,
+                        "sell": 173.52
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Japanese Yen",
+                        "iso_code": "JPY",
+                        "unit": 10
+                    },
+                    "rates": {
+                        "buy_cash": 9.33,
+                        "buy_non_cash": 9.33,
+                        "sell": 9.42
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Australian Dollar",
+                        "iso_code": "AUD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 89.27,
+                        "buy_non_cash": 89.27,
+                        "sell": 90.16
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Singapore Dollar",
+                        "iso_code": "SGD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 106.61,
+                        "buy_non_cash": 106.61,
+                        "sell": 107.68
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Hong Kong Dollar",
+                        "iso_code": "HKD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 17.38,
+                        "buy_non_cash": 17.38,
+                        "sell": 17.55
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Canadian Dollar",
+                        "iso_code": "CAD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 99.71,
+                        "buy_non_cash": 99.71,
+                        "sell": 100.71
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Indian Rupee",
+                        "iso_code": "INR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 1.6,
+                        "buy_non_cash": 1.6,
+                        "sell": 1.6015
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Danish Krone",
+                        "iso_code": "DKK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 21.45,
+                        "buy_non_cash": 21.45,
+                        "sell": 21.66
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Chinese Yuan",
+                        "iso_code": "CNY",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 19.05,
+                        "buy_non_cash": 19.05,
+                        "sell": 19.24
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Qatari Riyal",
+                        "iso_code": "QAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 37.21,
+                        "buy_non_cash": 37.21,
+                        "sell": 37.58
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Saudi Riyal",
+                        "iso_code": "SAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.16,
+                        "buy_non_cash": 36.16,
+                        "sell": 36.52
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swedish Krona",
+                        "iso_code": "SEK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 14.29,
+                        "buy_non_cash": 14.29,
+                        "sell": 14.43
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Malaysian Ringgit",
+                        "iso_code": "MYR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 31.89,
+                        "buy_non_cash": 31.89,
+                        "sell": 32.21
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Thai Baht",
+                        "iso_code": "THB",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 4.16,
+                        "buy_non_cash": 4.16,
+                        "sell": 4.2
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "UAE Dirham",
+                        "iso_code": "AED",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 37.04,
+                        "buy_non_cash": 37.04,
+                        "sell": 37.41
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "South Korean Won",
+                        "iso_code": "KRW",
+                        "unit": 100
+                    },
+                    "rates": {
+                        "buy_cash": 9.88,
+                        "buy_non_cash": 9.88,
+                        "sell": 9.98
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Kuwaiti Dinar",
+                        "iso_code": "KWD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 444.18,
+                        "buy_non_cash": 444.18,
+                        "sell": 448.62
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Bahraini Dinar",
+                        "iso_code": "BHD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 359.77,
+                        "buy_non_cash": 359.77,
+                        "sell": 363.37
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Omani Rial",
+                        "iso_code": "OMR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 352.28,
+                        "buy_non_cash": 352.28,
+                        "sell": 355.803
+                    }
+                }
+            ],
+            "bank_name": "Laxmi Sunrise Bank Limited",
+            "source_url": "https://www.laxmisunrise.com/rates/forex/",
+            "fetch_datetime_utc": "2025-07-10T16:52:02.665434Z"
+        },
+        null,
+        null,
+        null,
+        {
+            "rates": [
+                {
+                    "currency": {
+                        "name": "US Dollar",
+                        "iso_code": "USD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 136.02,
+                        "buy_non_cash": 136.7,
+                        "sell": 137.3
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Euro",
+                        "iso_code": "EUR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 160.08,
+                        "buy_non_cash": 160.08,
+                        "sell": 161.68
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Pound Sterling",
+                        "iso_code": "GBP",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 185.36,
+                        "buy_non_cash": 185.36,
+                        "sell": 187.21
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Australian Dollar",
+                        "iso_code": "AUD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 89.35,
+                        "buy_non_cash": 89.35,
+                        "sell": 90.25
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swiss Franc",
+                        "iso_code": "CHF",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 171.43,
+                        "buy_non_cash": 171.43,
+                        "sell": 173.14
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Canadian Dollar",
+                        "iso_code": "CAD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 99.72,
+                        "buy_non_cash": 99.72,
+                        "sell": 100.72
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Singapore Dollar",
+                        "iso_code": "SGD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 106.42,
+                        "buy_non_cash": 106.42,
+                        "sell": 107.48
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Japanese Yen",
+                        "iso_code": "JPY",
+                        "unit": 10
+                    },
+                    "rates": {
+                        "buy_cash": 9.33,
+                        "buy_non_cash": 9.33,
+                        "sell": 9.42
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Chinese Yuan",
+                        "iso_code": "CNY",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 18.98,
+                        "buy_non_cash": 18.98,
+                        "sell": 19.17
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Qatari Riyal",
+                        "iso_code": "QAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 37.32,
+                        "buy_non_cash": 37.32,
+                        "sell": 37.7
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Saudi Riyal",
+                        "iso_code": "SAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.18,
+                        "buy_non_cash": 36.18,
+                        "sell": 36.54
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Thai Baht",
+                        "iso_code": "THB",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 4.18,
+                        "buy_non_cash": 4.18,
+                        "sell": 4.22
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Malaysian Ringgit",
+                        "iso_code": "MYR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 31.93,
+                        "buy_non_cash": 31.93,
+                        "sell": 32.25
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "UAE Dirham",
+                        "iso_code": "AED",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 37.09,
+                        "buy_non_cash": 37.09,
+                        "sell": 37.46
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Hong Kong Dollar",
+                        "iso_code": "HKD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 17.38,
+                        "buy_non_cash": 17.38,
+                        "sell": 17.55
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Danish Krone",
+                        "iso_code": "DKK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 21.44,
+                        "buy_non_cash": 21.44,
+                        "sell": 21.66
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swedish Krona",
+                        "iso_code": "SEK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 14.36,
+                        "buy_non_cash": 14.36,
+                        "sell": 14.51
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "South Korean Won",
+                        "iso_code": "KRW",
+                        "unit": 100
+                    },
+                    "rates": {
+                        "buy_cash": 9.92,
+                        "buy_non_cash": 9.92,
+                        "sell": 10.02
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Indian Rupees",
+                        "iso_code": "INR",
+                        "unit": 100
+                    },
+                    "rates": {
+                        "buy_cash": 160.0,
+                        "buy_non_cash": 160.0,
+                        "sell": 160.15
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Bahrain Dinar",
+                        "iso_code": "BHD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 360.69,
+                        "buy_non_cash": 360.69,
+                        "sell": 364.3
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Kuwaiti Dinar",
+                        "iso_code": "KWD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 445.66,
+                        "buy_non_cash": 445.66,
+                        "sell": 450.12
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Omani Rial",
+                        "iso_code": "OMR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 353.11,
+                        "buy_non_cash": 353.11,
+                        "sell": 356.64
+                    }
+                }
+            ],
+            "bank_name": "Prabhu Bank Limited",
+            "source_url": "https://www.prabhubank.com/forex",
+            "fetch_datetime_utc": "2025-07-10T16:51:32.589539Z"
+        },
+        {
+            "rates": [
+                {
+                    "currency": {
+                        "name": "Indian Rupees",
+                        "iso_code": "INR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 1.6,
+                        "buy_non_cash": 1.6,
+                        "sell": 1.6015
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Us Dollar",
+                        "iso_code": "USD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 136.02,
+                        "buy_non_cash": 136.7,
+                        "sell": 137.3
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Euro",
+                        "iso_code": "EUR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 159.79,
+                        "buy_non_cash": 159.79,
+                        "sell": 161.38
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Pound Sterling",
+                        "iso_code": "GBP",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 185.47,
+                        "buy_non_cash": 185.47,
+                        "sell": 187.32
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swiss Frank",
+                        "iso_code": "CHF",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 170.49,
+                        "buy_non_cash": 170.49,
+                        "sell": 172.19
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Australian Dollar",
+                        "iso_code": "AUD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 89.62,
+                        "buy_non_cash": 89.62,
+                        "sell": 90.51
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Australian Dollar Cash",
+                        "iso_code": "AUD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": null,
+                        "buy_non_cash": null,
+                        "sell": 90.51
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Canadian Dollar",
+                        "iso_code": "CAD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 99.93,
+                        "buy_non_cash": 99.93,
+                        "sell": 100.92
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Singapore Dollar",
+                        "iso_code": "SGD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 106.71,
+                        "buy_non_cash": 106.71,
+                        "sell": 107.77
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Japanese Yen",
+                        "iso_code": "JPY",
+                        "unit": 10
+                    },
+                    "rates": {
+                        "buy_cash": 9.355,
+                        "buy_non_cash": 9.355,
+                        "sell": 9.448
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Chinese Yuan",
+                        "iso_code": "CNY",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 19.0,
+                        "buy_non_cash": 19.0,
+                        "sell": 19.19
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Saudi Rial",
+                        "iso_code": "SAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 35.92,
+                        "buy_non_cash": 35.92,
+                        "sell": 36.27
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Qatari Riyal",
+                        "iso_code": "QAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.92,
+                        "buy_non_cash": 36.92,
+                        "sell": 37.28
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Thai Bhat",
+                        "iso_code": "THB",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 4.2,
+                        "buy_non_cash": 4.2,
+                        "sell": 4.24
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "UAE Dirham",
+                        "iso_code": "AED",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.92,
+                        "buy_non_cash": 36.92,
+                        "sell": 37.28
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Malaysian Ringgit",
+                        "iso_code": "MYR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 31.94,
+                        "buy_non_cash": 31.94,
+                        "sell": 32.25
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "S. Korean Won",
+                        "iso_code": "KRW",
+                        "unit": 100
+                    },
+                    "rates": {
+                        "buy_cash": 9.97,
+                        "buy_non_cash": 9.97,
+                        "sell": 10.06
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swedish Kroner",
+                        "iso_code": "SEK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 14.4,
+                        "buy_non_cash": 14.4,
+                        "sell": 14.54
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Danish Kroner",
+                        "iso_code": "DKK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 21.39,
+                        "buy_non_cash": 21.39,
+                        "sell": 21.6
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Hongkong Dollar",
+                        "iso_code": "HKD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 17.37,
+                        "buy_non_cash": 17.37,
+                        "sell": 17.54
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Kuwaiti Dinar",
+                        "iso_code": "KWD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 444.7,
+                        "buy_non_cash": 444.7,
+                        "sell": 449.1
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Bahrain Dinar",
+                        "iso_code": "BHD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 360.78,
+                        "buy_non_cash": 360.78,
+                        "sell": 364.39
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Omani Rial",
+                        "iso_code": "OMR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 353.05,
+                        "buy_non_cash": 353.05,
+                        "sell": 356.58
+                    }
+                }
+            ],
+            "bank_name": "Siddhartha Bank Limited",
+            "source_url": "https://www.siddharthabank.com/forex",
+            "fetch_datetime_utc": "2025-07-10T16:51:20.628250Z"
+        },
+        null,
+        null,
+        {
+            "rates": [],
+            "bank_name": "Garima Bikas Bank Limited",
+            "source_url": "https://garimabank.com.np/forex?date=yyyy-mm-dd&currency=",
+            "fetch_datetime_utc": "2025-07-10T16:52:04.966336Z"
+        },
+        null,
+        {
+            "rates": [
+                {
+                    "currency": {
+                        "name": "Us Dollar",
+                        "iso_code": "USD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 136.25,
+                        "buy_non_cash": 136.75,
+                        "sell": 137.25
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Euro",
+                        "iso_code": "EUR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 159.61,
+                        "buy_non_cash": 159.61,
+                        "sell": 161.19
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Pound Sterling",
+                        "iso_code": "GBP",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 187.07,
+                        "buy_non_cash": 187.07,
+                        "sell": 188.9
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Australian Dollar",
+                        "iso_code": "AUD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 90.22,
+                        "buy_non_cash": 90.22,
+                        "sell": 91.1
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swiss Frank",
+                        "iso_code": "CHF",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 171.57,
+                        "buy_non_cash": 171.57,
+                        "sell": 173.25
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Canadian Dollar",
+                        "iso_code": "CAD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 99.56,
+                        "buy_non_cash": 99.56,
+                        "sell": 100.54
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Singapore Dollar",
+                        "iso_code": "SGD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 106.51,
+                        "buy_non_cash": 106.51,
+                        "sell": 107.56
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Japanese Yen",
+                        "iso_code": "JPY",
+                        "unit": 10
+                    },
+                    "rates": {
+                        "buy_cash": 9.33,
+                        "buy_non_cash": 9.33,
+                        "sell": 9.43
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Chinese Yuan",
+                        "iso_code": "CNY",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 19.01,
+                        "buy_non_cash": 19.01,
+                        "sell": 19.2
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Qatari Riyal",
+                        "iso_code": "QAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 37.35,
+                        "buy_non_cash": 37.35,
+                        "sell": 37.72
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Saudi Rial",
+                        "iso_code": "SAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.2,
+                        "buy_non_cash": 36.2,
+                        "sell": 36.55
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Thai Bhat",
+                        "iso_code": "THB",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 4.11,
+                        "buy_non_cash": 4.11,
+                        "sell": 4.15
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Malaysian Ringgit",
+                        "iso_code": "MYR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 31.91,
+                        "buy_non_cash": 31.91,
+                        "sell": 32.22
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "UAE Dirham",
+                        "iso_code": "AED",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.98,
+                        "buy_non_cash": 36.98,
+                        "sell": 37.34
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Hongkong Dollar",
+                        "iso_code": "HKD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 17.28,
+                        "buy_non_cash": 17.28,
+                        "sell": 17.45
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Danish Kroner",
+                        "iso_code": "DKK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 21.33,
+                        "buy_non_cash": 21.33,
+                        "sell": 21.54
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swedish Kroner",
+                        "iso_code": "SEK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 14.24,
+                        "buy_non_cash": 14.24,
+                        "sell": 14.38
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "S. Korean Won",
+                        "iso_code": "KRW",
+                        "unit": 100
+                    },
+                    "rates": {
+                        "buy_cash": 9.91,
+                        "buy_non_cash": 9.91,
+                        "sell": 10.0
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Indian Rupees",
+                        "iso_code": "INR",
+                        "unit": 100
+                    },
+                    "rates": {
+                        "buy_cash": 160.0,
+                        "buy_non_cash": 160.0,
+                        "sell": 160.15
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Bahrain Dinar",
+                        "iso_code": "BHD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 361.05,
+                        "buy_non_cash": 361.05,
+                        "sell": 364.59
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Kuwaiti Dinar",
+                        "iso_code": "KWD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 446.27,
+                        "buy_non_cash": 446.27,
+                        "sell": 450.64
+                    }
+                }
+            ],
+            "bank_name": "Mahalaxmi Bikas Bank Limited",
+            "source_url": "https://www.mahalaxmibank.com/forex",
+            "fetch_datetime_utc": "2025-07-10T16:48:36.081177Z"
+        },
+        {
+            "rates": [
+                {
+                    "currency": {
+                        "name": "US Dollar",
+                        "iso_code": "USD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 136.7,
+                        "buy_non_cash": 136.7,
+                        "sell": 137.3
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Euro",
+                        "iso_code": "EUR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 159.94,
+                        "buy_non_cash": 159.94,
+                        "sell": 161.53
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Indian Rupee",
+                        "iso_code": "INR",
+                        "unit": 100
+                    },
+                    "rates": {
+                        "buy_cash": 160.0,
+                        "buy_non_cash": 160.0,
+                        "sell": 160.15
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Pound Sterling",
+                        "iso_code": "GBP",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 185.4,
+                        "buy_non_cash": 185.4,
+                        "sell": 187.25
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swiss Franc",
+                        "iso_code": "CHF",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 171.57,
+                        "buy_non_cash": 171.57,
+                        "sell": 173.28
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Canadian Dollar",
+                        "iso_code": "CAD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 99.61,
+                        "buy_non_cash": 99.61,
+                        "sell": 100.6
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Singapore Dollar",
+                        "iso_code": "SGD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 106.26,
+                        "buy_non_cash": 106.26,
+                        "sell": 107.32
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Japanese Yen",
+                        "iso_code": "JPY",
+                        "unit": 10
+                    },
+                    "rates": {
+                        "buy_cash": 9.32,
+                        "buy_non_cash": 9.32,
+                        "sell": 9.41
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Hong Kong Dollar",
+                        "iso_code": "HKD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 17.33,
+                        "buy_non_cash": 17.33,
+                        "sell": 17.5
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "UAE Dirham",
+                        "iso_code": "AED",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 37.04,
+                        "buy_non_cash": 37.04,
+                        "sell": 37.41
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Malaysian Ringgit",
+                        "iso_code": "MYR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 31.96,
+                        "buy_non_cash": 31.96,
+                        "sell": 32.27
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Saudi Riyal",
+                        "iso_code": "SAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.27,
+                        "buy_non_cash": 36.27,
+                        "sell": 36.63
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Qatari Riyal",
+                        "iso_code": "QAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 37.23,
+                        "buy_non_cash": 37.23,
+                        "sell": 37.6
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Australian Dollar",
+                        "iso_code": "AUD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 89.16,
+                        "buy_non_cash": 89.16,
+                        "sell": 90.05
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swedish Krona",
+                        "iso_code": "SEK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": null,
+                        "buy_non_cash": null,
+                        "sell": null
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Danish Krone",
+                        "iso_code": "DKK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": null,
+                        "buy_non_cash": null,
+                        "sell": null
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Thai Baht",
+                        "iso_code": "THB",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": null,
+                        "buy_non_cash": null,
+                        "sell": null
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Chinese Yuan",
+                        "iso_code": "CNY",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": null,
+                        "buy_non_cash": null,
+                        "sell": null
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "South Korean Won",
+                        "iso_code": "KRW",
+                        "unit": 100
+                    },
+                    "rates": {
+                        "buy_cash": null,
+                        "buy_non_cash": null,
+                        "sell": null
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Kuwaiti Dinar",
+                        "iso_code": "KWD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": null,
+                        "buy_non_cash": null,
+                        "sell": null
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Bahraini Dinar",
+                        "iso_code": "BHD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": null,
+                        "buy_non_cash": null,
+                        "sell": null
+                    }
+                }
+            ],
+            "bank_name": "Lumbini Bikas Bank Limited",
+            "source_url": "https://www.lumbinibikasbank.com/forex",
+            "fetch_datetime_utc": "2025-07-10T16:51:49.710133Z"
+        },
+        {
+            "rates": [
+                {
+                    "currency": {
+                        "name": "Indian Rupee",
+                        "iso_code": "INR",
+                        "unit": 100
+                    },
+                    "rates": {
+                        "buy_cash": 160.0,
+                        "buy_non_cash": 160.0,
+                        "sell": 160.15
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "U.S. Dollar",
+                        "iso_code": "USD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 136.78,
+                        "buy_non_cash": 136.78,
+                        "sell": 137.38
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "European Euro",
+                        "iso_code": "EUR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 160.08,
+                        "buy_non_cash": 160.08,
+                        "sell": 160.78
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "UK Pound Sterling",
+                        "iso_code": "GBP",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 185.84,
+                        "buy_non_cash": 185.84,
+                        "sell": 186.66
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swiss Franc",
+                        "iso_code": "CHF",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 171.68,
+                        "buy_non_cash": 171.68,
+                        "sell": 172.44
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Australian Dollar",
+                        "iso_code": "AUD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 89.22,
+                        "buy_non_cash": 89.22,
+                        "sell": 89.61
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Canadian Dollar",
+                        "iso_code": "CAD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 99.86,
+                        "buy_non_cash": 99.86,
+                        "sell": 100.3
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Singapore Dollar",
+                        "iso_code": "SGD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 106.76,
+                        "buy_non_cash": 106.76,
+                        "sell": 107.23
+                    }
+                }
+            ],
+            "bank_name": "Sangrila Development Bank Limited",
+            "source_url": "https://shangrilabank.com/forex",
+            "fetch_datetime_utc": "2025-07-10T16:48:44.223997Z"
+        }
+    ]
+}

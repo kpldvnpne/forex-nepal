@@ -33,14 +33,14 @@
         .controls {
             display: flex;
             align-items: center;
-            justify-content: space-between;
+            justify-content: flex-end; /* Adjusted for single item alignment */
             margin-bottom: 2rem;
             padding: 1rem;
             background-color: #ecf0f1;
             border-radius: 6px;
         }
 
-        .file-uploader, .currency-selector {
+        .currency-selector {
             display: flex;
             align-items: center;
             gap: 0.5rem;
@@ -50,7 +50,7 @@
             font-weight: 600;
         }
 
-        select, input[type="file"] {
+        select {
             padding: 0.5rem;
             border: 1px solid #bdc3c7;
             border-radius: 4px;
@@ -132,10 +132,6 @@
         <h1>Forex Rate Comparison</h1>
 
         <div class="controls">
-            <div class="file-uploader">
-                <label for="jsonFileInput">Upload JSON File:</label>
-                <input type="file" id="jsonFileInput" accept=".json">
-            </div>
             <div class="currency-selector" id="currency-controls" style="display: none;">
                 <label for="currencySelector">Select Currency:</label>
                 <select id="currencySelector"></select>
@@ -143,13 +139,12 @@
         </div>
 
         <div id="table-container">
-            <p id="initial-message">Please upload your `all_banks.json` file to begin.</p>
+            <p id="initial-message">Loading rate data...</p>
         </div>
     </div>
 
     <script>
         document.addEventListener('DOMContentLoaded', () => {
-            const fileInput = document.getElementById('jsonFileInput');
             const currencyControls = document.getElementById('currency-controls');
             const currencySelector = document.getElementById('currencySelector');
             const tableContainer = document.getElementById('table-container');
@@ -158,33 +153,31 @@
             let allBanksData = [];
             let currentSort = { column: 'bankName', order: 'asc' };
 
-            // --- 1. Event Listener for File Upload ---
-            fileInput.addEventListener('change', handleFileSelect);
-
-            function handleFileSelect(event) {
-                const file = event.target.files[0];
-                if (!file) {
-                    return;
-                }
-
-                const reader = new FileReader();
-                reader.onload = (e) => {
-                    try {
-                        const data = JSON.parse(e.target.result);
-                        if (data && data.all_banks) {
-                            allBanksData = data.all_banks.filter(it => it != null);
-                            initialMessage.style.display = 'none';
-                            initializeUI();
-                        } else {
-                            alert('Invalid JSON format. Expected an object with an "all_banks" key.');
-                        }
-                    } catch (error) {
-                        alert('Error parsing JSON file: ' + error.message);
-                        throw error;
+            // --- 1. Fetch data from the server on page load ---
+            async function loadData() {
+                try {
+                    const response = await fetch('/data/current_rate.json');
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! Status: ${response.status}`);
                     }
-                };
-                reader.readAsText(file);
+                    const data = await response.json();
+
+                    if (data && data.all_banks) {
+                        allBanksData = data.all_banks.filter(it => it != null);
+                        initialMessage.style.display = 'none';
+                        initializeUI();
+                    } else {
+                        throw new Error('Invalid JSON format. Expected an object with an "all_banks" key.');
+                    }
+                } catch (error) {
+                    console.error('Failed to load or parse forex data:', error);
+                    initialMessage.textContent = `Failed to load data. Please try refreshing the page. Error: ${error.message}`;
+                    initialMessage.style.color = '#c0392b'; // Make error more visible
+                }
             }
+
+            // --- Start the data loading process ---
+            loadData();
 
             // --- 2. Initialize UI after data is loaded ---
             function initializeUI() {

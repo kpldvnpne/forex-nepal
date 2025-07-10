@@ -245,7 +245,10 @@ async def open_bank_pages(json_file_path, concurrent=False):
         }
 
         utc_time = get_utc_now_iso_string()
-        with open(f'current_rate_{utc_time}.json', 'w', encoding='utf-8') as f:
+        with open(f'rate_{utc_time}.json', 'w', encoding='utf-8') as f:
+            json.dump(final_data, f, indent=4)
+
+        with open(f'current_rate.json', 'w', encoding='utf-8') as f:
             json.dump(final_data, f, indent=4)
 
         print("Press Enter to close the browser...")
