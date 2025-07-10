@@ -65,6 +65,48 @@ def create_prompt_from_template(
     final_prompt = template_string.replace(placeholder, data_to_insert)
     return final_prompt
 
+import os
+from typing import Optional, Dict, Any
+
+import google.generativeai as genai
+from dotenv import load_dotenv
+
+def send_prompt_to_gemini(prompt: str) -> Optional[Dict[str, Any]]:
+    # Load environment variables from the .env file
+    load_dotenv()
+
+    # 1. Get the API key from environment variables
+    api_key = os.getenv("GEMINI_API_KEY")
+    if not api_key:
+        print("Error: GEMINI_API_KEY not found in .env file or environment variables.")
+        return None
+
+    try:
+        # 2. Configure the generative AI client
+        genai.configure(api_key=api_key)
+
+        # 3. Set up the model configuration
+        # Crucially, we instruct the model to return its response as JSON.
+        generation_config = {
+            "response_mime_type": "application/json",
+        }
+
+        model = genai.GenerativeModel(
+            model_name="gemini-2.5-flash",
+            generation_config=generation_config
+        )
+
+        # 4. Send the prompt and get the response
+        print("Sending prompt to Gemini...")
+        response = model.generate_content(prompt)
+
+        # 5. The response.text will be a JSON string, so we parse it
+        return json.loads(response.text)
+
+    except Exception as e:
+        print(f"An error occurred while communicating with the Gemini API: {e}")
+        return None
+
 async def open_bank_pages(json_file_path):
     """
     Opens all bank forex pages from nepal_banks.json in separate tabs
@@ -165,10 +207,15 @@ async def open_bank_pages(json_file_path):
                 prompt = create_prompt_from_template(bank_data)
                 print(prompt)
 
+                output = send_prompt_to_gemini(prompt)
+                print(json.dumps(output, indent=2))
+
                 print(f"Successfully opened {bank['name']}")
 
             except Exception as e:
                 print(f"Error opening {bank['name']}: {str(e)}")
+
+            input()
 
         # Create tasks for all banks
         for bank in banks:
