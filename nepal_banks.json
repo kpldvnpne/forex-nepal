@@ -128,7 +128,7 @@
       "class": "B",
       "forex_page": "https://garimabank.com.np/forex?date=yyyy-mm-dd&currency=",
       "handle_date": true,
-      "table": true
+      "query_selector": "table.forex-table.table"
     },
     {
       "name": "Shine Resunga Development Bank Limited",

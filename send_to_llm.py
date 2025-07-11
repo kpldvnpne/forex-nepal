@@ -166,7 +166,7 @@ async def open_bank_pages(json_file_path, concurrent=False):
                 if bank.get('handle_date', False):
                     await load_with_nepali_date(forex_page, page)
                 else:
-                    await page.goto(forex_page, wait_until='domcontentloaded', timeout=60_000)
+                    await page.goto(forex_page, wait_until='domcontentloaded', timeout=240_000)
 
                 # Access content in different way
                 html = None
