@@ -128,28 +128,30 @@
 </head>
 <body>
 
-    <div class="container">
-        <h1>Forex Rate Comparison</h1>
-        <h3>Compare Forex Rate across banks in Nepal</h3>
+    <article class="container">
+        <header>
+            <h1>Forex Rate Comparison</h1>
+            <h3>Compare Forex Rate across banks in Nepal</h3>
 
-        <p>
-            Tired of looking at each bank's Forex page to decide which bank to Swift Transfer to?
-            You came to the right place. This site aggregates all
-            Forex across websites and allows you to sort by each category. You can also go to each bank's page
-            to cross check by clicking on the bank's name.
-        </p>
+            <p>
+                Tired of looking at each bank's Forex page to decide which bank to Swift Transfer to?
+                You came to the right place. This site aggregates all
+                Forex across websites and allows you to sort by each category. You can also go to each bank's page
+                to cross check by clicking on the bank's name.
+            </p>
+        </header>
 
-        <div class="controls">
+        <nav class="controls">
             <div class="currency-selector" id="currency-controls" style="display: none;">
                 <label for="currencySelector">Select Currency:</label>
                 <select id="currencySelector"></select>
             </div>
-        </div>
+        </nav>
 
-        <div id="table-container">
+        <main id="table-container">
             <p id="initial-message">Loading rate data...</p>
-        </div>
-    </div>
+        </main>
+    </article>
 
     <script>
         document.addEventListener('DOMContentLoaded', () => {
