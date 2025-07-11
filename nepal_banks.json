@@ -121,7 +121,7 @@
       "name": "Muktinath Bikas Bank Limited",
       "class": "B",
       "forex_page": "https://www.muktinathbank.com.np/forex",
-      "parse_whole_page": true
+      "query_selector": "section.forex-list>div.forex-list-wrapper"
     },
     {
       "name": "Garima Bikas Bank Limited",
