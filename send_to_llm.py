@@ -256,7 +256,7 @@ async def open_bank_pages(json_file_path, concurrent=False):
 async def main():
     """Main function to run the program"""
     json_file_path = "nepal_banks.json"
-    await open_bank_pages(json_file_path, concurrent=True)
+    await open_bank_pages(json_file_path, concurrent=False)
 
 if __name__ == "__main__":
     # Run the async function
