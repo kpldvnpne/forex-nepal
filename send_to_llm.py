@@ -153,10 +153,6 @@ async def open_bank_pages(json_file_path, concurrent=False):
                 if bank.get('anti_robot', False):
                     return
 
-                # TODO: Handle parse whole page, I would need to either use the PDF or the whole page and let gemini parse it
-                if bank.get('parse_whole_page', False):
-                    return
-
                 # Create a new page (tab)
                 page = await context.new_page()
 
@@ -166,7 +162,7 @@ async def open_bank_pages(json_file_path, concurrent=False):
                 if bank.get('handle_date', False):
                     await load_with_nepali_date(forex_page, page)
                 else:
-                    await page.goto(forex_page, wait_until='domcontentloaded', timeout=240_000)
+                    await page.goto(forex_page, wait_until='domcontentloaded', timeout=60_000)
 
                 # Access content in different way
                 html = None
@@ -188,7 +184,7 @@ async def open_bank_pages(json_file_path, concurrent=False):
                 elif 'api' in bank:
                     api = bank['api']
                     api = api.replace('yyyy-mm-dd', '')
-                    response = await page.wait_for_event("response", lambda r: api in r.url, timeout=30_000)
+                    response = await page.wait_for_event("response", lambda r: api in r.url, timeout=100_000)
                     json_data = await response.json()
                 elif 'select_link' in bank:
                     # Only made for Himalayan
