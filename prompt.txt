@@ -111,6 +111,8 @@ You must follow these rules precisely:
 }
 ```
 
+However, note that the input could be a json as well instead of HTML. Even in that case, the output should look like the one listed above.
+
 ---
 
 Now, process the following data and provide only the JSON object as your response.
