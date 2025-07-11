@@ -1,6 +1,7 @@
 {
     "all_banks": [
         {
+            "published_date": "2024-07-28T12:00:00Z",
             "rates": [
                 {
                     "currency": {
@@ -249,8 +250,8 @@
                         "unit": 100
                     },
                     "rates": {
-                        "buy_cash": 160.0,
-                        "buy_non_cash": 160.0,
+                        "buy_cash": 160,
+                        "buy_non_cash": 160,
                         "sell": 160.15
                     }
                 },
@@ -269,9 +270,10 @@
             ],
             "bank_name": "Nepal Bank Limited",
             "source_url": "https://www.nepalbank.com.np/forex",
-            "fetch_datetime_utc": "2025-07-10T16:48:56.197632Z"
+            "fetch_datetime_utc": "2025-07-10T18:15:21.728535Z"
         },
         {
+            "published_date": "2024-07-30T12:00:00Z",
             "rates": [
                 {
                     "currency": {
@@ -540,13 +542,14 @@
             ],
             "bank_name": "Agricultural Development Bank Limited",
             "source_url": "https://www.adbl.gov.np/forex",
-            "fetch_datetime_utc": "2025-07-10T16:48:25.804615Z"
+            "fetch_datetime_utc": "2025-07-10T18:14:54.759240Z"
         },
         {
+            "published_date": "YYYY-MM-DDTHH:MM:SSZ",
             "rates": [
                 {
                     "currency": {
-                        "name": "US Dollar",
+                        "name": "USD",
                         "iso_code": "USD",
                         "unit": 1
                     },
@@ -811,9 +814,10 @@
             ],
             "bank_name": "Rastriya Banijya Bank Limited",
             "source_url": "https://www.rbb.com.np/forexdetail",
-            "fetch_datetime_utc": "2025-07-10T16:50:55.692111Z"
+            "fetch_datetime_utc": "2025-07-10T18:16:28.542584Z"
         },
         {
+            "published_date": "2024-07-30T12:00:00Z",
             "rates": [
                 {
                     "currency": {
@@ -1082,9 +1086,10 @@
             ],
             "bank_name": "Standard Chartered Bank Nepal Limited",
             "source_url": "https://www.sc.com/np/forex-solutions/",
-            "fetch_datetime_utc": "2025-07-10T16:48:06.621051Z"
+            "fetch_datetime_utc": "2025-07-10T18:14:40.785939Z"
         },
         {
+            "published_date": "2024-05-18T12:30:00Z",
             "rates": [
                 {
                     "currency": {
@@ -1196,7 +1201,7 @@
                 },
                 {
                     "currency": {
-                        "name": "British Pound",
+                        "name": "Pound Sterling",
                         "iso_code": "GBP",
                         "unit": 1
                     },
@@ -1353,7 +1358,7 @@
             ],
             "bank_name": "Nepal SBI Bank Limited",
             "source_url": "https://nsbl.statebank/exchange-rate",
-            "fetch_datetime_utc": "2025-07-10T16:49:51.947096Z"
+            "fetch_datetime_utc": "2025-07-10T18:16:57.174769Z"
         },
         null,
         {
@@ -1625,9 +1630,10 @@
             ],
             "bank_name": "Nepal Investment Mega Bank Limited",
             "source_url": "https://www.nimb.com.np/digital-banking/forex",
-            "fetch_datetime_utc": "2025-07-10T16:49:26.763090Z"
+            "fetch_datetime_utc": "2025-07-10T18:17:17.957289Z"
         },
         {
+            "published_date": "YYYY-MM-DDTHH:MM:SSZ",
             "rates": [
                 {
                     "currency": {
@@ -1763,7 +1769,7 @@
                 },
                 {
                     "currency": {
-                        "name": "Qatari Riyal",
+                        "name": "Qatari Rial",
                         "iso_code": "QAR",
                         "unit": 1
                     },
@@ -1896,9 +1902,10 @@
             ],
             "bank_name": "Himalayan Bank Limited",
             "source_url": "https://www.himalayanbank.com/int/rate/listbyDate.php",
-            "fetch_datetime_utc": "2025-07-10T16:52:21.351994Z"
+            "fetch_datetime_utc": "2025-07-10T18:19:32.605489Z"
         },
         {
+            "published_date": "2023-10-27T12:00:00Z",
             "rates": [
                 {
                     "currency": {
@@ -2107,7 +2114,7 @@
                 {
                     "currency": {
                         "name": "South Korean Won",
-                        "iso_code": "KRW",
+                        "iso_code": "KRWR",
                         "unit": 100
                     },
                     "rates": {
@@ -2167,9 +2174,10 @@
             ],
             "bank_name": "Global IME Bank Limited",
             "source_url": "https://www.globalimebank.com/forex-rates/",
-            "fetch_datetime_utc": "2025-07-10T16:49:05.958072Z"
+            "fetch_datetime_utc": "2025-07-10T18:15:45.109070Z"
         },
         {
+            "published_date": "2023-10-27T10:00:00Z",
             "rates": [
                 {
                     "currency": {
@@ -2438,7 +2446,7 @@
             ],
             "bank_name": "NMB Bank Limited",
             "source_url": "https://www.nmb.com.np/forex",
-            "fetch_datetime_utc": "2025-07-10T16:50:08.962337Z"
+            "fetch_datetime_utc": "2025-07-10T18:17:53.997928Z"
         },
         {
             "rates": [
@@ -2636,7 +2644,7 @@
                 },
                 {
                     "currency": {
-                        "name": "South Korean Won",
+                        "name": "S. Korean Won",
                         "iso_code": "KRW",
                         "unit": 100
                     },
@@ -2709,9 +2717,10 @@
             ],
             "bank_name": "Machhapuchchhre Bank Limited",
             "source_url": "https://www.machbank.com/forex",
-            "fetch_datetime_utc": "2025-07-10T16:50:31.798732Z"
+            "fetch_datetime_utc": "2025-07-10T18:16:16.125015Z"
         },
         {
+            "published_date": "2025-07-10T10:00:00Z",
             "rates": [
                 {
                     "currency": {
@@ -2980,9 +2989,10 @@
             ],
             "bank_name": "Kumari Bank Limited",
             "source_url": "https://www.kumaribank.com/forex",
-            "fetch_datetime_utc": "2025-07-10T16:49:16.038218Z"
+            "fetch_datetime_utc": "2025-07-10T18:15:59.412501Z"
         },
         {
+            "published_date": "2023-10-27T10:00:00Z",
             "rates": [
                 {
                     "currency": {
@@ -3118,7 +3128,7 @@
                 },
                 {
                     "currency": {
-                        "name": "Chinese Yuan",
+                        "name": "Chinese Yuan Renminbi",
                         "iso_code": "CNY",
                         "unit": 1
                     },
@@ -3251,16 +3261,17 @@
             ],
             "bank_name": "Laxmi Sunrise Bank Limited",
             "source_url": "https://www.laxmisunrise.com/rates/forex/",
-            "fetch_datetime_utc": "2025-07-10T16:52:02.665434Z"
+            "fetch_datetime_utc": "2025-07-10T18:18:19.842201Z"
         },
         null,
         null,
         null,
         {
+            "published_date": "2023-10-27T12:00:00Z",
             "rates": [
                 {
                     "currency": {
-                        "name": "US Dollar",
+                        "name": "Us Dollar",
                         "iso_code": "USD",
                         "unit": 1
                     },
@@ -3308,7 +3319,7 @@
                 },
                 {
                     "currency": {
-                        "name": "Swiss Franc",
+                        "name": "Swiss Frank",
                         "iso_code": "CHF",
                         "unit": 1
                     },
@@ -3380,7 +3391,7 @@
                 },
                 {
                     "currency": {
-                        "name": "Saudi Riyal",
+                        "name": "Saudi Rial",
                         "iso_code": "SAR",
                         "unit": 1
                     },
@@ -3392,7 +3403,7 @@
                 },
                 {
                     "currency": {
-                        "name": "Thai Baht",
+                        "name": "Thai Bhat",
                         "iso_code": "THB",
                         "unit": 1
                     },
@@ -3428,7 +3439,7 @@
                 },
                 {
                     "currency": {
-                        "name": "Hong Kong Dollar",
+                        "name": "Hongkong Dollar",
                         "iso_code": "HKD",
                         "unit": 1
                     },
@@ -3440,7 +3451,7 @@
                 },
                 {
                     "currency": {
-                        "name": "Danish Krone",
+                        "name": "Danish Kroner",
                         "iso_code": "DKK",
                         "unit": 1
                     },
@@ -3452,7 +3463,7 @@
                 },
                 {
                     "currency": {
-                        "name": "Swedish Krona",
+                        "name": "Swedish Kroner",
                         "iso_code": "SEK",
                         "unit": 1
                     },
@@ -3464,7 +3475,7 @@
                 },
                 {
                     "currency": {
-                        "name": "South Korean Won",
+                        "name": "S. Korean Won",
                         "iso_code": "KRW",
                         "unit": 100
                     },
@@ -3525,9 +3536,10 @@
             ],
             "bank_name": "Prabhu Bank Limited",
             "source_url": "https://www.prabhubank.com/forex",
-            "fetch_datetime_utc": "2025-07-10T16:51:32.589539Z"
+            "fetch_datetime_utc": "2025-07-10T18:19:09.906161Z"
         },
         {
+            "published_date": "2023-10-26T00:00:00Z",
             "rates": [
                 {
                     "currency": {
@@ -3598,18 +3610,6 @@
                     "rates": {
                         "buy_cash": 89.62,
                         "buy_non_cash": 89.62,
-                        "sell": 90.51
-                    }
-                },
-                {
-                    "currency": {
-                        "name": "Australian Dollar Cash",
-                        "iso_code": "AUD",
-                        "unit": 1
-                    },
-                    "rates": {
-                        "buy_cash": null,
-                        "buy_non_cash": null,
                         "sell": 90.51
                     }
                 },
@@ -3808,15 +3808,16 @@
             ],
             "bank_name": "Siddhartha Bank Limited",
             "source_url": "https://www.siddharthabank.com/forex",
-            "fetch_datetime_utc": "2025-07-10T16:51:20.628250Z"
+            "fetch_datetime_utc": "2025-07-10T18:18:57.670326Z"
         },
         null,
         null,
         {
+            "published_date": "2023-10-27T12:00:00Z",
             "rates": [],
             "bank_name": "Garima Bikas Bank Limited",
             "source_url": "https://garimabank.com.np/forex?date=yyyy-mm-dd&currency=",
-            "fetch_datetime_utc": "2025-07-10T16:52:04.966336Z"
+            "fetch_datetime_utc": "2025-07-10T18:19:37.088104Z"
         },
         null,
         {
@@ -4034,7 +4035,7 @@
                     "rates": {
                         "buy_cash": 9.91,
                         "buy_non_cash": 9.91,
-                        "sell": 10.0
+                        "sell": 10
                     }
                 },
                 {
@@ -4044,8 +4045,8 @@
                         "unit": 100
                     },
                     "rates": {
-                        "buy_cash": 160.0,
-                        "buy_non_cash": 160.0,
+                        "buy_cash": 160,
+                        "buy_non_cash": 160,
                         "sell": 160.15
                     }
                 },
@@ -4076,9 +4077,10 @@
             ],
             "bank_name": "Mahalaxmi Bikas Bank Limited",
             "source_url": "https://www.mahalaxmibank.com/forex",
-            "fetch_datetime_utc": "2025-07-10T16:48:36.081177Z"
+            "fetch_datetime_utc": "2025-07-10T18:15:08.081677Z"
         },
         {
+            "published_date": "2023-10-27T12:00:00Z",
             "rates": [
                 {
                     "currency": {
@@ -4106,7 +4108,7 @@
                 },
                 {
                     "currency": {
-                        "name": "Indian Rupee",
+                        "name": "Indian Rupees",
                         "iso_code": "INR",
                         "unit": 100
                     },
@@ -4335,9 +4337,10 @@
             ],
             "bank_name": "Lumbini Bikas Bank Limited",
             "source_url": "https://www.lumbinibikasbank.com/forex",
-            "fetch_datetime_utc": "2025-07-10T16:51:49.710133Z"
+            "fetch_datetime_utc": "2025-07-10T18:17:40.424752Z"
         },
         {
+            "published_date": "2024-07-30T12:00:00Z",
             "rates": [
                 {
                     "currency": {
@@ -4438,7 +4441,7 @@
             ],
             "bank_name": "Sangrila Development Bank Limited",
             "source_url": "https://shangrilabank.com/forex",
-            "fetch_datetime_utc": "2025-07-10T16:48:44.223997Z"
+            "fetch_datetime_utc": "2025-07-10T18:17:26.981799Z"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "all_banks": [
         {
-            "published_date": "2023-10-27T10:00:00Z",
+            "published_date": "2024-07-28T12:00:00Z",
             "rates": [
                 {
                     "currency": {
@@ -250,8 +250,8 @@
                         "unit": 100
                     },
                     "rates": {
-                        "buy_cash": 160.0,
-                        "buy_non_cash": 160.0,
+                        "buy_cash": 160,
+                        "buy_non_cash": 160,
                         "sell": 160.15
                     }
                 },
@@ -270,10 +270,10 @@
             ],
             "bank_name": "Nepal Bank Limited",
             "source_url": "https://www.nepalbank.com.np/forex",
-            "fetch_datetime_utc": "2025-07-10T17:46:13.428573Z"
+            "fetch_datetime_utc": "2025-07-10T18:15:21.728535Z"
         },
         {
-            "published_date": "YYYY-MM-DDTHH:MM:SSZ",
+            "published_date": "2024-07-30T12:00:00Z",
             "rates": [
                 {
                     "currency": {
@@ -397,7 +397,7 @@
                 },
                 {
                     "currency": {
-                        "name": "Qatari Riyal",
+                        "name": "Qatari Rial",
                         "iso_code": "QAR",
                         "unit": 1
                     },
@@ -542,14 +542,14 @@
             ],
             "bank_name": "Agricultural Development Bank Limited",
             "source_url": "https://www.adbl.gov.np/forex",
-            "fetch_datetime_utc": "2025-07-10T17:45:51.916865Z"
+            "fetch_datetime_utc": "2025-07-10T18:14:54.759240Z"
         },
         {
-            "published_date": "2023-10-26T10:00:00Z",
+            "published_date": "YYYY-MM-DDTHH:MM:SSZ",
             "rates": [
                 {
                     "currency": {
-                        "name": "US Dollar",
+                        "name": "USD",
                         "iso_code": "USD",
                         "unit": 1
                     },
@@ -801,7 +801,7 @@
                 },
                 {
                     "currency": {
-                        "name": "Indian Rupee",
+                        "name": "Indian Currency",
                         "iso_code": "INR",
                         "unit": 100
                     },
@@ -814,9 +814,10 @@
             ],
             "bank_name": "Rastriya Banijya Bank Limited",
             "source_url": "https://www.rbb.com.np/forexdetail",
-            "fetch_datetime_utc": "2025-07-10T17:47:32.781796Z"
+            "fetch_datetime_utc": "2025-07-10T18:16:28.542584Z"
         },
         {
+            "published_date": "2024-07-30T12:00:00Z",
             "rates": [
                 {
                     "currency": {
@@ -1085,10 +1086,10 @@
             ],
             "bank_name": "Standard Chartered Bank Nepal Limited",
             "source_url": "https://www.sc.com/np/forex-solutions/",
-            "fetch_datetime_utc": "2025-07-10T17:45:25.433346Z"
+            "fetch_datetime_utc": "2025-07-10T18:14:40.785939Z"
         },
         {
-            "published_date": "2023-10-27T10:00:00Z",
+            "published_date": "2024-05-18T12:30:00Z",
             "rates": [
                 {
                     "currency": {
@@ -1200,7 +1201,7 @@
                 },
                 {
                     "currency": {
-                        "name": "British Pound",
+                        "name": "Pound Sterling",
                         "iso_code": "GBP",
                         "unit": 1
                     },
@@ -1357,11 +1358,10 @@
             ],
             "bank_name": "Nepal SBI Bank Limited",
             "source_url": "https://nsbl.statebank/exchange-rate",
-            "fetch_datetime_utc": "2025-07-10T17:49:10.032309Z"
+            "fetch_datetime_utc": "2025-07-10T18:16:57.174769Z"
         },
         null,
         {
-            "published_date": "2024-05-15T10:00:00Z",
             "rates": [
                 {
                     "currency": {
@@ -1630,10 +1630,10 @@
             ],
             "bank_name": "Nepal Investment Mega Bank Limited",
             "source_url": "https://www.nimb.com.np/digital-banking/forex",
-            "fetch_datetime_utc": "2025-07-10T17:47:02.472618Z"
+            "fetch_datetime_utc": "2025-07-10T18:17:17.957289Z"
         },
         {
-            "published_date": "2023-10-27T12:00:00Z",
+            "published_date": "YYYY-MM-DDTHH:MM:SSZ",
             "rates": [
                 {
                     "currency": {
@@ -1680,7 +1680,7 @@
                     "rates": {
                         "buy_cash": 185.15,
                         "buy_non_cash": 185.15,
-                        "sell": 187.0
+                        "sell": 187
                     }
                 },
                 {
@@ -1769,7 +1769,7 @@
                 },
                 {
                     "currency": {
-                        "name": "Qatari Riyal",
+                        "name": "Qatari Rial",
                         "iso_code": "QAR",
                         "unit": 1
                     },
@@ -1894,18 +1894,18 @@
                         "unit": 100
                     },
                     "rates": {
-                        "buy_cash": 160.0,
-                        "buy_non_cash": 160.0,
+                        "buy_cash": 160,
+                        "buy_non_cash": 160,
                         "sell": 160.15
                     }
                 }
             ],
             "bank_name": "Himalayan Bank Limited",
             "source_url": "https://www.himalayanbank.com/int/rate/listbyDate.php",
-            "fetch_datetime_utc": "2025-07-10T17:50:26.765845Z"
+            "fetch_datetime_utc": "2025-07-10T18:19:32.605489Z"
         },
         {
-            "published_date": "YYYY-MM-DDTHH:MM:SSZ",
+            "published_date": "2023-10-27T12:00:00Z",
             "rates": [
                 {
                     "currency": {
@@ -2174,10 +2174,10 @@
             ],
             "bank_name": "Global IME Bank Limited",
             "source_url": "https://www.globalimebank.com/forex-rates/",
-            "fetch_datetime_utc": "2025-07-10T17:46:23.251386Z"
+            "fetch_datetime_utc": "2025-07-10T18:15:45.109070Z"
         },
         {
-            "published_date": "YYYY-MM-DDTHH:MM:SSZ",
+            "published_date": "2023-10-27T10:00:00Z",
             "rates": [
                 {
                     "currency": {
@@ -2446,10 +2446,9 @@
             ],
             "bank_name": "NMB Bank Limited",
             "source_url": "https://www.nmb.com.np/forex",
-            "fetch_datetime_utc": "2025-07-10T17:48:56.320114Z"
+            "fetch_datetime_utc": "2025-07-10T18:17:53.997928Z"
         },
         {
-            "published_date": "2024-07-30T12:00:00Z",
             "rates": [
                 {
                     "currency": {
@@ -2652,7 +2651,7 @@
                     "rates": {
                         "buy_cash": 9.91,
                         "buy_non_cash": 9.91,
-                        "sell": 10
+                        "sell": 10.0
                     }
                 },
                 {
@@ -2710,19 +2709,290 @@
                         "unit": 100
                     },
                     "rates": {
-                        "buy_cash": 160,
-                        "buy_non_cash": 160,
+                        "buy_cash": 160.0,
+                        "buy_non_cash": 160.0,
                         "sell": 160.15
                     }
                 }
             ],
             "bank_name": "Machhapuchchhre Bank Limited",
             "source_url": "https://www.machbank.com/forex",
-            "fetch_datetime_utc": "2025-07-10T17:46:50.622206Z"
+            "fetch_datetime_utc": "2025-07-10T18:16:16.125015Z"
         },
-        null,
         {
-            "published_date": "YYYY-MM-DDTHH:MM:SSZ",
+            "published_date": "2025-07-10T10:00:00Z",
+            "rates": [
+                {
+                    "currency": {
+                        "name": "Indian Rupee",
+                        "iso_code": "INR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 1.6,
+                        "buy_non_cash": 1.6,
+                        "sell": 1.6015
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "U.S. Dollar",
+                        "iso_code": "USD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 136.65,
+                        "buy_non_cash": 136.65,
+                        "sell": 137.25
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "European Euro",
+                        "iso_code": "EUR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 159.93,
+                        "buy_non_cash": 159.93,
+                        "sell": 161.53
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "UK Pound Sterling",
+                        "iso_code": "GBP",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 185.38,
+                        "buy_non_cash": 185.38,
+                        "sell": 187.23
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swiss Franc",
+                        "iso_code": "CHF",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 171.14,
+                        "buy_non_cash": 171.14,
+                        "sell": 172.85
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Australian Dollar",
+                        "iso_code": "AUD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 89.2,
+                        "buy_non_cash": 89.2,
+                        "sell": 90.09
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Canadian Dollar",
+                        "iso_code": "CAD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 99.35,
+                        "buy_non_cash": 99.35,
+                        "sell": 100.34
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Singapore Dollar",
+                        "iso_code": "SGD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 106.2,
+                        "buy_non_cash": 106.2,
+                        "sell": 107.26
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Japanese Yen",
+                        "iso_code": "JPY",
+                        "unit": 10
+                    },
+                    "rates": {
+                        "buy_cash": 9.32,
+                        "buy_non_cash": 9.32,
+                        "sell": 9.41
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Chinese Yuan",
+                        "iso_code": "CNY",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 18.89,
+                        "buy_non_cash": 18.89,
+                        "sell": 19.08
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Saudi Riyal",
+                        "iso_code": "SAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.22,
+                        "buy_non_cash": 36.22,
+                        "sell": 36.58
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Qatari Riyal",
+                        "iso_code": "QAR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.85,
+                        "buy_non_cash": 36.85,
+                        "sell": 37.22
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Thai Baht",
+                        "iso_code": "THB",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 4.15,
+                        "buy_non_cash": 4.15,
+                        "sell": 4.19
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "UAE Dirham",
+                        "iso_code": "AED",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 36.83,
+                        "buy_non_cash": 36.83,
+                        "sell": 37.2
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Malaysian Ringgit",
+                        "iso_code": "MYR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 31.87,
+                        "buy_non_cash": 31.87,
+                        "sell": 32.19
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "South Korean Won",
+                        "iso_code": "KRW",
+                        "unit": 100
+                    },
+                    "rates": {
+                        "buy_cash": 9.95,
+                        "buy_non_cash": 9.95,
+                        "sell": 10.05
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Swedish Kroner",
+                        "iso_code": "SEK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 14.27,
+                        "buy_non_cash": 14.27,
+                        "sell": 14.41
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Danish Kroner",
+                        "iso_code": "DKK",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 21.38,
+                        "buy_non_cash": 21.38,
+                        "sell": 21.59
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Hong Kong Dollar",
+                        "iso_code": "HKD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 17.32,
+                        "buy_non_cash": 17.32,
+                        "sell": 17.49
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Kuwaity Dinar",
+                        "iso_code": "KWD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 442.93,
+                        "buy_non_cash": 442.93,
+                        "sell": 447.36
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Bahrain Dinar",
+                        "iso_code": "BHD",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 358.88,
+                        "buy_non_cash": 358.88,
+                        "sell": 362.47
+                    }
+                },
+                {
+                    "currency": {
+                        "name": "Omani Riyal",
+                        "iso_code": "OMR",
+                        "unit": 1
+                    },
+                    "rates": {
+                        "buy_cash": 351.41,
+                        "buy_non_cash": 351.41,
+                        "sell": 354.92
+                    }
+                }
+            ],
+            "bank_name": "Kumari Bank Limited",
+            "source_url": "https://www.kumaribank.com/forex",
+            "fetch_datetime_utc": "2025-07-10T18:15:59.412501Z"
+        },
+        {
+            "published_date": "2023-10-27T10:00:00Z",
             "rates": [
                 {
                     "currency": {
@@ -2858,7 +3128,7 @@
                 },
                 {
                     "currency": {
-                        "name": "Chinese Yuan",
+                        "name": "Chinese Yuan Renminbi",
                         "iso_code": "CNY",
                         "unit": 1
                     },
@@ -2991,13 +3261,13 @@
             ],
             "bank_name": "Laxmi Sunrise Bank Limited",
             "source_url": "https://www.laxmisunrise.com/rates/forex/",
-            "fetch_datetime_utc": "2025-07-10T17:49:37.403815Z"
+            "fetch_datetime_utc": "2025-07-10T18:18:19.842201Z"
         },
         null,
         null,
         null,
         {
-            "published_date": "2024-01-20T10:00:00Z",
+            "published_date": "2023-10-27T12:00:00Z",
             "rates": [
                 {
                     "currency": {
@@ -3266,10 +3536,10 @@
             ],
             "bank_name": "Prabhu Bank Limited",
             "source_url": "https://www.prabhubank.com/forex",
-            "fetch_datetime_utc": "2025-07-10T17:49:51.536924Z"
+            "fetch_datetime_utc": "2025-07-10T18:19:09.906161Z"
         },
         {
-            "published_date": "2024-05-15T12:00:00Z",
+            "published_date": "2023-10-26T00:00:00Z",
             "rates": [
                 {
                     "currency": {
@@ -3285,7 +3555,7 @@
                 },
                 {
                     "currency": {
-                        "name": "US Dollar",
+                        "name": "Us Dollar",
                         "iso_code": "USD",
                         "unit": 1
                     },
@@ -3340,18 +3610,6 @@
                     "rates": {
                         "buy_cash": 89.62,
                         "buy_non_cash": 89.62,
-                        "sell": 90.51
-                    }
-                },
-                {
-                    "currency": {
-                        "name": "Australian Dollar Cash",
-                        "iso_code": "AUD",
-                        "unit": 1
-                    },
-                    "rates": {
-                        "buy_cash": null,
-                        "buy_non_cash": null,
                         "sell": 90.51
                     }
                 },
@@ -3465,7 +3723,7 @@
                 },
                 {
                     "currency": {
-                        "name": "South Korean Won",
+                        "name": "S. Korean Won",
                         "iso_code": "KRW",
                         "unit": 100
                     },
@@ -3550,20 +3808,19 @@
             ],
             "bank_name": "Siddhartha Bank Limited",
             "source_url": "https://www.siddharthabank.com/forex",
-            "fetch_datetime_utc": "2025-07-10T17:48:06.037230Z"
+            "fetch_datetime_utc": "2025-07-10T18:18:57.670326Z"
         },
         null,
         null,
         {
-            "published_date": "YYYY-MM-DDTHH:MM:SSZ",
+            "published_date": "2023-10-27T12:00:00Z",
             "rates": [],
             "bank_name": "Garima Bikas Bank Limited",
             "source_url": "https://garimabank.com.np/forex?date=yyyy-mm-dd&currency=",
-            "fetch_datetime_utc": "2025-07-10T17:49:54.651875Z"
+            "fetch_datetime_utc": "2025-07-10T18:19:37.088104Z"
         },
         null,
         {
-            "published_date": "2023-10-27T00:00:00Z",
             "rates": [
                 {
                     "currency": {
@@ -3820,7 +4077,7 @@
             ],
             "bank_name": "Mahalaxmi Bikas Bank Limited",
             "source_url": "https://www.mahalaxmibank.com/forex",
-            "fetch_datetime_utc": "2025-07-10T17:45:38.999842Z"
+            "fetch_datetime_utc": "2025-07-10T18:15:08.081677Z"
         },
         {
             "published_date": "2023-10-27T12:00:00Z",
@@ -3851,7 +4108,7 @@
                 },
                 {
                     "currency": {
-                        "name": "Indian Rupee",
+                        "name": "Indian Rupees",
                         "iso_code": "INR",
                         "unit": 100
                     },
@@ -4067,7 +4324,7 @@
                 },
                 {
                     "currency": {
-                        "name": "Bahrain Dinar",
+                        "name": "Bahraini Dinar",
                         "iso_code": "BHD",
                         "unit": 1
                     },
@@ -4080,7 +4337,7 @@
             ],
             "bank_name": "Lumbini Bikas Bank Limited",
             "source_url": "https://www.lumbinibikasbank.com/forex",
-            "fetch_datetime_utc": "2025-07-10T17:48:34.837529Z"
+            "fetch_datetime_utc": "2025-07-10T18:17:40.424752Z"
         },
         {
             "published_date": "2024-07-30T12:00:00Z",
@@ -4184,7 +4441,7 @@
             ],
             "bank_name": "Sangrila Development Bank Limited",
             "source_url": "https://shangrilabank.com/forex",
-            "fetch_datetime_utc": "2025-07-10T17:45:59.505303Z"
+            "fetch_datetime_utc": "2025-07-10T18:17:26.981799Z"
         }
     ]
 }
